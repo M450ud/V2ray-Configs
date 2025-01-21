@@ -4,6 +4,18 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
 </head>
 <body>
   <div id="cf-wrapper">
@@ -591,15 +603,3 @@ vless://telegram-ASinTech@www.asintech.top:8443?type=xhttp&path=telegram-@ASinTe
 vless://telegram-ASinTech@www.asintech.top:8443?type=xhttp&path=telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech&host=&mode=auto&security=reality&pbk=OQAEAbZrrTLruk2I0gXxz5eLJbi6epDgi1CosScaHnk&fp=chrome&sni=docker.com&spx=/#🇫🇮FI_3152_@Surfboardv2ray
 vless://telegram-ASinTech@www.asintech.top:8443?type=xhttp&path=telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech,telegram-@ASinTech&host=&mode=auto&security=reality&pbk=VM8AWlcW6Oj_I1yxWlFPq9L6pj6FHPTwnW0nQ5kb8Rk&fp=chrome&sni=docker.com&spx=/#🇫🇮FI_3153_@Surfboardv2ray
 vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer58osowk.net&type=ws#🇺🇸US_3154_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer63osowk.net&type=ws#🇺🇸US_3155_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer64osowk.net&type=ws#🇺🇸US_3156_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer65osowk.net&type=ws#🇺🇸US_3157_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer66osowk.net&type=ws#🇺🇸US_3158_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer67osowk.net&type=ws#🇺🇸US_3159_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer68osowk.net&type=ws#🇺🇸US_3160_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer68osowk.net&type=ws#🇺🇸US_3161_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer68osowk.net&type=ws#🇺🇸US_3162_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer69osowk.net&type=ws#🇺🇸US_3163_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer69osowk.net&type=ws#🇺🇸US_3164_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer70osowk&type=ws#🇺🇸US_3165_@Surfboardv2ray
-vless://telegram-ArV2ray@151.101.2.216:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=4.fer70osowk&type=ws#🇺🇸US_3166_@Surfboardv2ray
