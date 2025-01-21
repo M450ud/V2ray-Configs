@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.133:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔗 Vauth - 3515
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.101:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 3516
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.64.126:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔗 Vauth - 3517
 vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.187.5:80?security=none&type=splithttp&path=%2Fadmin#🔗 Vauth - 3518
@@ -603,3 +602,4 @@ vless://0de65b37-d62f-11ee-aaa8-00505603e70d@104.16.60.8:443?security=tls&sni=st
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.83.140:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔗 Vauth - 4112
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔗 Vauth - 4113
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.84.154:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔗 Vauth - 4114
+vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@185.155.72.100:28505?type=tcp&host=Fast.com&headerType=http#🔗 Vauth - 4115
