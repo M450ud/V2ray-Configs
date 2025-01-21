@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://755fafcf-10dc-57e6-933d-604b13ac541f@103.113.68.233:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ru1.vless.site#🇷🇺RU_1464_@Surfboardv2ray
 vless://755fafcf-10dc-57e6-933d-604b13ac541f@103.113.68.233:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ru1.vless.site#🇷🇺RU_1465_@Surfboardv2ray
 vless://7562048f-6694-43da-a9ba-c80e92808fff@real.robovn.ir:2042?type=http&host=zula.ir&path=/&security=reality&fp=chrome&sni=ftp.debian.org&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6&spx=/Urhs3IGX4EOavzH#🇩🇪DE_1466_@Surfboardv2ray
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=005188006073.sec1org.com#🇺🇦UA_1467_@Surfboardv2ray
@@ -603,3 +602,4 @@ vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=/telegram-NUFiLTER,telegram-N
 vless://TELEGRAM-NUFiLTER@151.101.2.165:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=&encryption=none&host=Dorzadim.filtero.net&type=ws#🇺🇸US_2061_@Surfboardv2ray
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=6.fidsxss1x.iR&type=ws#🇺🇸US_2062_@Surfboardv2ray
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#🇺🇸US_2063_@Surfboardv2ray
+vless://TELEGRAM-NUFiLTER@151.101.66.228:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Doogh-nufilter.com&type=ws#🇺🇸US_2064_@Surfboardv2ray

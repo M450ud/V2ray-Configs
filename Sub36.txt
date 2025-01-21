@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.47.234:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔗 Vauth - 544
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.207:443?security=tls&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 545
 vless://6865584d-f1ed-4791-9f64-f9544bc14391@104.21.16.1:443?security=tls&sni=join.kiava.fun&type=ws&host=join.kiava.fun&fp=chrome&alpn=h2#🔗 Vauth - 546
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.12.31:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#🔗 Vauth - 547
@@ -603,3 +602,4 @@ vless://0b973691-d6a1-4829-aa24-25a1f40c10e8@188.114.96.4:443?security=tls&sni=P
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.237.49:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔗 Vauth - 1141
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@108.162.193.190:2096?security=tls&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#🔗 Vauth - 1142
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@63.141.128.182:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔗 Vauth - 1143
+vless://4598c05a-9d23-47b1-a971-35fcc6af523b@203.198.16.79:443?security=tls&flow=xtls-rprx-vision&sni=download.globals-download.com&type=tcp&fp=ios#🔗 Vauth - 1144
