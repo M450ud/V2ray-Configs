@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-          <div class="cf-column">
-            <h2 data-translate="what_can_i_do">What can I do?</h2>
-            <p><strong>If you are the owner of this website:</strong><br />you should <a href="https://www.cloudflare.com/login?utm_source=error_100x" target="_blank">login to Cloudflare</a> and check the error logs for ip-api.colaho6124.workers.dev.</p>
-          </div>
-          
         </div>
       </div><!-- /.section -->
 
@@ -603,3 +598,8 @@ vless://4334573e-15b8-4376-94cf-a8aa0ce722b3@178.239.144.176:2015?security=none&
     })
   }
 </script>
+<!--<![endif]-->
+
+
+</head>
+<body>
