@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://26e12893-0109-4ebf-a9c2-792fcc759656@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2,http/1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#@vpnclashfa - 65
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#@vpnclashfa - 64
 vless://240cbf12-5faf-4d54-88f3-583152f9d98f@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2,http/1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#@vpnclashfa - 63
 vless://20da741e-a156-455c-9650-478bc92fdaa9@api.speedtest.net:443?encryption=none&security=tls&sni=api.speedtest.net&alpn=http%2F1.1&fp=firefox&type=ws&host=coo9youcatrsev.com&path=%2F%3Fed%3D443#@vpnclashfa - 62
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?encryption=none&security=tls&sni=alecruiz.pages.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=alecruiz.pages.dev&path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560#@vpnclashfa - 61
@@ -361,8 +363,8 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYTdjYmZjM2ItM2Y1OC00NDIzLTkxMjItOTA4MDU4MGZiYzE1IiwicGFnZV90aW1lIjoxNzM3NTU1NDM1LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjUyLjIzNC40MS4xMTUifQo=";</script>
-<script src="/bzfENuTyK.js"></script>
+<script>window.park = "eyJ1dWlkIjoiN2EzZTk5YmYtN2M1Yy00NjY0LTgxNGMtMjY3ZmRhNzJlZGNlIiwicGFnZV90aW1lIjoxNzM3NTU5MTI5LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjQyLjE3LjU3In0K";</script>
+<script src="/btaPHlGEB.js"></script>
 </body>
 </html>
 
@@ -601,5 +603,3 @@ trojan://telegram-id-directvpn@15.222.88.136:22222?security=tls&sni=trojan.burge
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-3894
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#%F0%9F%87%A8%F0%9F%87%A6CA-81.19.140.31-3638
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8US-107.151.182.253-3280
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.130-3229
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.131-3755
