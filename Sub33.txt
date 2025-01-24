@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    window.addEventListener('DOMContentLoaded', function () {
       var cookieEl = document.getElementById('cookie-alert');
       cookieEl.style.display = 'block';
     })
@@ -21,7 +20,7 @@
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 906e3eefcefc3b41 &bull; 2025-01-24 07:17:48 UTC</small>
+          <small class="heading-ray-id">Ray ID: 906e9f495b327af2 &bull; 2025-01-24 08:23:34 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -46,12 +45,12 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">906e3eefcefc3b41</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">906e9f495b327af2</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.200.183.146</span>
+      <span class="hidden" id="cf-footer-ip">52.234.33.216</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +602,4 @@ vless://8b2485ed-fb6c-4110-96cd-acaf49c1e1dc@81.28.12.12:443?security=tls&sni=gc
 vless://8449dbfa-7e6e-45f1-be1c-7f4bc3047421@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless-ws&host=ca-gdfh5.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20ca-2-1
 vless://17048918-7cc2-4896-87e8-a1f68e168d56@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=is1-hhhd42.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20is-1-1
 vless://c9d9934d-f887-4e77-9347-dacd6ebb343a@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl1-ghdhd.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20nl-1-1
+vless://5466d8cb-8ad1-5fa8-84ea-90971408acd4@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ua1-hfks.maxima.us.kg&encryption=none#Rayan%20-%20SSM%20-%20GC%20-%20ua-1-1

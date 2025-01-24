@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://959c009b-1989-43e4-9cfc-678efa9eed1d@188.245.211.120:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=2.gpairnetwork369.ir#@vpnclashfa - 199
 vless://9516634f-b4a8-492f-8def-386841120722@95.216.172.232:443?mode=multi&security=reality&encryption=none&authority=&pbk=PZePu7dBT--_eTMOtFBdvUpwh2xSEc-7IdibqxxzUDs&fp=chrome&type=grpc&serviceName=LuxyNet&sni=www.icloud.com#@vpnclashfa - 198
 vless://94dd682b-2200-5a85-8133-c985be28d273@185.146.173.76:80/?type=ws&encryption=none&host=De2.vless.site.&path=%2Fvless#@vpnclashfa - 197
 vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.8:443?mode=gun&security=tls&encryption=none&type=grpc&sni=s1.digikala-iranian.org#@vpnclashfa - 196
@@ -603,3 +602,4 @@ vless://0781284d-a777-43f8-b2b3-2a5275af79c2@[::ffff:416d:b858]:22733?security=n
 vless://07325711-16e9-4322-936a-d1d8b00d5015@s14.fastly80-2.hosting-ip.com:80?path=%2FTELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#@vpnclashfa - 17
 vless://07325711-16e9-4322-936a-d1d8b00d5015@mmd.fast.hosting-ip.com:80?path=%2FTELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM-TELEGRAM---PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#@vpnclashfa - 16
 vless://061277e0-aea4-449c-bbeb-05a55fa825df@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#@vpnclashfa - 15
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.80.164.121:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@vpnclashfa - 14
