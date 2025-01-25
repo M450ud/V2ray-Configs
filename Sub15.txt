@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE_2838_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE_2839_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE_2840_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇸🇪SE_2841_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880?type=grpc#🇸🇪SE_2842_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
