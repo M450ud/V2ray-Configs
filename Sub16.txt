@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e4676a6c-cae2-4dc6-8cf9-a3a91c53ea2a@91.107.176.100:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=dd5.atelienaderr.ir&fp=chrome&type=ws&sni=dd5.atelienaderr.ir#🇩🇪DE_2934_@Surfboardv2ray
+vless://e4676a6c-cae2-4dc6-8cf9-a3a91c53ea2a@dd5.atelienaderr.ir:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=dd5.atelienaderr.ir&fp=chrome&type=ws&sni=dd5.atelienaderr.ir#🇩🇪DE_2935_@Surfboardv2ray
+vless://e4676a6c-cae2-4dc6-8cf9-a3a91c53ea2a@dd5.atelienaderr.ir:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=dd5.atelienaderr.ir&fp=chrome&type=ws&sni=dd5.atelienaderr.ir#🇩🇪DE_2936_@Surfboardv2ray
 vless://e496232a-3725-42d4-ac95-d812a3c86cbf@150.241.101.222:29742?security=reality&encryption=none&pbk=fPtoPIDDJIW4pSY8TAFM0BKPA0ELOkX7ssc3i23SXlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=75813316#🇩🇪DE_2937_@Surfboardv2ray
 vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@discord.gg:80?path=/&security=none&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws#🇨🇦CA_2938_@Surfboardv2ray
 vless://e4ebd5b7-b6db-4aee-80de-aa383819215c@www.speedtest.net:2086?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=none&encryption=none&host=fiNland1.httpupgrademowji.bloG.&type=httpupgrade#🇨🇦CA_2939_@Surfboardv2ray
@@ -600,6 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"server" : "aiavnd1.vip.conectinnode.info",
 			"server_port" : 1611,
 			"server_udp_port" : 0,
-			"password" : "mtbv8n",
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_md5",
