@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
+    "authPwd": ""
+  },
   "hotkey": {
     "SwitchSystemProxy": "",
     "SwitchSystemProxyMode": "",
@@ -596,10 +603,3 @@ vless://b5cae08f-58c4-4abf-9afc-8fe6da01f11f@Www.speedtest.net:2052?encryption=n
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?encryption=none&type=ws&path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&host=IsaA1.pAGEs.DEV&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&fragment=tlshello%2C50-100%2C10-50&sni=iSaA1.paGes.DEv#134-%E2%98%A0%EF%B8%8F%2B%40FreeVirGoolNet%2B5
 vless://38aaba72-091b-49b8-c9b7-753d9499615d@81.28.12.12:443?encryption=none&type=ws&path=%2Fabc&host=sepanta.com&security=tls&alpn=h2&fp=android&fragment=tlshello%2C30-80%2C10-50&sni=13dl.net#135-%E8%8D%B7%E5%85%B0_121004023
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.238.2.81:587?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=a.mifeng.us.kg&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C50-100%2C10-50&sni=a.mifeng.us.kg#136-%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B0%F0%9F%87%B7%20KR-140.238.2.81%3A587
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.56.34:443?encryption=none&type=ws&host=7...&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&fragment=tlshello%2C30-80%2C10-50&sni=71Fc1633.4646XHf5DxHxhx56Tfk4fxj46.pAgEs.dEv#137-CF%E4%B8%AD%E8%BD%AC_1210047377
-vless://f9258a62-a2c9-4ecf-ac07-168fae180c01@151.101.128.155:80?encryption=none&type=ws&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%2F%3Fed%3D1024&host=testfast7.v2fast7.com&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&sni=testfast7.v2fast7.com#138-%E7%BE%8E%E5%9B%BD_1210043476
-vless://e60fbed7-5aaf-404e-8fac-fe59093010e5@172.67.73.226:2082?encryption=none&type=httpupgrade&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net%3Fed%3D24695&host=sdfsdurg32-4987sduiovychsliufgi32-4987iyfhoisudhrop32-47i9yfios.vipvipmbl.ir.&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=sdfsdurg32-4987sduiovychsliufgi32-4987iyfhoisudhrop32-47i9yfios.vipvipmbl.ir.#139-CF%E4%B8%AD%E8%BD%AC_1210047768
-vless://5cec5637-d784-40d3-bc08-b7b3f8187005@www.speedtest.net:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2048&host=dl1.gpairnetwork369.com.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&sni=dl1.gpairnetwork369.com.#140-%E6%9C%AA%E7%9F%A5_121004909
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.107:443?encryption=none&type=ws&path=%2Fblue&host=hz.ylks.xyz&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&fragment=tlshello%2C10-50%2C10-50&sni=hz.ylks.xyz#141-%E7%BE%8E%E5%9B%BD_121004153
-vless://c12157ee-a46a-4244-a33e-dfcee356990f@www.parsvds.ir:8080?encryption=none&type=ws&alpn=h2%2Chttp%2F1.1&fp=edge&sni=www.parsvds.ir#142-%E6%9C%AA%E7%9F%A5_121004654
-vless://410431f1-5608-4006-b52b-c0eb7bb8ece0@104.21.28.188:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws105.awscloudfront.net.kiava.fun&alpn=h3%2Ch2%2Chttp%2F1.1&fp=edge&sni=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws105.awscloudfront.net.kiava.fun#143-CF%E4%B8%AD%E8%BD%AC_1210047738
