@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#🇨🇦CA_3108_@Surfboardv2ray
-vless://e95f3bc4-d64c-4908-9131-3575b0d80965@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=1024&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.Bama.ir.p30Download.ir.telewEbion.bmi.ir.Shad.ir.maYket.com.ninisite.toP.&type=httpupgrade#🇨🇦CA_3109_@Surfboardv2ray
-vless://e971e939-c844-4209-8720-e93db30210e3@5.202.75.201:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=tara1.striside.com#🇮🇷IR_3110_@Surfboardv2ray
-vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#🇹🇷TR_3111_@Surfboardv2ray
-vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#🇹🇷TR_3112_@Surfboardv2ray
-vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#🇹🇷TR_3113_@Surfboardv2ray
-vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#🇹🇷TR_3114_@Surfboardv2ray
 vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#🇹🇷TR_3115_@Surfboardv2ray
 vless://e9f2ec6f-1319-42b7-809c-cf776868a8c6@151.101.2.216:80?type=ws&path=/@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY?ed=2048&host=speedtestv2.com&security=none#🇺🇸US_3116_@Surfboardv2ray
 vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4&spx=/&type=tcp&headerType=none#🇳🇱NL_3117_@Surfboardv2ray
@@ -603,3 +596,10 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
