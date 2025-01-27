@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://24d8bbf1-3aa6-4a81-bd82-205b99aa1899@81.90.147.13:51973?type=tcp&path=/&headerType=http&security=none#🇮🇷IR_819_@Surfboardv2ray
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#🇬🇧GB_820_@Surfboardv2ray
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#🇬🇧GB_821_@Surfboardv2ray
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#🇬🇧GB_822_@Surfboardv2ray
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp#🇬🇧GB_823_@Surfboardv2ray
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp#🇬🇧GB_824_@Surfboardv2ray
-vless://24ffb13b-fbbc-466e-c2b4-d65b9d37264c@70.34.194.96:8080?path=/&security=none&encryption=none&type=ws#🇸🇪SE_825_@Surfboardv2ray
-vless://25303e19-5105-5489-90bf-9dac9588ec46@151.101.130.219:80?path=/&security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#🇺🇸US_826_@Surfboardv2ray
-vless://25303e19-5105-5489-90bf-9dac9588ec46@live.skornorth.com:443/?type=ws&encryption=none&host=0-MOSIV2-0.COM&security=tls&sni=live.skornorth.com&fp=chrome#🇺🇸US_827_@Surfboardv2ray
-vless://25303e19-5105-5489-90bf-9dac9588ec46@live.skornorth.com:443?security=tls&encryption=none&host=0-MOSIV2-0.COM&fp=chrome&type=ws&sni=live.skornorth.com#🇺🇸US_828_@Surfboardv2ray
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?encryption=none&security=none&type=ws&host=teleirani.ir&path=/vless-ws/@MARAMBASHI_MARAMBASHI/?ed=2560#🇺🇸US_829_@Surfboardv2ray
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=/vless-ws/@MARAMBASHI_MARAMBASHI/?ed=2560&security=none&encryption=none&host=teleirani.ir&type=ws#🇺🇸US_830_@Surfboardv2ray
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=/vless-ws/@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=teleirani.ir&type=ws#🇺🇸US_831_@Surfboardv2ray
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=/vless-ws/@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=teleirani.ir&type=ws#🇺🇸US_832_@Surfboardv2ray
@@ -603,3 +592,14 @@ vless://6803d696-9541-4bab-8c90-e7f634513ec4@r.iphone-shopp.ir:5843?mode=gun&sec
 vless://6803d696-9541-4bab-8c90-e7f634513ec4@sgoodd.ir.iphone-shopp.ir:5443?mode=gun&security=reality&encryption=none&authority=&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=902736d426f64e34#🇩🇪DE_1416_@Surfboardv2ray
 vless://6842f2ae-8c18-4e30-8a42-d4632a849f98@57.128.178.253:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#🇬🇧GB_1417_@Surfboardv2ray
 vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=/olem/ws?&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_1418_@Surfboardv2ray
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_1419_@Surfboardv2ray
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_1420_@Surfboardv2ray
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_1421_@Surfboardv2ray
+vless://6865584d-f1ed-4791-9f64-f9544bc14391@www.bandmusic.ir:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2&host=join.kiava.fun&fp=chrome&type=ws&sni=join.kiava.fun#🇨🇦CA_1422_@Surfboardv2ray
+vless://68665e7f-31c1-49f4-9347-3e18c18e024b@206.189.117.253:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🇬🇧GB_1423_@Surfboardv2ray
+vless://68665e7f-31c1-49f4-9347-3e18c18e024b@206.189.117.253:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🇬🇧GB_1424_@Surfboardv2ray
+vless://68b0b67a-c480-408f-b49e-78b9b3302cec@www.speedtest.net:80?path=/Telegram-Xv2ry2?ed=512&security=none&encryption=none&host=www.speedtest.net.nl1.70.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.tohidjanebi.xyz.&type=ws#🇨🇦CA_1425_@Surfboardv2ray
+vless://68b0b67a-c480-408f-b49e-78b9b3302cec@www.speedtest.net:80?path=/Telegram-Xv2ry2?ed=512&security=none&encryption=none&host=www.speedtest.net.nl1.70.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.tohidjanebi.xyz.&type=ws#🇨🇦CA_1426_@Surfboardv2ray
+vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@skk.moe:443?path=/?ed=2048&security=tls&encryption=none&host=v2raylandd-89.vmjisexa.workers.Dev&fp=chrome&type=ws&sni=v2raylandd-89.vmjisexa.workers.Dev#🇨🇦CA_1427_@Surfboardv2ray
+vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸US_1428_@Surfboardv2ray
+vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_1429_@Surfboardv2ray
