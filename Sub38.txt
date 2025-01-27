@@ -3,6 +3,32 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+
+
+
+SSHmax GCORE :
+
+vless://7d893f6d-0ed5-48a0-adb3-414ddc2ffc1c@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us53.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20us-1-53
+vless://591f364f-c2f0-4ed0-abba-d0e0387c07c0@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl42.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20nl-1-42
+vless://77e5d1c5-d0bf-4333-8384-f2f800be5fe2@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=us54.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20us-54
+vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=nl43.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20nl-2-43
+vless://eeeab648-7780-4fb4-a00f-0fc991aa70d6@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=fr13.maxima.us.kg&encryption=none#Rayan%20-%20FVM%20-%20GC%20-%20fr-13
+vless://9b1f565d-50fb-445f-832a-d39475989f72@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=it11.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20it-1-11
+vless://dfb6f849-e7d7-4994-80f7-1bd19b593a2a@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=uk35.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20uk-1-35
+vless://31f87594-43b1-4f53-a214-be56478c0e60@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=uk36.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20uk-2-36
+vless://9bb69a35-d123-4f8b-9144-ae2052de7586@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=de17.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20de-1-17
+vless://4b9a3393-6e60-4e27-bb11-f48b80f66f03@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=kz25.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20kz-1-25
+vless://9c20012a-547e-46a8-aaea-1a7400ddee06@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=nl49.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-1-49
+vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=nl50.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-2-50
+vless://29e94bc3-a2d2-4dd2-943d-52ab9dd7754b@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=es-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20es-f-1
+vless://63c526af-a758-4b60-b8c7-dd2b3f41cf22@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=tr-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20tr-f-1
+vless://f8f1763f-2411-4170-903d-0ad30a49d1c5@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=ca-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20ca-f-1
+vless://7beb2597-f767-4dd4-993e-2cb3c41be5a2@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=jp-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20jp-f-1
+vless://3700dfa5-2bc9-4389-bcb5-7dd85668d07d@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=hk-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20hk-f-1
+vless://77e5d1c5-d0bf-4333-8384-f2f800be5fe2@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=us-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20us-f-1
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWQtMS1yLTEubWF4aW1hLnVzLmtnIiwiaWQiOiIxYWUwZDgxOC0xMDgxLTRlNDAtYWY5NC02MWU3MWZjNDdhN2QiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSkFHT0FOU1NILyIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gVURDIC0gR0MgLSBpZC0xLTEiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWQtMS1yLTIubWF4aW1hLnVzLmtnIiwiaWQiOiI2NzY4ZmFiNS01MjlhLTQ0MGEtOThlZS0zNGM3ZDg2NTZlNTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSkFHT0FOU1NILyIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gVURDIC0gR0MgLSBpZC0xLTIiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://1f6fa0d9-2afb-4671-8972-297b62d3cc48@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/serverssh&host=pl-r-1.maxima.us.kg&encryption=none#Rayan%20-%20SVS%20-%20GC%20-%20pl-1-1
 vless://81474e9a-9c28-44f1-a32d-bbad5872da4f@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/serverssh&host=id-r-1.maxima.us.kg&encryption=none#Rayan%20-%20SVS%20-%20GC%20-%20id-1-1
 vless://6470135d-ef6c-4417-b99a-248e78e0b544@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/serverssh&host=sg-3d.maxima.us.kg&encryption=none#Rayan%20-%20SVS%20-%20GC%20-%20sg-30-1
 vless://661bd306-b238-4cac-b614-5c6ad2f43a1a@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/serverssh&host=sg-f-1.maxima.us.kg&encryption=none#Rayan%20-%20SVS%20-%20GC%20-%20sg-1-1
@@ -577,22 +603,3 @@ tuic://19c80ce9-0935-41b9-b077-277621316a87:19c80ce9-0935-41b9-b077-277621316a87
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
 hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@hk2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@jp2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@sg2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@kr.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us.zhenshihui.one:48489/#%40V2rayMiner
-hy2://7d1add15-c785-44ed-b1e4-8d4d9bc8ed67@us2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@hk2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@jp.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@jp2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg2.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@kr.zhenshihui.one:48489/#%40V2rayMiner
-hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@us.zhenshihui.one:48489/#%40V2rayMiner
-
