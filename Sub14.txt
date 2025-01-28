@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://4c32d919-8e17-44d4-a00a-b74ea4fd8782@91.107.153.239:43580?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#🇩🇪DE_1073_@Surfboardv2ray
-vless://4cb812f6-3e01-41f9-98cc-c2e0c828a5ca@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=cq5dwe.testsnew.com&type=ws&alpn=http/1.1&host=cq5dwe.testsnew.com&path=/wss#🇨🇦CA_1074_@Surfboardv2ray
 vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=public.satoshi.mom&fp=chrome&type=ws&sni=satoshi.mom#🇨🇦CA_1075_@Surfboardv2ray
 vless://4cdf7967-ea0a-468a-a719-a6e98c49fbfc@live.989bull.com:443?path=/CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080&security=tls&encryption=none&alpn=h2,http/1.1&host=Golestan_VPN.com&fp=chrome&type=ws&sni=live.989bull.com#🇺🇸US_1076_@Surfboardv2ray
 vless://4cf203fb-fc2a-4742-9f97-eeeacfed5721@37.152.191.159:8080/?type=tcp&path=/&host=fast.com&headerType=http&security=none#🇮🇷IR_1077_@Surfboardv2ray
@@ -603,3 +601,5 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv3.cloudjetm.com:443?security=real
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv3.cloudjetm.com:443?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=f785b38130e64177#🇺🇸US_1670_@Surfboardv2ray
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv3.cloudjetn.com:2222?security=none&encryption=none&headerType=none&type=tcp#🇺🇸US_1671_@Surfboardv2ray
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv3.cloudjetn.com:2222?type=tcp&security=none#🇺🇸US_1672_@Surfboardv2ray
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv3.cloudjetn.com:2222?type=tcp&security=none#🇺🇸US_1673_@Surfboardv2ray
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv3.cloudjetn.com:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=f785b38130e64177#🇺🇸US_1674_@Surfboardv2ray

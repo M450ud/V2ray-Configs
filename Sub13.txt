@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.165.134:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#🇬🇧GB_473_@Surfboardv2ray
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#🇸🇪SE_474_@Surfboardv2ray
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#🇸🇪SE_475_@Surfboardv2ray
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#🇸🇪SE_476_@Surfboardv2ray
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#🇸🇪SE_477_@Surfboardv2ray
@@ -603,3 +601,5 @@ vless://4b880ab6-9ac8-49d1-c959-ede4b3c9cb83@speedtest.net:80?path=@XpnTeam/@Xpn
 vless://4c21cfa8-eace-4223-9b91-71660b0678bd@151.101.2.165:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=WHALEV2R.IR&type=ws#🇺🇸US_1070_@Surfboardv2ray
 vless://4c21cfa8-eace-4223-9b91-71660b0678bd@speedtest.net:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=WHALEV2R.IR&type=ws#🇺🇸US_1071_@Surfboardv2ray
 vless://4c32d919-8e17-44d4-a00a-b74ea4fd8782@91.107.153.239:43580?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#🇩🇪DE_1072_@Surfboardv2ray
+vless://4c32d919-8e17-44d4-a00a-b74ea4fd8782@91.107.153.239:43580?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#🇩🇪DE_1073_@Surfboardv2ray
+vless://4cb812f6-3e01-41f9-98cc-c2e0c828a5ca@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=cq5dwe.testsnew.com&type=ws&alpn=http/1.1&host=cq5dwe.testsnew.com&path=/wss#🇨🇦CA_1074_@Surfboardv2ray
