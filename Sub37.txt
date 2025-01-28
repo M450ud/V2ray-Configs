@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443/?type=ws&encryption=none&host=solid.footballlovernews.com&path=%2Fsolid%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=solid.footballlovernews.com#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TEL--ZEDMODEON@[2a12:5940:aa41::2]:25366/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=pinterest.com&fp=chrome&security=reality&pbk=AskqZeTqMVmn3JVvcHunyOffNFn5rRluARxkE-SjrXs&sid=570451e4#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080/?type=ws&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://0012d4b0-1ab7-466b-85e8-8eaf05c6db9c@213.176.0.240:43521/?encryption=none&host=match-cdn.varzesh3.com&type=tcp&headerType=http#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
-vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:2cda::1]:29542/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -466,7 +459,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 90945ab70fa57c36 &bull; 2025-01-28 22:17:45 UTC</small>
+          <small class="heading-ray-id">Ray ID: 9094b2f6090210dc &bull; 2025-01-28 23:17:59 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -491,12 +484,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90945ab70fa57c36</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9094b2f6090210dc</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.169.15.151</span>
+      <span class="hidden" id="cf-footer-ip">20.102.199.211</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +596,10 @@ vless://Parsashonam-82@www.visa.com:8080?path=%2F&security=none&encryption=none&
 vless://58e1a8ae-d8ae-4d71-885d-eeaea5f967e2@185.146.173.94:80?path=%2Fvless&security=none&encryption=none&host=1.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&type=ws#👉🆔 @v2ray_configs_pool
 vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC4yMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJkNWU1YTczLThmYTEtNGM0My1iNjdmLWMwMjExYmEzNGEwMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUyNjIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 vless://24d80106-32ca-4333-bdd0-ce486748e538@ns1.game2download.com:443?type=ws&path=%2F&host=&security=tls&fp=random&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
+vless://c7ccd55f-e9b3-48ae-b34f-dca5556aa872@v2kingfree.zula.ir.game.com.cloudflare.net.0.0.0.0.tech.xn--link-8553cdwd1va.XN--ZFRU1GHYCY7IJZAD72A1I1AW3QE86A.SHOP.:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
+vless://Telegram-%69%70%56%32%52%61%79-ito@185.146.173.58:80?type=ws&path=/Telegram-%69%70%56%32%52%61%79?ed%3D2048&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#👉🆔 @v2ray_configs_pool
+vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @v2ray_configs_pool
+vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @v2ray_configs_pool
+vless://ecac94b8-b67f-470c-d1e7-4472dab1a3a7@23.174.200.123:38396?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#👉🆔 @v2ray_configs_pool
