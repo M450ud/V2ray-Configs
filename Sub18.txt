@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#🇹🇷TR_3080_@Surfboardv2ray
+vless://e9a5e9e1-0bdb-4a58-b7e2-c1f8b95cf260@104.17.234.107:2096?path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&security=tls&encryption=none&host=eiiim.danesh-bonyan.Store&type=ws&sni=Join-Te1gram-EiiiM.danesh-bonyan.Store#🇨🇦CA_3081_@Surfboardv2ray
+vless://e9f2ec6f-1319-42b7-809c-cf776868a8c6@151.101.2.216:80?type=ws&path=/@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY?ed=2048&host=speedtestv2.com&security=none#🇺🇸US_3082_@Surfboardv2ray
+vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4&spx=/&type=tcp&headerType=none#🇳🇱NL_3083_@Surfboardv2ray
 vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4&spx=/&type=tcp&headerType=none#🇳🇱NL_3084_@Surfboardv2ray
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#🇺🇸US_3085_@Surfboardv2ray
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#🇺🇸US_3086_@Surfboardv2ray
@@ -599,7 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"authPass" : "",
 	"autoBan" : false,
 	"sameHostForSameTarget" : false,
-	"keepVisitTime" : 180,
-	"isHideTips" : true,
-	"nodeFeedAutoUpdate" : true,
-	"serverSubscribes" : [
