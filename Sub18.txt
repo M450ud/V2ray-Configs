@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4&spx=/&type=tcp&headerType=none#🇳🇱NL_3111_@Surfboardv2ray
-vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fortune.com&fp=chrome&pbk=brBI6hEf2HIzZjdTQsMtftQodJ3p3KVry5mzgVqvVkU&sid=8cd6d3c4&spx=/&type=tcp&headerType=none#🇳🇱NL_3112_@Surfboardv2ray
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#🇺🇸US_3113_@Surfboardv2ray
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#🇺🇸US_3114_@Surfboardv2ray
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp#🇺🇸US_3115_@Surfboardv2ray
 vless://ea3e5740-fef7-7b38-a347-6ed92d454d8e@fieldersdominator.com.au:80?path=/?ed=8880&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=marzneshinportoghal.net&type=ws#🇺🇸US_3116_@Surfboardv2ray
 vless://ea3e5740-fef7-7b38-a347-6ed92d454d8e@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.bestgameir.ir.&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&type=httpupgrade#🇨🇦CA_3117_@Surfboardv2ray
 vless://ea3e5740-fef7-7b38-a347-6ed92d454d8e@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.bestgameir.ir.&type=httpupgrade#🇨🇦CA_3118_@Surfboardv2ray
@@ -603,3 +598,8 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
 	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
