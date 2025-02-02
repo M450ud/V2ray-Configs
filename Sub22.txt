@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
     <div id="cf-error-details" class="cf-error-details-wrapper">
       <div class="cf-wrapper cf-header cf-error-overview">
         <h1>
@@ -603,3 +599,7 @@ vless://eafc111d-4a4b-4dc8-a26e-3ec97899db00@5.75.202.97:19211?security=none&enc
 
 <!--[if gte IE 10]><!-->
 <script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';

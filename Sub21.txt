@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-          <div class="cf-column">
-            <h2 data-translate="what_happened">What happened?</h2>
-            <p>You've requested a page on a website (ip-api.colaho6124.workers.dev) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. An unknown error occurred while rendering the page.</p>
-          </div>
 
           
           <div class="cf-column">
@@ -603,3 +599,7 @@ vless://e313427c-da42-4f52-9922-057aa6e5da1e@free4.iranbax.com:2053?encryption=n
 <!--<![endif]-->
 
 
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
