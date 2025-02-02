@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://360cff39-63e1-4d34-945f-75af76ec386d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.33ms
+vless://347b41ac-a0ad-4b39-a335-ca42b624ba9c@89.221.224.166:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 5.89ms
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#FR🇫🇷 | en.linceedab.com-443 | 142ms
+vless://23fd2130-3b21-4111-ace5-0886433d4213@live.skornorth.com:443?path=%2F%40grizzlyvpn%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=meldszina.net&fp=firefox&type=ws&sni=live.skornorth.com#US🇺🇸 | live.skornorth.com-443 | 106.2ms
+vless://20da741e-a156-455c-9650-478bc92fdaa9@api.speedtest.net:443?encryption=none&security=tls&sni=api.speedtest.net&alpn=http%2F1.1&fp=firefox&type=ws&host=coo9youcatrsev.com&path=%2F%3Fed%3D443#US🇺🇸 | api.speedtest.net-443 | 49.97ms
+vless://20da741e-a156-455c-9650-478bc92fdaa9@151.101.194.219:443?encryption=none&security=tls&sni=api.speedtest.net&alpn=http%2F1.1&fp=firefox&type=ws&host=coo9youcatrsev.com&path=%2F%3Fed%3D443#US🇺🇸 | api.speedtest.net-443 | 11.69ms
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?encryption=none&security=tls&sni=alecruiz.pages.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=alecruiz.pages.dev&path=%2FTELEGRAM-PROXY_MTM%2F%3Fed%3D2560#RELAY🚩 | alecruiz.pages.dev-443 | 38.24ms
 vless://1ef034ba-20d5-41b0-a922-d7e6def1a706@104.21.74.97:443?encryption=none&security=tls&sni=dd.limoo.online&type=ws&host=dd.limoo.online&path=%2F%3Fed%3D2048#RELAY🚩 | dd.limoo.online-443 | 40.98ms
 vless://1d7334d4-a74a-4282-8028-fa09ebc9aabb@live.skornorth.com:80?encryption=none&security=none&sni=live.skornorth.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=meldszina.net&path=%2F%40grizzlyvpn%3Fed%3D2048#US🇺🇸 | live.skornorth.com-80 | 18.1ms
@@ -597,9 +603,3 @@ vless://02957986-ccd7-4244-f7a8-4a0dbc0c85c1@Amin11.auiyf.com:443?type=grpc&serv
 vless://02a67b93-d04f-4df0-a2d4-fb53524bf2bc@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=INnOcenT-prOblEm.onEeAt.cO.&type=ws#🇨🇦CA_268_@Surfboardv2ray
 vless://02fc8aa4-05fa-4c6a-bc39-82b5b6201156@171.22.26.124:8081?type=grpc&serviceName=&authority=&security=none#🇮🇷IR_269_@Surfboardv2ray
 vless://030d0d03-fc56-4a86-8e26-aee247dedfc0@www.speedtest.net:2053?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@AnGuS_VPN&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#🇨🇦CA_270_@Surfboardv2ray
-vless://035ce4e2-b793-418a-838b-3508df309930@c1.vact.ir:2083?security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=chrome&spx=/&type=grpc&sni=refersion.com&sid=90278dfc#🇩🇪DE_271_@Surfboardv2ray
-vless://046f07ba-2b0c-4d51-9f66-d7efbbe8e2db@149.248.32.239:8080?path=/&security=none&encryption=none&type=ws#🇺🇸US_272_@Surfboardv2ray
-vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443?encryption=none&security=tls&sni=wear.net&type=ws&host=aw028.ir&path=/?ed=2048#🇺🇸US_273_@Surfboardv2ray
-vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443?encryption=none&security=tls&sni=wear.net&type=ws&host=aw029.ir&path=/?ed=2048#🇺🇸US_274_@Surfboardv2ray
-vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443?encryption=none&security=tls&sni=wear.net&type=ws&host=aw039.ir&path=/?ed=2048#🇺🇸US_275_@Surfboardv2ray
-vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443?encryption=none&security=tls&sni=wear.net&type=ws&host=aw048.ir&path=/?ed=2048#🇺🇸US_276_@Surfboardv2ray
