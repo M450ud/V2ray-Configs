@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://cc6b985d-0362-4129-8763-38564174fb3e@167.68.42.96:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔗 Vauth - 1353
 vless://b5977a04-68de-7109-1a5d-147c2748f3ed@151.101.130.216:80?security=none&type=ws&host=marzneshinportoghal.net#🔗 Vauth - 1354
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.143:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔗 Vauth - 1355
 vless://6842f2ae-8c18-4e30-8a42-d4632a849f98@57.128.178.253:443?security=tls&sni=en.linceedab.com&type=tcp&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 1356
@@ -603,3 +602,4 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.84.194.71:2222?security=none&typ
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.146:2087?security=tls&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc#🔗 Vauth - 1950
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.75:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔗 Vauth - 1951
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.81.58.40:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔗 Vauth - 1952
+vless://4a66b519-dda4-47c4-8e79-fc67bc7dc196@37.27.250.128:9456?security=none&type=tcp&host=telewebion.com&headerType=http#🔗 Vauth - 1953
