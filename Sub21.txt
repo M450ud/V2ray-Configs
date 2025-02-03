@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+          </div>
+          
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90bfa604482ac977</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
       <span class="hidden" id="cf-footer-ip">20.42.43.92</span>
@@ -593,13 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.70.99:443?path=/?ed=2560&sec
 <style>body{margin:0;padding:0}</style>
 
 
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
