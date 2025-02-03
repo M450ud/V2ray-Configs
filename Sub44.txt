@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
-trojan://telegram-id-privatevpns@13.36.24.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
-trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.16.214:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
-trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.16.214:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
 trojan://telegram-id-privatevpns@13.36.24.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
 vless://fb773829-ebe0-49b6-a55c-6cae72992326@anonymousswi.shoponetop.com.:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=safari&type=grpc&serviceName=xyz&sni=anonymousswi.shoponetop.com.#👉🆔 @v2ray_configs_pool
@@ -603,3 +598,8 @@ vless://76aa6ca3-2f51-53d4-8f43-6f9fd0dfa147@zula.ir:443?security=tls&sni=se1.v2
 vless://f458bda2-fe04-5a68-9bda-8b2bba9aff71@zula.ir:443?security=tls&sni=no1.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=no1.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.54%20-%20NO
 vless://dee84733-4079-5578-b163-5e6060347e13@zula.ir:443?security=tls&sni=nl1.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl1.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.55%20-%20NL
 vless://891c62cf-daf6-5bab-b169-bda18e5c5f7d@zula.ir:443?security=tls&sni=nl2.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl2.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.56%20-%20NL
+vless://963a6e4d-ad6a-51fb-9b3f-fd00718f2149@zula.ir:443?security=tls&sni=lv1.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lv1.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.57%20-%20LV
+vless://fb9cb07f-830e-520c-b281-a3b619ade7b7@zula.ir:443?security=tls&sni=lv2.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lv2.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.58%20-%20LV
+vless://351e8aca-89bf-5194-9a68-d2259d3d21ba@zula.ir:443?security=tls&sni=it1.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=it1.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.59%20-%20IT
+vless://207a804b-39d9-50cf-886d-887d79201c67@zula.ir:443?security=tls&sni=ua1.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ua1.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.60%20-%20UA
+vless://5b75c241-aa39-5dad-8332-1cf1a9823205@zula.ir:443?security=tls&sni=it2.v2vless.site&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=it2.v2vless.site&encryption=none#Rayan%20-%20SSO%20-%20V.61%20-%20IT
