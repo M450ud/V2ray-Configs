@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90c6d40a9c4a0aa9</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">20.42.43.91</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
     
   </p>
@@ -123,140 +133,7 @@ vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&sec
 vless://9d5cc6f7-a8aa-487a-9895-3ba58d33c3eb@www.zula.ir:80?path=%2FV2ray.motorcycles%3Fed%3D80&security=none&encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&type=ws#👉🆔 @v2ray_configs_pool
 vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
 
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="en-US">
-   <!--<![endif]-->
-   <head>
-      <title>This website has been temporarily rate limited | igdux.top | Cloudflare</title>
-      <meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-      <style type="text/css">
-            body {
-               margin: 0;
-               padding: 0;
-            }
-
-            #cf-wrapper {
-               font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-                  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-                  "Segoe UI Symbol" !important;
-            }
-            .cf-error-description {
-               max-width: 600px;
-            }
-      </style>
-   </head>
-   <body>
-      <div id="cf-wrapper">
-         <div
-            id="cookie-alert"
-            class="cf-alert cf-alert-error cf-cookie-error"
-            data-translate="enable_cookies"
-         >
-            Please enable cookies.
-         </div>
-         <div id="cf-error-details" class="cf-error-details-wrapper">
-            <div class="cf-wrapper cf-header cf-error-overview">
-               <h1>
-               <span class="cf-error-type" data-translate="please check back later"
-                  >Please check back later</span
-               >
-               </h1>
-               <h2 class="cf-subheadline">Error 1027</h2>
-            </div>
-
-            <div class="cf-section cf-wrapper">
-               <p>
-               <span style="width:16px; display:inline-block; vertical-align:text-top">
-                  <svg
-                     fill="#b03340"
-                     xmlns="http://www.w3.org/2000/svg"
-                     viewBox="0 0 16 16"
-                  >
-                     <path
-                     d="M15.672,14.2,8.3,1.443a.352.352,0,0,0-.609,0L.328,14.2a.352.352,0,0,0,.3.527H15.368A.352.352,0,0,0,15.672,14.2ZM8.743,12.9a.221.221,0,0,1-.221.221H7.478a.221.221,0,0,1-.221-.221V11.86a.221.221,0,0,1,.221-.221H8.522a.221.221,0,0,1,.221.221Zm-.025-2.422H7.282L7.257,6.005H8.743Z"
-                     />
-                  </svg>
-               </span>
-               <strong>
-                  This website has been temporarily rate limited
-               </strong>
-               </p>
-               <p class="cf-error-description">
-               You cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down.
-               </p>
-               
-               <p class="cf-error-description">
-               If you are owner of this website, prevent this from happening again by upgrading your plan on the <a href="https://dash.cloudflare.com/?account=workers/plans" target="_blank">Cloudflare Workers dashboard</a>.
-               </p>
-               
-               
-               <p>
-               <a
-                  href="https://developers.cloudflare.com/workers/about/limits/#number-of-requests-limit"
-                  target="_blank"
-                  rel="noopener noreferrer"
-               >
-                  Learn more about this issue →
-               </a>
-               </p>
-               
-            </div>
-
-            <div class="cf-error-footer cf-wrapper">
-    <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 90c622baccb52420</span>
-      <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2025-02-03 23:17:39 UTC</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden">
-        <span class="cf-footer-separator">&bull;</span>
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.246.78.58</span>
-      </span>
-      <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
-    </p>
-    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-         </div>
-      </div>
-
-      <script>
-  window._cf_translation = {};
-  
-  
-</script>
-
-   </body>
-</html>
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.176.215.63:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%2980b6690%3A72938#%F0%9F%87%AF%F0%9F%87%B5JP_%40wangcai_8
 vmess://eyJhZGQiOiI1Ljc1LjE5Ny4yMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiJiNDRjZWFiZS05OTdjLTQ5ODgtOTMyZC04ZWZhNmE1MzBmYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJJUi1AVjJyYXlfQWxwaGEtMTQiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIyLjU4Ljg3LjIyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkYjg1ZmYwZS1jMzNmLTQwMWQtYzQxNS00YzdjY2UxMzU3MDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjEyMjY5IiwicHMiOiJJUi1AVjJyYXlfQWxwaGEtMTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxOTUuNTguNDkuODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWNjNTlhM2EtOTYyNS00MGY3LWIwZTYtZTIzMzI4NmFlODJkIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjEwODgxIiwicHMiOiJJUi1AVjJyYXlfQWxwaGEtMTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=♾نامحدود
@@ -603,3 +480,126 @@ ssr://NDIuMTU3LjE5Ni4xMDM6MTAxMjA6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6aHR0cF9wb3N0Ol
 ssr://NDIuMTU3LjE5Ni4xMDQ6MTA5Njc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpka050Y0RoQlRHbG9OZz09Lz9vYmZzcGFyYW09WVdwaGVDNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTAwTWk0eE5UY3VNVGsyTGpFd05DMHhOalF5JnByb3RvcGFyYW09
 ssr://NDIuMTU3LjE5Ni4xMDQ6MjAwMzc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOmh0dHBfcG9zdDpRMWRUV25OalRHdHFaZz09Lz9vYmZzcGFyYW09WVdwaGVDNXRhV055YjNOdlpuUXVZMjl0JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTAwTWk0eE5UY3VNVGsyTGpFd05DMHhOalF6JnByb3RvcGFyYW09
 ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1UENmaDZwVFJTMHhOaTR4Tmk0Mk5pNDJOUzB4T0RFMCZwcm90b3BhcmFtPQ==
+ssr://ejAxMTEuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxJTJGQ2ZoN2RHVWkwMU1TNDBOQzQ1TVM0eE16TXRNVGd4TlElM0QlM0QmcHJvdG9wYXJhbT0=
+ssr://ejAxMTAuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabCZyZW1hcmtzPThKJTJCSHFmQ2ZoNnBFUlMwekxqY3hMakU1TGpFNE9TMHhPREUyJnByb3RvcGFyYW09
+ssr://ejAxMTYuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabCZyZW1hcmtzPThKJTJCSHJ2Q2ZoNnBKUlMwMU1pNHlNRGd1TWpBMkxqRTROUzB4T0RFMyZwcm90b3BhcmFtPQ==
+ssr://MTIwLjE5OC43MS4xODQ6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP29iZnNwYXJhbT1kQzV0WlM5MmNHNW9ZWFElM0QmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhNakF1TVRrNExqY3hMakU0TkMweE9EY3gmcHJvdG9wYXJhbT1Oak13TmpnNllXcG9hbVZwTVRJek5EVTI=
+ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1QVDA5UFElM0QlM0QmcmVtYXJrcz04SiUyQkhydkNmaDdOSlRpMHhOUzR5TURZdU56QXVNak16TFRFNU9UZyUzRCZwcm90b3BhcmFtPVBUMDlQUSUzRCUzRA==
+ssr://ejAxMTMuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhwdkNmaDdwQlZTMHhNeTR5TXprdU1UUXVNakExTFRJd01UTSUzRCZwcm90b3BhcmFtPQ==
+ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhOQzR5T1M0eE1qUXVNVFk0TFRJeU56YyUzRCZwcm90b3BhcmFtPQ==
+ssr://MzYuMTU2LjIyMi4yNTozMjk4NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6aHR0cF9zaW1wbGU6ZW5wMGR6bHFhemRuZFE9PS8/b2Jmc3BhcmFtPVpUVmhZakEyTVRneExtMXBZM0p2YzI5bWRDNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHpOaTR4TlRZdU1qSXlMakkxTFRJek1UQSUzRCZwcm90b3BhcmFtPU5qRTRNVHB0T1c5RVNXTSUzRA==
+ssr://c3NyZnJlZS56aHVqaWNuMi5uZXQ6MTAwMDI6YXV0aF9jaGFpbl9hOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHV2Q2ZoN2hWVXkwMk5DNHpNaTQzTGpFME1pMHlOVEl4JnByb3RvcGFyYW09
+ssr://NjguMTgzLjc0LjYzOjEyOTI4Om9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpORE0yT1dJNU5nPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxZkNmaDZwRVJTMDJPQzR4T0RNdU56UXVOak10TkRVeE1RJTNEJTNEJnByb3RvcGFyYW09
+ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHFQQ2ZoN05EVGkweE1qQXVNak15TGpJd05pNHlOVEV0TlRBNU1BJTNEJTNEJnByb3RvcGFyYW09TlRVNU5UWTZNVEV4TVRFeA==
+ssr://MjIyLjE4Ni4yMC4xMDI6NDEyMjg6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOmFIUjBjRG92TDJOakxtRjRMdz09Lz9vYmZzcGFyYW09WkdGMFlTNWlhV3hwWW1sc2FTNWpiMjB2WldRMVlUSXhOalUwTURBJTNEJnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB5TWpJdU1UZzJMakl3TGpFd01pMDJNVGs1JnByb3RvcGFyYW09TVRZMU5EQXdPa2h5TW1GWVR3JTNEJTNE
+ssr://Y21sYXllcjYuc3RhbmR1cmxzLmNvOjU2MDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4T0RNdU1qTXlMakV4Tnk0eE9TMDJNakF3JnByb3RvcGFyYW09TWpNek9EbzVkRkZtZUUxWUtEQlRPelF3WmclM0QlM0Q=
+ssr://dXMubGlub2RlLnJicWlzLm1lOjE5MTU1OmF1dGhfc2hhMV92NDphZXMtMTkyLWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6U2xWQ1dFTlEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1dkNmaDdoVlV5MHhOekl1TWpNMUxqVXdMamt4TFRZeU1EYyUzRCZwcm90b3BhcmFtPQ==
+ssr://NDUuNzkuNzkuMzc6NDQzOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpPV1EyWTJObFlXRXpOek5pWmpKak9HRmpZakl5WlRZd1lqWmhOVGhpWlRZPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHV2Q2ZoN2hWVXkwME5TNDNPUzQzT1M0ek55MDJNams1JnByb3RvcGFyYW09
+ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVFk0T1RrJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
+ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRZNU1qRSUzRCZwcm90b3BhcmFtPQ==
+ShadowSocks:
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook - S1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXSjlzZ3ZCWWR0NFN5ZHd4@52.237.155.68:443?outline=1&prefix=POST%20U2ad83cZ#Rayan - SS - IFI - S2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSVlwY2N2OUFsQkhabWtZ@52.237.155.68:443?outline=1&prefix=POST%20T2ad83dL#Rayan - SS - IFI - S3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WTVkUjFjVTFkam1pWHNh@52.237.155.68:443?outline=1&prefix=POST%20R2ad83eV#Rayan - SS - IFI - S4
+
+
+
+SSHmax FASTLY :
+
+vmess://eyJhZGQiOiJzZW1pbmFyc2lubWNiLmZhY3VsdHkudWNkYXZpcy5lZHUiLCJhaWQiOiIwIiwiaG9zdCI6ImhhcmlmZXQtbWFuYW0tMS5jb20iLCJpZCI6Ijk1Mzc0NjcwLWRiM2QtMTFlZi1iMzMxLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii80d2YxMnV4YSIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gRlNTIC0gRkwgLSBGLTEtTEEiLCJzY3kiOiJhdXRvIiwic25pIjoic2VtaW5hcnNpbm1jYi5mYWN1bHR5LnVjZGF2aXMuZWR1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJid2RyYXBlci5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJoYXJpZmV0LW1hbmFtLTIuY29tIiwiaWQiOiJkMTM2YzdmMC1kYjNkLTExZWYtYjUzNS0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3IyZzd1OHkiLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIEZTUyAtIEZMIC0gRi0yLVZBIiwic2N5IjoiYXV0byIsInNuaSI6ImJ3ZHJhcGVyLmZhY3VsdHkudWNkYXZpcy5lZHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://8e6669c7-5dfa-5286-a1cc-7b7470a9fd87@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-3.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-3-IL-I
+vless://788fd835-6fc4-5f4e-a227-2e004505fbce@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-4.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-4-IL-II
+vless://fd327c2a-b4d0-5b68-b183-5ede4e40464e@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-5.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-5-NL-I
+vless://c5e0d819-7977-56d9-9d34-9822055a23c7@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-6.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-6-FI-II
+vless://5ed0126e-49d8-56ab-8baf-569a66cacc2d@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-7.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-7-BE-I
+vless://e27e0861-533a-58ec-97f0-6b010b6510ab@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-8.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-8-PL-I
+vless://9d9cf2a4-54e1-5b94-9ac8-5a729128dcb6@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-9.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-9-IL-I
+vless://e684cd40-c88c-56e4-aa2d-c1128a2ba5a9@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-10.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-10-NO-I
+vless://63fc4be5-8b99-505b-b47d-f15028183282@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-40.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-40-NL-II
+vless://ab8245aa-7587-55c2-9903-ce6d0cdad4b3@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-50.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-50-CH-I
+vless://2dea427b-13af-52d2-b566-e40ade492c45@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-60.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-60-CH-II
+vmess://eyJhZGQiOiJid2RyYXBlci5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJoYXJpZmV0LW1hbmFtLTExLmNvbSIsImlkIjoiMGY4NDgzZDAtZGIzZS0xMWVmLWI2MzktMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2l5N3N2OTUwIiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBGU1MgLSBGTCAtIEYtMTEtRVUiLCJzY3kiOiJhdXRvIiwic25pIjoiYndkcmFwZXIuZmFjdWx0eS51Y2RhdmlzLmVkdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ6bWFvei5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJoYXJpZmV0LW1hbmFtLTEyLmNvbSIsImlkIjoiNDM2NWFlOTAtZGIzZS0xMWVmLWI5MzctMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiLzY3MGNqMmc5IiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBGU1MgLSBGTCAtIEYtMTItU0ciLCJzY3kiOiJhdXRvIiwic25pIjoiem1hb3ouZmFjdWx0eS51Y2RhdmlzLmVkdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://9cf64eff-a8fd-50f5-9b07-f7a115841fc9@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-13.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-13-CZ-I
+vless://2257b270-e9f5-56e0-abdc-dcd2e3fbedbb@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-14.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-14-NL-I
+vless://15e2a9f5-ea6f-5837-8502-cfb8570fce9b@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-15.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-15-NO-II
+vless://c2594f13-28a5-5df6-a64b-4034e1f676a4@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-16.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-16-AT-I
+vless://4a1c0db8-135f-56ef-9318-53c8f7b98ce0@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-17.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-17-RS-I
+vless://aefd3208-818c-5b27-a83a-e273b3f08d0d@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-18.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-18-SE-I
+vless://cdd8b9dd-7c3b-56c7-85eb-008886340b02@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-19.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-19-DK-I
+vless://a411063c-d659-59c0-ae9e-56055ecef9fa@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-20.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-20-SK-I
+
+
+
+SSHmax GCORE :
+
+vless://9b1f565d-50fb-445f-832a-d39475989f72@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=it11.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20it-1-11
+vless://dfb6f849-e7d7-4994-80f7-1bd19b593a2a@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=uk35.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20uk-1-35
+vless://4b9a3393-6e60-4e27-bb11-f48b80f66f03@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=kz25.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20kz-1-25
+vless://9c20012a-547e-46a8-aaea-1a7400ddee06@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=nl49.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-1-49
+vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=nl50.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-2-50
+vless://63c526af-a758-4b60-b8c7-dd2b3f41cf22@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=tr-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20tr-f-1
+vless://f8f1763f-2411-4170-903d-0ad30a49d1c5@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=ca-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20ca-f-1
+vless://7beb2597-f767-4dd4-993e-2cb3c41be5a2@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=jp-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20jp-f-1
+vless://6470135d-ef6c-4417-b99a-248e78e0b544@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/serverssh&host=sg-3d.maxima.us.kg&encryption=none#Rayan%20-%20SVS%20-%20GC%20-%20sg-30-1
+vless://8b2485ed-fb6c-4110-96cd-acaf49c1e1dc@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ua-cvs5.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20ua-1-1
+vless://9c20012a-547e-46a8-aaea-1a7400ddee06@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=fr-1-vpr.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-1-v-2
+vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=fr-2-vpr.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-2-v-2
+vless://c8705ff9-da52-4061-9090-d74842d2199a@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ie-gfgd.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20ie-1-c-1
+vless://4b9a3393-6e60-4e27-bb11-f48b80f66f03@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=kz-gsfhf5366.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20kz-1-v-1
+vless://9b1f565d-50fb-445f-832a-d39475989f72@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=it-fghgfjg55.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20it-1-v-1
+vless://2766401a-3722-4017-b2e7-f7b45453ca32@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-jgh5365.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20us-1-c-1
+vless://9802cad1-ead5-48a8-b408-9793312c14ac@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/serverssh&host=sg-30-fgsfgbfn.maxima.us.kg&encryption=none#Rayan%20-%20SVS%20-%20GC%20-%20sg-r-4
+vless://63c526af-a758-4b60-b8c7-dd2b3f41cf22@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=tr-gfsghjk.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20tr-1-v-2
+vless://9b1f565d-50fb-445f-832a-d39475989f72@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=it-fghj45.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20it-1-v-2
+vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=nl-kseuo.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-2-v-3
+vless://d157e3a4-8757-4826-a090-1ffce582f14b@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-69ghjklxxc.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20nl-1-c-2
+vless://e7556611-a3b4-4dcd-bd5c-1e21598ebf75@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-65eyshvnk.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20us-1-c-3
+vless://ca9a9183-e1f1-4933-8b26-d3af93e34775@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ua-45rtyuiop.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20ua-1-c-2
+vless://c59c3de8-2aa8-471a-8984-f9a90eecd6b9@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de-gfjjkddfr.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20de-1-c-1
+vless://680f1a7c-e007-4008-8612-ff8c68db5ccd@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-69hjkll.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20tr-1-c-2
+vless://da04fe6f-8459-48ce-8b7b-2757039c0f2f@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-twyerutyrt.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20fi-1-c-2
+vless://7aef0423-b04c-4eb3-91dc-2a3ef975f6f8@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ie-96ghjkkll.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20ie-1-c-2
+vless://cc0fa3e4-9e6c-4a8c-b690-d43fe94aec17@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=br-gshgf.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.1%20-%20BR
+vless://66eeec33-2a0a-4733-826c-314163d1b383@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-hdhhnd.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.2%20-%20FI
+vless://8282c1fc-a085-487b-b03b-fdfcbe4e5ab7@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de-jjkk.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.3%20-%20DE
+vless://d36d0c8d-cf87-4d7e-9520-640db392d61c@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ie-5dhh.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.4%20-%20IE
+vless://5249ebc4-654c-4a3d-b8e6-1ac13e991f9d@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-gfs6.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.5%20-%20JP
+vless://dbdb2d44-06a6-4696-bcc2-f3c765836553@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-gghty.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.6%20-%20NL
+vless://21255a90-4aa7-4bbe-bcac-0a957d40a7ef@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-gfsff.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.7%20-%20TR
+vless://501fdeae-40ec-4afd-93e9-5605cf4d3d73@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ua-dytyj.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.8%20-%20UA
+vless://5861df2d-50cf-4d5d-bac3-ac4478907a1c@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-trrtt.maxima.us.kg&encryption=none#Rayan%20-%20CBT%20-%20GC%20-%20G.9%20-%20US
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0Ijoic2ctd2VlZGQubWF4aW1hLnVzLmtnIiwiaWQiOiJlOGIyZTRlMC1lMGQ0LTExZWYtYjQzOS0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvM2h6cWZ0cHgiLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIEZTUyAtIEdDIC0gRy4xMCAtIFNHIiwic2N5IjoiYXV0byIsInNuaSI6Imdjb3JlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidXMtNWdyZGYubWF4aW1hLnVzLmtnIiwiaWQiOiIxZGYwYjVjMC1lMGQ1LTExZWYtYjYzNS0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvenM5ZHEzNXUiLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIEZTUyAtIEdDIC0gRy4xMSAtIFZBIiwic2N5IjoiYXV0byIsInNuaSI6Imdjb3JlLmx1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidXMtZXdld2YubWF4aW1hLnVzLmtnIiwiaWQiOiIzZGRkMmQzMC1lMGQ1LTExZWYtYjIzNy0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbnZiaTYyOTAiLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIEZTUyAtIEdDIC0gRy4xMiAtIExBIiwic2N5IjoiYXV0byIsInNuaSI6Imdjb3JlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiZXUtNTZnZC5tYXhpbWEudXMua2ciLCJpZCI6IjYyNWRkNTEwLWUwZDUtMTFlZi1iNjMzLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hbHV4eWlkMSIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gRlNTIC0gR0MgLSBHLjEzIC0gRVUiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://5448856c-bca3-42e3-9176-1078cd922f85@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless-ws&host=gb-fdgdg.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20G.14%20-%20GB
+vless://64efab8a-1055-4a6a-879a-05f786db1adf@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless-ws&host=gb-56fdfd.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20G.15%20-%20GB
+vless://76aa3f95-1723-4ab1-972a-17f617eebbc9@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless-ws&host=de-fjfjfhf.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20G.16%20-%20DE
+vless://3f543d85-33dd-4676-a17d-9812238d8b12@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless-ws&host=au-fyjytj.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20G.17%20-%20AU
+vless://fee9a16f-d8f2-4101-bee4-d5c2f037d071@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless-ws&host=sg-th6363.maxima.us.kg&encryption=none#Rayan%20-%20SSS%20-%20GC%20-%20G.20%20-%20SG
+vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at-ftgsrh.maxima.us.kg&encryption=none#Rayan%20-%20GSS%20-%20GC%20-%20G.21%20-%20AT
+vless://ee3efad1-086d-4ddf-8b01-b264df80e3ea@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de-fgfdnfdn.maxima.us.kg&encryption=none#Rayan%20-%20GSS%20-%20GC%20-%20G.22%20-%20DE
+vless://bc45c787-4176-4d3b-bf87-225be8ae8216@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=is-55cvzd.maxima.us.kg&encryption=none#Rayan%20-%20GSS%20-%20GC%20-%20G.23%20-%20IS
+vless://bbeb53f1-1380-43a2-b5eb-f6181cf15a9a@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-weret.maxima.us.kg&encryption=none#Rayan%20-%20GSS%20-%20GC%20-%20G.24%20-%20UK
+vless://1181e27f-d6fd-4526-b60b-0bc6c96aee22@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-56ffs.maxima.us.kg&encryption=none#Rayan%20-%20GSS%20-%20GC%20-%20G.25%20-%20US
+vless://1321b7d4-998a-4107-992e-a2820d101125@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at-56hhh.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.26%20-%20AT
+vless://9cc1d633-be7b-4077-9b26-fdf989a0d2de@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=br-469ggh.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.27%20-%20BR
+vless://bcb079c9-a86e-4850-b2c7-cdca81571754@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-78dghh.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.28%20-%20CA
+vless://a2557aa3-ee55-4e7b-8646-dfdd06c31703@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de-52ffs.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.29%20-%20DE
+vless://154b38d1-75a1-4352-b4a9-e167e4f8cbbd@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=is-45vgg.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.30%20-%20IS
+vless://36a439b5-cfda-40d2-be5e-a46529319d97@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ie-56fdfd.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.31%20-%20IE
+vless://db5db579-d16a-4d00-93fb-4b37c469753d@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-56dsa.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.32%20-%20JP
+vless://f76a37ad-a85b-4ca3-8da6-c79a560808c8@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-dfdf562.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.33%20-%20NL
+vless://c4389be4-eb64-44e0-b97b-85071b1554a8@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-34gthd.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20G.34%20-%20US
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidXMtNTlkZmdmLm1heGltYS51cy5rZyIsImlkIjoiMzhmMjUyZDAtZTE4My0xMWVmLWI0MzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3gzNWJncWVmIiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBGU1MgLSBHQyAtIEcuMzUgLSBWQSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnY29yZS5sdSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidXMtOTMwZmZoZy5tYXhpbWEudXMua2ciLCJpZCI6IjU0ZTk4ZDQwLWUxODMtMTFlZi1iMDMzLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZXhnOHIxayIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gRlNTIC0gR0MgLSBHLjM2IC0gTEEiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiZXUtbmZmZ2FoZC5tYXhpbWEudXMua2ciLCJpZCI6IjdkZjJlNGMwLWUxODMtMTFlZi1iNjMyLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii82amttcDI5YiIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gRlNTIC0gR0MgLSBHLjM3IC0gRVUiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0Ijoic2ctd2ZodW8ubWF4aW1hLnVzLmtnIiwiaWQiOiJiNWM2NzM0MC1lMTgzLTExZWYtYjYzNS0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdXZ5OHo5cmgiLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIEZTUyAtIEdDIC0gRy4zOCAtIFNHIiwic2N5IjoiYXV0byIsInNuaSI6Imdjb3JlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+
+
+Without CDN :
