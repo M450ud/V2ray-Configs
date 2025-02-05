@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
       <div class="cf-wrapper cf-header cf-error-overview">
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
@@ -603,3 +587,19 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2053?mode=gun&securit
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm#🇨🇦CA_1870_@Surfboardv2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm#🇨🇦CA_1871_@Surfboardv2ray
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.21.89.147:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg#🇨🇦CA_1872_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.21.89.147:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg#🇨🇦CA_1873_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🇨🇦CA_1874_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🇨🇦CA_1875_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🇨🇦CA_1876_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🇨🇦CA_1877_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@128.140.120.60:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=CiHsFuEf76.nExTvIsIoNaRy.org#🇩🇪DE_1878_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@128.140.120.60:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=CiHsFuEf76.nExTvIsIoNaRy.org#🇩🇪DE_1879_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@138.199.161.249:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=CiHsFuEf76.nExTvIsIoNaRy.org#🇩🇪DE_1880_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🇺🇸US_1881_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🇺🇸US_1882_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=MoPrVjRx73.bRiGhTwAyE.OrG#🇺🇸US_1883_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.113:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg#🇺🇸US_1884_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.113:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg#🇺🇸US_1885_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.113:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg#🇺🇸US_1886_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm#🇺🇸US_1887_@Surfboardv2ray
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm#🇺🇸US_1888_@Surfboardv2ray
