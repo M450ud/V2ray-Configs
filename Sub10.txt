@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://de44b044-8f90-4e18-b742-16591667ff96@193.123.179.88:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#RELAY🚩 | edgetunnel-free.pages.dev-443 | 5.7ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@141.144.197.59:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#RELAY🚩 | edgetunnel-free.pages.dev-443 | 6.06ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@141.147.102.93:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#RELAY🚩 | edgetunnel-free.pages.dev-443 | 6.14ms
 vless://de44b044-8f90-4e18-b742-16591667ff96@158.180.14.155:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F#RELAY🚩 | edgetunnel-free.pages.dev-443 | 6.21ms
@@ -602,4 +603,3 @@ vless://360cff39-63e1-4d34-945f-75af76ec386d@hajlab.ucdavis.edu:443?security=tls
 vless://360cff39-63e1-4d34-945f-75af76ec386d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.26ms
 vless://360cff39-63e1-4d34-945f-75af76ec386d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.03ms
 vless://360cff39-63e1-4d34-945f-75af76ec386d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.03ms
-vless://360cff39-63e1-4d34-945f-75af76ec386d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.16ms
