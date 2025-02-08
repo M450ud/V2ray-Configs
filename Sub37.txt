@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 33
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 32
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 31
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 30
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 29
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 28
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 27
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 26
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 25
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 24
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 23
 vless://1361c792-ffa7-4230-8f86-0d57f65a900d@s.yousefcj.ir:4000?encryption=none&security=none&type=tcp&headerType=http&host=sheypoor.com#@vpnclashfa - 22
 vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@185.148.106.192:2053?encryption=none&security=tls&sni=flnewconect3.fragmentscan.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#@vpnclashfa - 21
 vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@185.146.173.90:2053?encryption=none&security=tls&sni=flnewconect3.fragmentscan.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#@vpnclashfa - 20
@@ -320,8 +331,8 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYjhkMDUwY2MtYTM3Yi00OWY4LThhODItZjk3MGY4YjcyYTVjIiwicGFnZV90aW1lIjoxNzM5MDQ5MzI2LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjU3Ljc5Ljk1In0K";</script>
-<script src="/bLtYFtSzg.js"></script>
+<script>window.park = "eyJ1dWlkIjoiYzE1ZmFjMTQtYTc1YS00NzcyLWEwZGYtMzY3YWM1N2ZkMWEyIiwicGFnZV90aW1lIjoxNzM5MDUyOTExLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjE3Mi4xODMuMTk5LjE4MiJ9Cg==";</script>
+<script src="/buQTBEWDz.js"></script>
 </body>
 </html>
 
@@ -592,14 +603,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#%F0%9F%87%B2%F0%9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.162-3418
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.164-3096
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.72-3215
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.77-3106
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-3339
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-3312
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-3282
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-3037
-trojan://telegram-id-directvpn@3.124.233.190:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.124.233.190-3563
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-3200
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-3285
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%F0%9F%87%AC%F0%9F%87%A7GB-169.150.210.233-3111
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-3417
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-3129
