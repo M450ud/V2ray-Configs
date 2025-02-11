@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=/?ed=1080Telegram_V2ray_Alpha&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#🇨🇦CA_3079_@Surfboardv2ray
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=/?ed=1080Telegram_V2ray_Alpha&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#🇨🇦CA_3080_@Surfboardv2ray
-vless://dfd10514-eb94-4001-8923-eae8a289d711@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#🇨🇦CA_3081_@Surfboardv2ray
-vless://dfd10514-eb94-4001-8923-eae8a289d711@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#🇺🇸US_3082_@Surfboardv2ray
-vless://dfd10514-eb94-4001-8923-eae8a289d711@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#🇺🇸US_3083_@Surfboardv2ray
-vless://dfd10514-eb94-4001-8923-eae8a289d711@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=seyyed.webdade.ip-ddns.com&type=ws#🇨🇦CA_3084_@Surfboardv2ray
-vless://dfd10514-eb94-4001-8923-eae8a289d711@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE?ed=2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#🇺🇸US_3085_@Surfboardv2ray
-vless://dfd10514-eb94-4001-8923-eae8a289d711@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#🇺🇸US_3086_@Surfboardv2ray
 vless://dfd10514-eb94-4001-8923-eae8a289d711@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#🇺🇸US_3087_@Surfboardv2ray
 vless://dfd10514-eb94-4001-8923-eae8a289d711@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE?ed=2048=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#🇺🇸US_3088_@Surfboardv2ray
 vless://e0351c77-411c-43d1-f967-4b5411068aaf@91.134.88.205:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=france.linceed.se#🇫🇷FR_3089_@Surfboardv2ray
@@ -603,3 +595,11 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
 			"server" : "nk6.boom.skin",
 			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
