@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://Aimer@92.243.74.180:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A525
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9102#%E6%9C%AA%E7%9F%A526%201.8MB%2Fs
 trojan://telegram-id-directvpn@34.239.62.224:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#US4%20156.1MB%2Fs
 trojan://Aimer@35.181.77.67:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A527
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRFptWg==@146.19.106.5:8388#%E6%9C%AA%E7%9F%A528
@@ -603,3 +601,5 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2198?security=none&ty
 vless://b1040ec3-3f38-4f85-9e0b-d7516c71d939@46.101.139.137:35479?type=grpc#🔗 Vauth - 430
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.221:8880?security=none&type=grpc#🔗 Vauth - 431
 vless://852795e1-4d54-4d15-a6a4-bb3a0484b705@194.87.148.192:39800?security=none&type=tcp#🔗 Vauth - 432
+vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?sni=sweet-glade-2430-ppal03.xasev15708.workers.dev&type=ws&path=%2FProxyIP#🔗 Vauth - 433
+vless://55520747-311e-4015-83ce-be46e2060ce3@104.17.221.248:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔗 Vauth - 434
