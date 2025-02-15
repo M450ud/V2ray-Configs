@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:443/?type=ws&encryption=none&flow=&host=public.satoshi.mom&path=/?ed=2048&security=tls&sni=public.SATOSHI.MOM&alpn=http/1.1&fp=chrome#🇨🇦CA_1379_@Surfboardv2ray
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:443/?type=ws&encryption=none&flow=&host=public.satoshi.mom&path=/?ed=2048&security=tls&sni=public.SATOSHI.MOM&alpn=http/1.1&fp=chrome#🇨🇦CA_1380_@Surfboardv2ray
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=public.4sat.shop&fp=chrome&type=ws&sni=4sat.shop#🇨🇦CA_1381_@Surfboardv2ray
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:80?path=/&security=none&encryption=none&alpn=http/1.1&host=public.列列男事的事列上赛男85.shop&fp=chrome&type=ws&sni=public.satoshi.mom#🇨🇦CA_1382_@Surfboardv2ray
+vless://6ccdb8be-c4f0-4703-b753-b416242d62b5@n2vpn-helper.projectis.ir:2053?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#🇨🇦CA_1383_@Surfboardv2ray
+vless://6d2373dd-e227-4819-ab64-0f5fd83375cd@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=r3q11x.alligator27.work&type=ws&alpn=http/1.1&host=r3q11x.alligator27.work&path=/wss#🇨🇦CA_1384_@Surfboardv2ray
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.150:80?path=/?ed=2048&security=none&encryption=none&host=game.baziha0098.ir&type=ws#🇺🇸US_1385_@Surfboardv2ray
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.150:80?path=/?ed=2048&security=none&encryption=none&host=game.baziha0098.ir&type=ws#🇺🇸US_1386_@Surfboardv2ray
 vless://6db0e9a8-45e6-49e1-ad02-f49495d425be@37.156.46.193:8080?path=/&security=none&encryption=none&type=ws#🇨🇭CH_1387_@Surfboardv2ray
@@ -597,9 +603,3 @@ vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@91.107.250.208:443?security=tls&alp
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@91.107.250.208:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇩🇪DE_1976_@Surfboardv2ray
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs13.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇳🇱NL_1977_@Surfboardv2ray
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs13.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇳🇱NL_1978_@Surfboardv2ray
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@mods.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇩🇪DE_1979_@Surfboardv2ray
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@mods.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇳🇱NL_1980_@Surfboardv2ray
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@mods.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇩🇪DE_1981_@Surfboardv2ray
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@mods.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇳🇱NL_1982_@Surfboardv2ray
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@mods.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇩🇪DE_1983_@Surfboardv2ray
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@mods.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#🇩🇪DE_1984_@Surfboardv2ray
