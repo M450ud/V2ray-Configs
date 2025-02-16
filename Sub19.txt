@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3026_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3027_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3028_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3029_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3030_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3031_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3032_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3033_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3034_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3035_@Surfboardv2ray
@@ -596,10 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "9D5249CB74D17FE57D18E5ED8AD1EC47",
-			"server" : "us7.edge.boom.skin",
