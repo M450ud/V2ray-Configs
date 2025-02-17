@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.41.105:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2979_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.41.105:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2980_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.41.105:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2981_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.41.105:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2982_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2983_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.219.115:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2984_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.221:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_2985_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.221:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2986_@Surfboardv2ray
@@ -603,3 +598,8 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
   }
 }
 {
+	"configs" : [
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "7C5DAB77B4F0DA16E76EF5CF0407EFE4",
+			"server" : "us7.edge.boom.skin",
