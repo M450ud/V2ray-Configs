@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.166.80:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2938_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.166.80:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2939_@Surfboardv2ray
 vless://df30e39c-9126-44f0-b572-f5e99e1dfdec@g.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_2940_@Surfboardv2ray
 vless://df30e39c-9126-44f0-b572-f5e99e1dfdec@g.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_2941_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",

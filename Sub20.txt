@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
@@ -602,4 +603,3 @@ trojan://Aimer@43.156.116.194:443?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.236.23.54:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A510
 trojan://Aimer@192.200.160.15:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US3
 trojan://Aimer@162.159.44.235:2053?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&path=/?ed=2560&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A511
-trojan://Aimer@162.159.44.229:8443?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A512
