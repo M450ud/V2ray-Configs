@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://Julius@193.106.248.196:443?security=tls&headerType=none&type=tcp&sni=miami.juliusnet.com#@vpnclashfa - 16
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#@vpnclashfa - 15
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@168.138.142.53:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#@vpnclashfa - 14
 trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?security=tls&type=tcp#@vpnclashfa - 13
 trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 12
@@ -601,5 +603,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.137.88:443?path=%2FTelegram-
 vless://d6252cc5-2f53-4966-ad3b-99285b891879@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=custom-config.ir&fp=chrome&type=ws&sni=live.skornorth.com#@vpnclashfa - 294
 vless://d5fd2bce-50a6-48a9-b0a9-4dbe95a62536@89.169.53.222:8880?security=none&encryption=none&headerType=none&type=tcp#@vpnclashfa - 293
 vless://d54b39c5-4041-411b-b9f7-c82d22340a4e@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@vpnclashfa - 292
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#@vpnclashfa - 291
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.16.242.208:8889?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#@vpnclashfa - 290
