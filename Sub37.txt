@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://347b41ac-a0ad-4b39-a335-ca42b624ba9c@89.221.224.166:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#@vpnclashfa - 73
+vless://33173d48-d620-11ee-aaa8-00505603e70d@104.26.11.137:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&fp=chrome&type=ws&sni=st-fr-1.brocdn.com#@vpnclashfa - 72
 vless://33002e6d-83b5-43b9-8501-bea7391cb1e1@38.60.208.238:8080?security=none&encryption=none&headerType=none&type=tcp#@vpnclashfa - 71
 vless://312849b3-63a4-4016-a8eb-a7f5881a1d89@188.114.96.3:443?path=%2Fvh2&security=tls&encryption=none&host=fc.nimaempire.cfd&fp=chrome&type=httpupgrade&sni=fc.nimaempire.cfd#@vpnclashfa - 70
 vless://2e8d29bd-166c-49a8-9322-898e9bf6c6ad@amirtronic.1384.zula.amirtronic.top:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.amirtronic.top.&type=ws#@vpnclashfa - 69
@@ -369,8 +371,8 @@ vless://37030798-2d3e-4190-9194-23f85c1be519@62.60.179.156:2096/?encryption=none
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYmM1YjYzZTktNDM1Yy00ZDUxLWI5YzUtODBjMjk5MTQyZTUzIiwicGFnZV90aW1lIjoxNzM5ODY2OTc4LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjEwMi4xOTkuMTQyIn0K";</script>
-<script src="/byySihWbi.js"></script>
+<script>window.park = "eyJ1dWlkIjoiYjA3NjNjOGItNDM1ZS00NzE2LTk1NWItNzEyZWYyZDRkNTA0IiwicGFnZV90aW1lIjoxNzM5ODcwMzM2LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6Ijc0LjIzNS4xMzQuMTgxIn0K";</script>
+<script src="/bUIilHIux.js"></script>
 </body>
 </html>
 
@@ -601,5 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.236.122.188:1866#%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-3210
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVEV2Zmw1UEFvWHhDT3NROGh4cjZV@137.184.202.212:39051#%F0%9F%87%BA%F0%9F%87%B8US-137.184.202.212-3359
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-3104
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-3132
-trojan://telegram-id-directvpn@18.215.119.90:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-18.215.119.90-3888

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-3132
+trojan://telegram-id-directvpn@18.215.119.90:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-18.215.119.90-3888
 vmess://ewogICAgImFkZCI6ICJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzd3V4aWFuLnBhaTUwMjg4LnVrIiwKICAgICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE1My4xNTYtMDM5MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#%F0%9F%87%BA%F0%9F%87%B8US-194.5.215.59-2960
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#%F0%9F%87%BA%F0%9F%87%B8US-184.170.241.194-2998
@@ -268,7 +270,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 913c9e450ada607c &bull; 2025-02-18 08:23:59 UTC</small>
+          <small class="heading-ray-id">Ray ID: 913cf03d0dc6802d &bull; 2025-02-18 09:19:57 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -293,12 +295,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">913c9e450ada607c</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">913cf03d0dc6802d</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.102.199.142</span>
+      <span class="hidden" id="cf-footer-ip">74.235.134.181</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -601,5 +603,3 @@ ss://761e23a2-bd64-56e8-83ee-ce5488a5157f@faculty.ucdavis.edu:443?path=/@ELiV2RA
 ss://064c3a3a-6a47-45f8-8ede-4869921851cc@151.101.158.204:80?path=%2Folem%2Fws%3Fed%3D64&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🏁]t.me/ConfigsHub`
 ss://a791597c-ef25-4226-f6f6-bf1d78d390f7@danksplex.com:80?path=%2Fbitcoinfast.com.snapp.ir.speedtest.net%3Fed%3D1048&security=&encryption=none&host=bitcoinfast.com&type=ws#[🇳🇱]t.me/ConfigsHub`
 ss://c327472a-936d-4600-bc97-3a95fc674080@cloud.xmsvx.com:443/?type=ws&encryption=none&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome#@meli_proxyy
-ss://c327472a-936d-4600-bc97-3a95fc674080@cloud2.xmsvx.com:80/?type=ws&encryption=none&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#@meli_proxyy`
-ss://48eccebc-1e36-4c60-b088-55fb793f6688@103.137.63.3:443?security=tls&sni=acedo.ambercc.filegear-sg.me&type=ws&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub`
