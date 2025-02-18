@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_2898_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2899_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2900_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2901_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2902_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2903_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2904_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2905_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2906_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?security=&type=grpc&encryption=none#🇫🇮FI_2907_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.79:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇮FI_2908_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.79:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2909_@Surfboardv2ray
@@ -594,12 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"server" : "nk7.boom.skin",
 			"server_port" : 17000,
 			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
