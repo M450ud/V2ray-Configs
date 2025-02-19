@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
 			"method" : "chacha20-ietf",
 			"protocol" : "auth_aes128_md5",
 			"protocolparam" : "135238:ekBYebTKgsF",
@@ -601,5 +603,3 @@ trojan://3778399737045327872@18.197.235.48:443?sni=popular-pheasant.adder289.que
 trojan://NISHIKUITAN111@104.19.44.160:443?#%E6%9C%AA%E7%9F%A525
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#%E6%9C%AA%E7%9F%A526%20155.3KB%2Fs
 trojan://Bw5Mz7QkVp@64.176.37.227:443?security=tls&type=tcp&sni=z-v2-082533.kailib.com#%E6%9C%AA%E7%9F%A527
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZM2JqWENKYlRQbFJkeVRxRkFZR0Ra@78.129.140.11:443#%E6%9C%AA%E7%9F%A528
-trojan://blue2024@104.18.123.217:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A529
