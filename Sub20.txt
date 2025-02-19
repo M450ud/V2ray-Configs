@@ -3,6 +3,29 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://telegram-id-ArV2ray@live.skornorth.com:443?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram : @vpnwedbaz - Telegram :   @vpnwedbaz - Telegram : @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2,http/1.1&fp=chrome&type=ws&host=ogfiltero.com&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#🇺🇸US_3344_@Surfboardv2ray
+vless://telegram-id-qeshmserver@108.61.103.121:19297?type=ws&path=/&security=none#🇳🇱NL_3345_@Surfboardv2ray
+vless://telegram-id-qeshmserver@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=/&flow=xtls-rprx-vision#🇸🇬SG_3346_@Surfboardv2ray
+vless://telegram-id-qeshmserver@35.157.51.112:443?type=ws&path=/&security=none#🇩🇪DE_3347_@Surfboardv2ray
+vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=reality&pbk=ipM5-HQ6sNBZhPGNLNpq8voqMvgxBeL9LDZY4sQ5Yyk&fp=chrome&sni=zula.ir&sid=d2bab77a&spx=/#🇳🇱NL_3348_@Surfboardv2ray
+vless://telgram-id-TheXConfig@64.226.73.121:8080?type=grpc&serviceName=telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig&authority=&security=none#🇩🇪DE_3349_@Surfboardv2ray
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3350_@Surfboardv2ray
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3351_@Surfboardv2ray
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?type=grpc&serviceName=Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman - Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram :: @v2rayiman&mode=multi&security=tls&encryption=none&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=isipo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3352_@Surfboardv2ray
+vless://telll--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3353_@Surfboardv2ray
+vless://v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🇫🇮FI_3354_@Surfboardv2ray
+vless://v2rayng_76@upgrade.bia2bax.shop:80?path=/?ed=2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#🇫🇮FI_3355_@Surfboardv2ray
+vless://v2rayng____76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#🇫🇮FI_3356_@Surfboardv2ray
+vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇮🇷IR_3357_@Surfboardv2ray
+
+{
+  "version": "4.1.10.0",
+  "configs": [
+    {
+      "server": "dongtaiwang4.com",
+      "server_port": 443,
+      "password": "dongtaiwang.com",
+      "method": "aes-256-gcm",
       "plugin": "v2ray-plugin",
       "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
       "plugin_args": "",
@@ -580,26 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-4201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-2832
 trojan://telegram-id-privatevpns@15.236.171.64:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.171.64-3773
-trojan://telegram-id-directvpn@15.236.250.123:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.250.123-3913
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.110-3115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.206-3212
-trojan://telegram-id-directvpn@52.47.207.189:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-52.47.207.189-3795
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-3235
-trojan://telegram-id-privatevpns@35.181.203.226:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.203.226-3549
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#%F0%9F%87%AA%F0%9F%87%B8ES-194.87.45.189-3223
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.128.195:989#%F0%9F%87%A8%F0%9F%87%B1CL-37.143.128.195-3242
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-2841
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-3095
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-3200
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-2865
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-3199
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@4.158.108.70:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.158.108.70-3247
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-2973
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMlkyT1RSaQ==@89.221.224.93:8388#%F0%9F%87%AE%F0%9F%87%B8IS-89.221.224.93-3017
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-2816
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.82-2868
-vmess://ewogICAgImFkZCI6ICJzMS5jbi1kYi50b3AiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxMDAtMjE1LTE1MS0xNzQuczEuY24tZGIudG9wIiwKICAgICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuMzQuMTgiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2LjE1NS4xMC00ODQ1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@172.166.90.63:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.166.90.63-3125
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.77-2814
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.72-3252
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-3138
