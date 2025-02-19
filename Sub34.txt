@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://57c0ba73-b381-4fa6-aad0-f87c72a4d2d1@[2407:3640:2185:9595:0:1:c2d0:9336]:59005?security=tls&headerType=none&fp=random&type=tcp#@vpnclashfa - 10
-trojan://4c0064e3-3ad6-4c96-bf21-4eb7ea4bbcb5@[2404:c140:1f00:1e::1b90]:8886?security=tls&headerType=none&fp=random&type=tcp#@vpnclashfa - 9
-trojan://3723507166611775488@unbiased-manatee.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=unbiased-manatee.boa152.lol#@vpnclashfa - 8
 trojan://3723507166611775488@tight-clam.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=tight-clam.boa152.lol#@vpnclashfa - 7
 trojan://3723507166611775488@pleased-airedale.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=pleased-airedale.boa152.lol#@vpnclashfa - 6
 trojan://3723507166611775488@eternal-tadpole.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=eternal-tadpole.boa152.lol#@vpnclashfa - 5
@@ -603,3 +600,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.5:80?type=ws#@vpnclashfa 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#@vpnclashfa - 288
 vless://chanel%3Av2rayng__76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#@vpnclashfa - 287
 vless://cbbacaa-aacb-acab-cbda-bcacabbacacb@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 286
+vless://cbaaabc-abac-baca-dabc-bacbabacacbc@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 285
+vless://caaacbb-abac-bcaa-acbd-abbcbcbcaaac@127.0.0.1:8080?security=tls&type=tcp#@vpnclashfa - 284
+vless://c9757870-462f-4010-829f-2766522f7d46@104.21.69.44:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.自己不看啥事基本事事.mogrenspore.nl#@vpnclashfa - 283
