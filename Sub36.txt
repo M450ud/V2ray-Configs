@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-privatevpns@54.75.208.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 130
+trojan://telegram-id-privatevpns@54.247.12.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 129
+trojan://telegram-id-privatevpns@54.228.243.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 128
+trojan://telegram-id-privatevpns@54.228.243.155:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#@vpnclashfa - 127
 trojan://telegram-id-privatevpns@54.228.153.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 126
 trojan://telegram-id-privatevpns@54.220.157.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 125
 trojan://telegram-id-privatevpns@54.170.224.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 124
@@ -599,7 +603,3 @@ vless://7d6a8b5a-bd0d-467d-a9c9-3bc256461e7c@188.164.158.246:2053?encryption=non
 vless://7d4b6a9a-cb74-4de1-b78f-dbec043d4156@188.164.158.246:2053?encryption=none&security=tls&sni=flnewconect3.fragmentscan.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#@vpnclashfa - 302
 vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#@vpnclashfa - 301
 vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#@vpnclashfa - 300
-vless://7acdf2df-95fd-4bc8-a730-d6e44b95aad2@172.67.187.156:443?security=tls&type=ws&headerType=&path=%2Fvlws&host=fcgerman.nimaempire.cfd&sni=fcgerman.nimaempire.cfd&fp=chrome#@vpnclashfa - 299
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.139.111:443?encryption=none&security=tls&sni=Pages.dev&type=ws&host=telegrm432XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray-XV2ray.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#@vpnclashfa - 298
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?path=%2FTelegram%2FXV2ray%3Fed&security=none&encryption=none&host=Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.&type=ws#@vpnclashfa - 297
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.219.108:80?path=%2FTelegram%2FXV2ray%3Fed&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.V2ray.com.sha1.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&type=ws#@vpnclashfa - 296
