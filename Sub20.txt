@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
 			"method" : "chacha20-ietf",
 			"protocol" : "auth_aes128_md5",
 			"protocolparam" : "135238:ekBYebTKgsF",
@@ -601,5 +603,3 @@ trojan://3778399737045327872@3.10.8.136:443?sni=simple-toad.adder289.quest#%E6%9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsyIDgyLjNLQi9zIiwiYWRkIjoiMTAzLjE0OS4xODMuMTc4IiwicG9ydCI6IjI3NTEyIiwiaWQiOiI5NmQzODY4My0wODE3LTRkOTEtYmZmYS02ZjAzZGYxOGQ5ZGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLMiJ9
 trojan://Aimer@162.159.44.233:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A529
 trojan://7d858e5a-664e-419f-b6a1-c3bceb8ac208@45.146.232.173:10465?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK3
-trojan://Aimer@161.129.41.140:6352?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#US8
-trojan://Aimer@220.78.106.96:50000?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A530
