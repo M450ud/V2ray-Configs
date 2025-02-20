@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"method" : "chacha20-ietf",
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "17431:D7BnFuPDyUA",
 			"obfs" : "tls1.2_ticket_auth",
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#%E6%9C%AA%E7%9F%A575%20335.8KB%2Fs
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.68.206.229:2375#%E6%9C%AA%E7%9F%A576%201.8MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbU9ENXgwOUt5Tk5KNlVTQ1ppUTRSdk4ybFNWUTZqekFFWW12clNMdFJac1NYNWdGNkNmY0VsdlVjdUxsblpE@94.131.96.213:29647#%E6%9C%AA%E7%9F%A577
+trojan://3747000103274291200@13.125.85.5:443?security=tls&type=tcp&sni=moral-buffalo.treefrog761.one#%E6%9C%AA%E7%9F%A578%201.3MB%2Fs
