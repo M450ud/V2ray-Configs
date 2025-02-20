@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"index" : 0,
-	"random" : true,
-	"sysProxyMode" : 3,
-	"shareOverLan" : false,
-	"localPort" : 1080,
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
-	"dnsServer" : "",
-	"reconnectTimes" : 2,
-	"randomAlgorithm" : 2,
-	"randomInGroup" : false,
-	"TTL" : 0,
-	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
@@ -603,3 +591,15 @@ trojan://telegram-id-privatevpns@52.56.241.12:22222?security=tls&type=tcp&sni=tr
 trojan://SSorg@77.232.140.7:443?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A585
 trojan://Aimer@222.97.9.166:50004?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A586
 vmess://eyJ2IjoiMiIsInBzIjoiVVMxNyAyNC4yTUIvcyIsImFkZCI6IjE0Mi40LjEwNC4zMyIsInBvcnQiOiI1MjE0MyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMxNyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@194.105.89.58:40003#%E6%9C%AA%E7%9F%A587
+trojan://Aimer@195.246.110.37:443?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A588
+trojan://Aimer@162.120.94.232:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US18
+trojan://blue2024@172.67.135.57:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A589
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#%E6%9C%AA%E7%9F%A590%201.7MB%2Fs
+trojan://3747000103274291200@185.67.127.69:443?security=tls&type=tcp&sni=ultimate-civet.adder289.quest#%E6%9C%AA%E7%9F%A591%208.4MB%2Fs
+trojan://Aimer@154.21.87.99:443?sni=ngepo.ambercc.filegear-sg.me#US19
+trojan://NISHIKUITAN111@104.16.218.64:443?#%E6%9C%AA%E7%9F%A592
+trojan://Aimer@216.24.57.186:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US20
+trojan://Aimer@18.153.94.168:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A593
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.72.167:443#%E6%9C%AA%E7%9F%A594
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIajlUS2g2dUV0dkZhNWdoNlVJUzg3@174.138.17.254:52252#%E6%9C%AA%E7%9F%A595
