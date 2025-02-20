@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://eb1bb22d-f4bf-4946-8706-3ed2d34188de@harlan.ns.cloudflare.com:443?encryption=none&security=tls&sni=bersco.alligator27.com&type=ws&alpn=http/1.1&host=bersco.alligator27.com&path=/wss#🇨🇦CA_2891_@Surfboardv2ray
+vless://eb6c7d6e-aa53-4616-9e64-46a0a2d95732@www.speedtest.net:2095?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=116.v.v.y.www.speedtest.net.ftp.debian.org.bklink.iR.&type=ws#🇨🇦CA_2892_@Surfboardv2ray
+vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.45.125:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇫🇷FR_2893_@Surfboardv2ray
+vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇫🇷FR_2894_@Surfboardv2ray
+vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ddns-ip.net&type=ws#🇺🇸US_2895_@Surfboardv2ray
+vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ddns-ip.net&type=ws#🇨🇦CA_2896_@Surfboardv2ray
+vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ddns-ip.net&type=ws#🇺🇸US_2897_@Surfboardv2ray
+vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ddns-ip.net&type=ws#🇺🇸US_2898_@Surfboardv2ray
+vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ddns-ip.net&type=ws#🇺🇸US_2899_@Surfboardv2ray
 vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ddns-ip.net&type=ws#🇨🇦CA_2900_@Surfboardv2ray
 vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&host=seyyed.webdade.ddns-ip.net&type=ws#🇨🇦CA_2901_@Surfboardv2ray
 vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=seyyed.webdade.ddns-ip.net&type=ws#🇨🇦CA_2902_@Surfboardv2ray
@@ -594,12 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	}
 }
 {
-	"configs" : [
-		{
-			"remarks" : "www.dongtaiwang.com 洛杉矶",
-			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
-			"server" : "liaoningddns.xyz",
-			"server_port" : 11421,
-			"server_udp_port" : 0,
-			"password" : "Fhbe0z",
-			"method" : "chacha20-ietf",
