@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a15f61e5-7e46-5fea-9c24-8995a89abe4e@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-40.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-40%20-%20RS%20-%20II
-vless://0110da41-e7e7-51bb-b93c-868167644bd2@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-50.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-50%20-%20SK%20-%20I
-vless://886f7c66-4f5a-571c-8e1b-944ba68e6ae7@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-60.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-60%20-%20SK%20-%20II
-
-
-
-SSHmax GCORE :
-
-vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=nl50.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-2-50
 vless://f8f1763f-2411-4170-903d-0ad30a49d1c5@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=ca-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20ca-f-1
 vless://7beb2597-f767-4dd4-993e-2cb3c41be5a2@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=jp-f-1.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20jp-f-1
 vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=fr-2-vpr.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-2-v-2
