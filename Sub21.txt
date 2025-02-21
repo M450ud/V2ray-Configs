@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.96.3:443?encryption=none&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=tel.iCV2ray.space#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%2B%D8%A8%D8%A7%2B%D8%B3%D8%B1%D8%B9%D8%AA%2B%D8%A8%D8%A7%D9%84%D8%A7%2B%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%2B%40Outlinev_2rayNG
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.19:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A6679
+ss://YWVzLTI1Ni1nY206b1U4NjNBazdZRjB6Rk0xYzRvUFZwSQ==@5.182.87.210:35961#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5.182.87.210%3A35961
+vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?encryption=none&security=tls&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&path=TELEGRAM-NETMelliAnti%2F%3Fed%3D2048#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40proxy_kafee%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.158.164:1106?encryption=none&security=none&type=tcp&headerType=http&host=creativecommons.org#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-193.151.158.164%3A1106
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.111.114.133:9101#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A9101
 vless://4f0efec2-9a6e-4122-9bcc-a8ab1c83c298@zula.ir:8443?encryption=none&security=tls&sni=telegram-falcunargo-ukrine.falcunar.asso.eu.org&fp=random&type=ws&host=telegram-falcunargo-ukrine.falcunar.asso.eu.org&path=%2F%3Fed%3D2048#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40vless_vmess%20%7C%20US%F0%9F%87%BA%F0%9F%87%B8%20%7C%200%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#%F0%9F%87%B8%F0%9F%87%ACSG-91.192.81.21-2252
@@ -598,8 +603,3 @@ vless://1695af64-9918-4d4e-9560-f37d2f3f3a8a@207.148.6.100:8080?path=%2F&securit
 vless://18867194-22b6-4d8b-d00d-0f377899d080@149.248.34.124:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 52
 vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@45.76.21.119:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 53
 vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@66.42.115.69:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 54
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.146.173.37:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp913Om9A5.nEwReTr432As.InFo#🔗 Vauth - 55
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp9115O36x.EaRcHiTeCtUrE.iR#🔗 Vauth - 56
-vless://2ab26340-5b82-4c22-ca63-dfa725b7abfe@45.76.230.236:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 57
-vless://2ed74ed2-46f3-4199-f362-1c288bccacfe@149.28.240.245:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 58
-vless://30170e07-9c03-4256-8dff-58a32ed493d4@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=aval42.allgums.com&type=ws&alpn=http/1.1&host=aval42.allgums.com&path=/wss#🔗 Vauth - 59
