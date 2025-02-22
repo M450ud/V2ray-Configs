@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://eyJhZGQiOiAidmMuZmx5LmRldiIsICJhaWQiOiAzMiwgImhvc3QiOiAidmMuZmx5LmRldiIsICJpZCI6ICIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZjIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjFOTF8xMl9AU3VyZmJvYXJkdjJyYXkiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidmMuZmx5LmRldiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhREVfMTNfQFN1cmZib2FyZHYycmF5IiwgImFkZCI6ICIxNjguMTE5LjEwNy4xNjIiLCAicG9ydCI6IDMxNDg0LCAiaWQiOiAiOTQzOTYxYjgtNGUyNy00YmRmLWEwNDgtYzJmNzI0ZjU0MmZiIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3R0JfMTRfQFN1cmZib2FyZHYycmF5IiwgImFkZCI6ICIxNDYuMTkuMTMwLjQ0IiwgInBvcnQiOiAxOTkzNSwgImlkIjogIjNmNzhmMzI5LWZmOWQtNDA3Ni1lYTUyLTk5MWJiODNmOGFiOSIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxTkxfMTVfQFN1cmZib2FyZHYycmF5IiwgImFkZCI6ICIxNTQuMjExLjIuMTI0IiwgInBvcnQiOiAxOTIwOCwgImlkIjogIjdlYjQ3YTA3LTYyZjEtNGJjMS1jZDY0LTIwNzIxNzk1ZTkyMyIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUifQ==
@@ -602,4 +603,3 @@ vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?path=/&security=
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?path=/&security=none&encryption=none&type=ws#🇨🇭CH_609_@Surfboardv2ray
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?path=/&security=none&encryption=none&type=ws#🇨🇭CH_610_@Surfboardv2ray
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?security=&type=ws&path=/&encryption=none#🇨🇭CH_611_@Surfboardv2ray
-vless://2e0a3077-b25c-4cca-8710-c005a7d191fc@104.21.80.1:2053?path=/aSwDV2wnxd8D2yQu?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=mahdiserver-ev4.pages.dev&fp=chrome&type=ws&sni=mAhDIseRVeR-Ev4.pAGEs.dev#🇺🇸US_612_@Surfboardv2ray
