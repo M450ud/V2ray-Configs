@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://86ba8b32-71a7-589c-b728-991c7c726d60@104.17.3.54:2096?encryption=none&security=tls&sni=esetsecuritylicense.jdnooo.woRkERs.dEV&alpn=h3%2Ch2&fp=chrome&type=ws&host=esetsecuritylicense.jdnooo.woRkERs.dEV&path=%2Fvless-ws%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.3.54%3A2096
+vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?encryption=none&security=tls&sni=pAHlAvi-184.pAGEs.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PaHLAvi-184.PAgES.dEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.134.196%3A443
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@212.183.88.162:80?encryption=none&security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%87%A6%F0%9F%87%B9%20AT-212.183.88.162%3A80
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.217:2052?encryption=none&security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-198.41.214.217%3A2052
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.193.36:443?encryption=none&security=tls&sni=pages.dev&fp=chrome&type=ws&host=download-93w.pages.dev&path=%2F%3Fed%3D8080#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.193.36%3A443
+vless://2b47debd-d627-11ee-aaa8-00505603e70d@104.26.11.137:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.26.11.137%3A443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.202:2053?encryption=none&security=tls&sni=BPb-V.Pages.DEv&alpn=http%2F1.1&type=ws&host=Bpb-v.pAgeS.DEV&path=%2F8EZOONoHtne638Vw%2FMTI5LjE1OS4yNDEuMTcy#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.227.38.202%3A2053
 vless://233a7a43-3340-44b7-ab79-14c29fc02e47@104.20.18.168:8880?encryption=none&security=none&type=ws&host=dr-venom.aminghasemidrvenom.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.20.18.168%3A8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?encryption=none&security=tls&sni=bPB-V.pageS.dEV&alpn=http%2F1.1&type=ws&host=Bpb-v.PAges.deV&path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%A8%F0%9F%87%A6%20CA-23.227.38.208%3A2053
@@ -597,9 +603,3 @@ vless://9440a9f0-2e73-4b84-9619-7fc4b4c3f327@45.32.228.172:8080?path=%2F&securit
 vless://a54cdb5d-5934-4c0c-91bc-a71474e5f45c@149.28.194.210:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 110
 vless://b27f4d97-2562-4867-ae20-45e625eec5f5@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net#🔗 Vauth - 111
 vless://bcb94a61-bf34-4724-c47d-db2bcf395339@149.28.223.61:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 112
-vless://bcb94a61-bf34-4724-c47d-db2bcf395339@149.28.66.122:8080?path=%2F&security=none&encryption=none&type=ws#🔗 Vauth - 113
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.113.12:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🔗 Vauth - 114
-vless://8c65262b-5f3b-4476-bf5b-094f9817c21d@zula.ir:8443?encryption=none&security=tls&sni=foodrover.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=foodrover.ir.&path=%2F#🔗 Vauth - 115
-vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=Join-Bede-MOSiv2.IR&path=%2F#🔗 Vauth - 116
-vless://acbabca-acba-baac-bcda-abacabcbacbc@127.0.0.1:1080?security=tls&type=tcp#🔗 Vauth - 117
-vless://cabbcaa-abca-caab-badc-bccaccbabaab@127.0.0.1:2080?security=tls&type=tcp#🔗 Vauth - 118
