@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80?path=/?ed=2560/telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇳🇱NL_2938_@Surfboardv2ray
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80?path=/?ed=2560/telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇳🇱NL_2939_@Surfboardv2ray
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80?path=/?ed=2560/telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇳🇱NL_2940_@Surfboardv2ray
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80?path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇺🇸US_2941_@Surfboardv2ray
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.222:80?path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇺🇸US_2942_@Surfboardv2ray
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80?path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇺🇸US_2943_@Surfboardv2ray
+vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@discord.gg:80?path=/&security=none&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws#🇨🇦CA_2944_@Surfboardv2ray
+vless://e4ebd5b7-b6db-4aee-80de-aa383819215c@www.speedtest.net:2086?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=none&encryption=none&host=fiNland1.httpupgrademowji.bloG.&type=httpupgrade#🇨🇦CA_2945_@Surfboardv2ray
+vless://e4fe36d9-f034-421e-b8d0-75ef7550d15c@www.speedtest.net:8880?path=/ws/api?ed=2056&TelegramChannel=@Lightning6-@Lightning6-@Lightning6-@Lightning6-@Lightning6-@Lightning6-@Lightning6-@Lightning6&security=none&encryption=none&host=api.12speedtest.bond.&type=ws#🇨🇦CA_2946_@Surfboardv2ray
 vless://e51a9e0c-5ff1-43b8-851f-ad35042566eb@194.87.148.192:39800?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_2947_@Surfboardv2ray
 vless://e51a9e0c-5ff1-43b8-851f-ad35042566eb@194.87.148.192:39800?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_2948_@Surfboardv2ray
 vless://e51a9e0c-5ff1-43b8-851f-ad35042566eb@194.87.148.192:39800?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_2949_@Surfboardv2ray
@@ -594,12 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"server_port" : 11421,
 			"server_udp_port" : 0,
 			"password" : "Fhbe0z",
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "17431:D7BnFuPDyUA",
-			"obfs" : "tls1.2_ticket_auth",
-			"obfsparam" : "f4b6417431.microsoft.com",
-			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
