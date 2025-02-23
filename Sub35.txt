@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-directvpn@51.20.230.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 108
 trojan://telegram-id-directvpn@51.20.214.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 107
 trojan://telegram-id-directvpn@35.182.180.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 106
 trojan://telegram-id-directvpn@35.178.150.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 105
@@ -602,4 +603,3 @@ vmess://eyJhZGQiOiIxOTkuMjMyLjEuOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIxOTkuMTg4LjEwNS41NiIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy40NjU1NDQ4NC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4MTIzNjc3ODgiLCJwb3J0IjoiMzEwMDQiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMzFcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTkuMTg4LjEwNS41NiIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy40NjU1NDQ4NC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU2Mzk1ODYzNDEiLCJwb3J0IjoiMzEwMDQiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMzBcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTguMjAwLjQ4LjI0OCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy4yMzM1NTI5Mi54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4MTIzNjc3ODgiLCJwb3J0IjoiMzcwMDYiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMjlcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxOTguMi4xOTYuNyIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy44NDE2MzAwNy54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzUyMDg2NDEwMDIiLCJwb3J0IjoiMzYwMDkiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMjhcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
