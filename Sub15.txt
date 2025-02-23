@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.72-3370
 trojan://telegram-id-privatevpns@15.188.107.162:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.188.107.162-4035
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-3428
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.77-3339
@@ -603,3 +602,4 @@ vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@maralhost.com:2053?path=vless-ws/?e
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@maralhost.com:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=norooz.cconfigv2ray.workers.dev&fp=chrome&type=ws&sni=norooz.cconfigv2ray.workers.dev#🇨🇦CA_451_@Surfboardv2ray
 vless://1c8ea5a2-e986-42d6-9039-867aed7ca528@178.128.236.252:443?security=reality&encryption=none&pbk=MM2ZuhIbjaM6h7NOhWQZM8R8hkSE7Qc0uaEwzZ9YuQ0&headerType=none&fp=chrome&type=tcp&sni=isna.ir&sid=15bf9cd93a696bc5#🇨🇦CA_452_@Surfboardv2ray
 vless://1c8ea5a2-e986-42d6-9039-867aed7ca528@178.128.236.252:443?security=reality&encryption=none&pbk=MM2ZuhIbjaM6h7NOhWQZM8R8hkSE7Qc0uaEwzZ9YuQ0&headerType=none&fp=chrome&type=tcp&sni=isna.ir&sid=15bf9cd93a696bc5#🇨🇦CA_453_@Surfboardv2ray
+vless://1c94ed6e-7114-5190-a2f7-8645e0c68c7c@gsmvpx.info:80?path=/vless&security=none&encryption=none&host=iranfastvpn.com&type=ws#🇳🇱NL_454_@Surfboardv2ray
