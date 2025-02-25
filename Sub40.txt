@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-      <span class="hidden" id="cf-footer-ip">20.246.78.30</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +602,4 @@ vless://4d42e14d-6f0a-42b5-b28e-47bc6920cfad@80.92.204.207:443?security=tls&sni=
 
 vless://e04fd6e4-d570-4bf0-9bd7-c7f7f830e521@91.194.161.15:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=is1-gss.msnegar.eu.org&encryption=none#Rayan%20-%20GSS%20-%20WS-102%20-%20IS
 
+vless://4a4b18ce-3a21-4659-9b34-a752baa21a9e@95.164.69.101:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk1-gss.msnegar.eu.org&encryption=none#Rayan%20-%20GSS%20-%20WS-103%20-%20UK
