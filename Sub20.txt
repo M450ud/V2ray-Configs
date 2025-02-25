@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e2afc104-fc04-4e33-87a5-c5175a5b4c17@www.parsvds.ir:8080?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&security=none#🇺🇸US_2851_@Surfboardv2ray
 vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@34.194.177.180:8880?security=none&encryption=none&headerType=none&type=tcp#🇺🇸US_2852_@Surfboardv2ray
 vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@52.32.132.172:8880?security=none&encryption=none&headerType=none&type=tcp#🇺🇸US_2853_@Surfboardv2ray
 vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@167.235.224.93:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=forward222.maryam1500.top#🇩🇪DE_2854_@Surfboardv2ray
@@ -603,3 +602,4 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"proxyHost" : "",
 	"proxyPort" : 0,
 	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",

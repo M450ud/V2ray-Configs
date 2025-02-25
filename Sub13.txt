@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://3723507166611775488@unbiased-manatee.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=unbiased-manatee.boa152.lol#JP🇯🇵 | unbiased-manatee.boa152.lol-443 | 177.9ms
 trojan://3723507166611775488@tight-clam.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=tight-clam.boa152.lol#US🇺🇸 | tight-clam.boa152.lol-443 | 36.79ms
 trojan://3723507166611775488@pleased-airedale.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=pleased-airedale.boa152.lol#CZ🇨🇿 | pleased-airedale.boa152.lol-443 | 94.97ms
 trojan://3723507166611775488@eternal-tadpole.boa152.lol:443?security=tls&headerType=none&type=tcp&sni=eternal-tadpole.boa152.lol#US🇺🇸 | eternal-tadpole.boa152.lol-443 | 17.77ms
@@ -603,3 +602,4 @@ trojan://auto@wilson.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&f
 trojan://auto@172.67.106.26:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6.11ms
 trojan://auto@172.67.110.232:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6.01ms
 trojan://auto@172.67.95.24:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6.63ms
+trojan://auto@uriah.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6.09ms
