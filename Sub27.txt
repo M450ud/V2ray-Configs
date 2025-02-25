@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://your_password@aws-aus-sydney-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-aus-sydney-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://your_password@aws-ar-buenosaires-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-ar-buenosaires-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://your_password@54.93.172.88:443/?type=tcp&security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29
+trojan://your_password@52.56.183.187:443/?type=tcp&security=tls&sni=aws-uk-london-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
+trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakarta-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9ID%28AzadNet.t.me%29
+trojan://your_password@43.206.127.212:443/?type=tcp&security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
+trojan://your_password@43.205.109.9:443/?type=tcp&security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B3IN%28AzadNet.t.me%29
+trojan://your_password@3.35.157.103:443/?type=tcp&security=tls&sni=aws-kr-seoul-1.f1rocketnode.com#%F0%9F%87%B0%F0%9F%87%B7KR%28AzadNet.t.me%29
 trojan://your_password@3.27.95.146:443/?type=tcp&security=tls&sni=aws-aus-sydney-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BAAU%28AzadNet.t.me%29
 trojan://your_password@188.114.99.0:443/?type=ws&host=aws-ge-frankfurt-1.f1cflinea.com&path=%2Ff1rocket&security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://your_password@18.100.115.245:443/?type=tcp&security=tls&sni=aws-es-madrid-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%B8ES%28AzadNet.t.me%29
@@ -595,11 +603,3 @@ trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443/?typ
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@nljs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@jp.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@in.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@hkjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@frjs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@dejs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@cajs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ca.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@aujs.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ap.liangyuandiancloud.com:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=us02.trojanyyds.xyz#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
