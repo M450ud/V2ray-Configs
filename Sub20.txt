@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_2838_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2839_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2840_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2841_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2842_@Surfboardv2ray
-vless://df30e39c-9126-44f0-b572-f5e99e1dfdec@g.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_2843_@Surfboardv2ray
-vless://df30e39c-9126-44f0-b572-f5e99e1dfdec@g.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_2844_@Surfboardv2ray
 vless://df30e39c-9126-44f0-b572-f5e99e1dfdec@g.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_2845_@Surfboardv2ray
 vless://df69d52e-c136-4087-b4de-11c7cd083a9b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=/&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.feadlenetworkv2sa2.net#🇺🇸US_2846_@Surfboardv2ray
 vless://df69d52e-c136-4087-b4de-11c7cd083a9b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=/&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.feadlenetworkv2sa2.net#🇺🇸US_2847_@Surfboardv2ray
@@ -603,3 +596,10 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"udp_over_tcp" : false
 		},
 		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "DE9E32FF31B704BF98967202DE78D00D",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
