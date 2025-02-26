@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
-	"proxyUserAgent" : "",
-	"authUser" : "",
-	"authPass" : "",
-	"autoBan" : false,
-	"sameHostForSameTarget" : false,
-	"keepVisitTime" : 180,
-	"isHideTips" : true,
-	"nodeFeedAutoUpdate" : true,
-	"serverSubscribes" : [
-
 	],
 	"token" : {
 
@@ -603,3 +590,16 @@ ss://YWVzLTI1Ni1nY206WDFHQkxXUTNVNFVMTzZYVg==@23.185.248.15:17005#US20
 trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A547
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#US21%202.0MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#%E6%9C%AA%E7%9F%A548%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#%E6%9C%AA%E7%9F%A549%201.8MB%2Fs
+trojan://TUFfeTYV56@104.21.96.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/?ed=2048&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A550
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27002?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US22%2051.0MB%2Fs
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:46668?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK6
+trojan://blue2024@104.17.40.244:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A551
+ss://YWVzLTI1Ni1nY206QU4zRlRBVjY1WFY5QlFLRw==@156.245.190.18:15009#HK7
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#%E6%9C%AA%E7%9F%A552%20559.6KB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTMiLCJhZGQiOiIxMTIuMTMyLjIxMi4xOSIsInBvcnQiOiI1MDAwNCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1MyJ9
+trojan://Aimer@89.248.207.37:443?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A554
+trojan://Aimer@91.149.239.238:443?security=tls&type=ws&sni=ngepo.ambercc.filegear-sg.me&path=/&host=ngepo.ambercc.filegear-sg.mehttp/1.1#US23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#%E6%9C%AA%E7%9F%A555%2081.7KB%2Fs
+trojan://blue2024@104.17.246.107:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A556
