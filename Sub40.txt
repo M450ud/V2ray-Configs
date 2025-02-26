@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://2ed74ed2-46f3-4199-f362-1c288bccacfe@149.28.240.245:8080?path=%2F&security=none&encryption=none&type=ws#telegram
+vless://30170e07-9c03-4256-8dff-58a32ed493d4@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=aval42.allgums.com&type=ws&alpn=http/1.1&host=aval42.allgums.com&path=/wss#telegram
 vless://348da6c0-4717-4782-9e28-18174cf0957b@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=t9swgm.allgums.com&type=ws&alpn=http/1.1&host=t9swgm.allgums.com&path=/wss#telegram
 vless://6f45e60b-441f-4824-fa10-c11ab1dfa0f7@45.32.94.179:8080?path=%2F&security=none&encryption=none&type=ws#telegram
 vless://a9784d56-8975-4b13-9e62-84da185fd889@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE---telegram-VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub`
@@ -600,6 +602,4 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:4
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-10.com&encryption=none#Rayan - FL - F10 - 443
 
 
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=harifet-manam-1.com&type=ws#Rayan - FL - F1 - 80
 

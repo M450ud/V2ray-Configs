@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-directvpn@35.157.74.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 101
+trojan://telegram-id-directvpn@34.254.140.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 100
 trojan://telegram-id-directvpn@34.236.106.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 99
 trojan://telegram-id-directvpn@3.97.251.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 98
 trojan://telegram-id-directvpn@3.97.210.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 97
@@ -601,5 +603,3 @@ vmess://eyJhZGQiOiIxOTIuNzQuMjQyLjI0MiIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy42MjgxMzIz
 vmess://eyJhZGQiOiIxOTIuNzQuMjQyLjI0MiIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy42MjgxMzIzNC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4MTIzNjc3ODgiLCJwb3J0IjoiMzgwMDMiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMjRcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTIuNzQuMjQ0LjE4OCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy4xNzMzMDU4NS54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4OTg1MjE5ODYiLCJwb3J0IjoiMzEwMDMiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMjNcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTIuNzQuMjMxLjE5OSIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy41NzI3Nzc3NC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4OTg1MjE5ODYiLCJwb3J0IjoiMzcwMDEiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMjJcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxODUuMTY4LjE5NS4yMTEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDI3ODhiNDctZDk1Mi01NWUwLTk4ZGUtZDc0M2QwMWJkMDA3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiQHZwbmNsYXNoZmEgLSAyMVxuIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxODMuMjM2LjQ4LjE1OCIsImFpZCI6IjY0IiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTAwNTIiLCJwcyI6IkB2cG5jbGFzaGZhIC0gMjBcbiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://55b57d47-00b7-4539-ae4a-fc394e53d3d4@104.17.147.22:8880/?type=ws&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
+vless://bf852703-3716-43f6-81c6-7f08403a1d55@[2a06:98c1:3122::]:8880/?type=ws&encryption=none&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2F%3Fed%3D2048#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011/?type=tcp&encryption=none#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.252.12:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
 vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.17.25.45:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2
@@ -381,7 +383,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
         <h1>
           <span class="cf-error-type" data-translate="error">Error</span>
           <span class="cf-error-code">1101</span>
-          <small class="heading-ray-id">Ray ID: 917f3499295c9c1f &bull; 2025-02-26 10:20:57 UTC</small>
+          <small class="heading-ray-id">Ray ID: 917f870e48e4679c &bull; 2025-02-26 11:17:14 UTC</small>
         </h1>
         <h2 class="cf-subheadline" data-translate="error_desc">Worker threw exception</h2>
       </div><!-- /.header -->
@@ -406,12 +408,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">917f3499295c9c1f</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">917f870e48e4679c</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.39.63.131</span>
+      <span class="hidden" id="cf-footer-ip">52.234.7.21</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -601,5 +603,3 @@ vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@66.42.115.69:8080?path=%2F&security
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.146.173.37:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp913Om9A5.nEwReTr432As.InFo#telegram
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp9115O36x.EaRcHiTeCtUrE.iR#telegram
 vless://2ab26340-5b82-4c22-ca63-dfa725b7abfe@45.76.230.236:8080?path=%2F&security=none&encryption=none&type=ws#telegram
-vless://2ed74ed2-46f3-4199-f362-1c288bccacfe@149.28.240.245:8080?path=%2F&security=none&encryption=none&type=ws#telegram
-vless://30170e07-9c03-4256-8dff-58a32ed493d4@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=aval42.allgums.com&type=ws&alpn=http/1.1&host=aval42.allgums.com&path=/wss#telegram
