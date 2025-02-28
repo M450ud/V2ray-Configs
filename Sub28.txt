@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://Jncm1NRGbZ@172.67.175.243:8443/?type=tcp&security=tls&sni=frankfoortvip.followprovider.ir#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://HdsUZmsHQW@148.113.141.99:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
-trojan://FuUaWS3YWG@crunch.floorshoping22.com:2053/?type=grpc&security=tls&sni=Crunch.floorshoping22.com&alpn=h2&fp=chrome#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://FLpONjB2Lb@139.162.45.139:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-trojan://Daily_Configs@104.17.91.181:2053/?type=tcp&security=tls
-trojan://BO7e2KO_KlAjuJY-HYoabQ@172.67.131.41:443/?type=tcp&security=tls&sni=n21-at.netzrun.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://BO7e2KO_KlAjuJY-HYoabQ@104.21.3.201:443/?type=tcp&security=tls&sni=n37-at.netzrun.com&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us10.ssr.ee:443/?type=tcp&security=tls&sni=us10.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us08.ssr.ee:443/?type=tcp&security=tls&sni=us08.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us05.ssr.ee:443/?type=tcp&security=tls&sni=us05.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us03.ssr.ee:443/?type=tcp&security=tls&sni=us03.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443/?type=tcp&security=tls&sni=us01.ssr.ee&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.220.46:443/?type=tcp&security=tls&sni=us05.ssr.ee#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -603,3 +593,13 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.143.66.87:9101#%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.91:9102#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.91:9101#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.51:9102#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.51:9101#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.27:9102#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.27:9101#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.142:9102#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.142:9101#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.114.114.69:9102#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.114.114.69:9101#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.110.1.197:9102#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.110.1.105:9102#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.110.1.105:9101#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
