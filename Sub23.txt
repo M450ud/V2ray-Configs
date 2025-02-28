@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://63769deb-4153-4b98-aba3-31bc07e53a2d@185.241.40.98:8080?security=reality&flow=xtls-rprx-vision&sni=tesla.com&type=tcp&fp=safari&pbk=2WPr_gl32oss606-t3pSk2vwno8gR2g5_cE5WSeZa3U&sid=7262a05b#🔗 Vauth - 196
 vless://eb8a5ef9-cdbc-40aa-92b1-c850d0f0d7e7@157.90.173.106:1022?security=reality&sni=www.fitchratings.com&type=tcp&fp=chrome&pbk=sFgTIJFnMoj6ke5FMGqf3qWtXHftTuQk2FSTqPMHTmc#🔗 Vauth - 197
 vless://265797b2-a987-499f-8a6e-59bfb25c74ba@188.166.8.167:55799?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=aWXzb0XBOZ9hLg0BAgUXN1gqml9_-dMRHb0dfUpl13o&sid=1007599f3ff56c#🔗 Vauth - 198
 vless://672b4d6e-46f8-48db-90f5-003d90cb211c@165.232.91.110:8445?security=reality&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 199
@@ -603,3 +602,4 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@172.67.138.69:443?security=tls&sni=
 vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:2053?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2FTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%3Fed%3D2560#🔗 Vauth - 793
 vless://0d9c223d-5dca-49cc-94c5-850ef59a3c8a@172.66.47.173:443?security=tls&sni=dfgdfgdzfgdfzgdrgdgertd.pages.dev&type=ws&host=dfgdfgdzfgdfzgdrgdgertd.pages.dev&fp=chrome#🔗 Vauth - 794
 vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@141.98.169.42:443?security=tls&sni=blog.demo98.ir&type=ws&host=blog.demo98.ir&path=%2Fwp-admin%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 795
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.32.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔗 Vauth - 796
