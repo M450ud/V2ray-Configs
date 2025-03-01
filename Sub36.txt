@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-directvpn@13.48.102.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 46
+trojan://telegram-id-directvpn@13.42.237.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 45
+trojan://telegram-id-directvpn@13.42.146.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 44
+trojan://telegram-id-directvpn@13.39.213.178:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 43
+trojan://telegram-id-directvpn@13.39.154.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 42
+trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 41
+trojan://dns68@206.238.237.1:2087?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#@vpnclashfa - 40
+trojan://dns68@162.159.152.2:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#@vpnclashfa - 39
+trojan://bpb-trojan@go.inmobi.com:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@vpnclashfa - 38
 trojan://bpb-trojan@go.inmobi.com:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http%2F1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@vpnclashfa - 37
 trojan://bpb-trojan@bpb-worker-panel1-e4p.pages.dev:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#@vpnclashfa - 36
 trojan://bpb-trojan@185.176.24.2:443?path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV#@vpnclashfa - 35
@@ -594,12 +603,3 @@ vless://fab73611-28ab-4368-8ed9-dc244847c558@WwW.SpeEdTest.Net:8880?path=%2F%3Fe
 vless://fab73611-28ab-4368-8ed9-dc244847c558@WwW.SpeEdTest.Net:8880?path=%2F%3Fed%3D8880Telegram%20%3A&security=none&encryption=none&host=pourya.direct1.gpairnetwork369.ir.&type=httpupgrade#@vpnclashfa - 324
 vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@172.67.138.69:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.#@vpnclashfa - 323
 vless://f79f4ede-ad61-4ca1-bf12-04bff2cfef4f@151.101.2.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vmesskhodam.com&path=%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%3Fed%3D2048#@vpnclashfa - 322
-vless://f79f4ede-ad61-4ca1-bf12-04bff2cfef4f@151.101.2.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vmesskhodam.com#@vpnclashfa - 321
-vless://f79f4ede-ad61-4ca1-bf12-04bff2cfef4f@151.101.130.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vmesskhodam.com#@vpnclashfa - 320
-vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.80.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#@vpnclashfa - 319
-vless://f192f52e-6c1d-41d4-8a80-120c707e9123@104.20.66.92:80?path=%2FSvnProBot-V2ray69Speed.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=vstorep.hamrahmarzban.com&type=ws#@vpnclashfa - 318
-vless://f054f66b-6cda-44c9-cf32-d7cea51c971f@104.17.147.22:8080?security=none&type=ws&host=d7aef6d199db21b23b5d47452aed6555ekxnkxn.degrmeto.site.&path=%2F%3Fed%3D8880#@vpnclashfa - 317
-vless://efaf2f2e-b217-43da-8527-5c0261f36f45@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#@vpnclashfa - 316
-vless://ef61322c-21f2-4359-88f1-0c2c5e25d25d@www.speedtest.net:2096?type=ws&host=g.yUSEFkharE.SBS&path=/Tel:%40DOnald_vpn&security=tls&fp=chrome&sni=g.yUSEFkharE.SBS&alpn=h3,h2,http/1.1#@vpnclashfa - 315
-vless://ef1b547e-e140-4b2a-b209-787649cc5479@best1.bestshop10.ir:39366?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@vpnclashfa - 314
-vless://ef148613-c7be-4e5c-b492-f18f7db26202@mmd.fast.hosting-ip.com:80?path=%2FTelegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2048&security=none&encryption=none&host=mmd2.ir&type=ws#@vpnclashfa - 313

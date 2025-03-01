@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.88.229.132:1009?type=tcp&security=none#🇺🇸US_2562_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.15.234:1009?type=tcp&security=none#🇺🇸US_2563_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.162.161:1009?type=tcp&security=none#🇺🇸US_2564_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.86.155:1009?type=tcp&security=none#🇺🇸US_2565_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://ff220ea3-854f-4140-a505-8b551e318392@hajlab.ucdavis.edu:80?path=/@XvProx
 vless://ff325d80-977a-4b0d-85d7-2a58fe364258@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=vi0sh0.ulavpnx2.work&type=ws&alpn=http/1.1&host=vi0sh0.ulavpnx2.work&path=/wss#🇨🇦CA_3159_@Surfboardv2ray
 vless://ff48d680-490f-42f2-8c07-6bf738862bcc@188.245.144.178:443?path=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=342647820-000291.pages.dev&fp=chrome&type=ws&sni=PAgEs.dev#🇩🇪DE_3160_@Surfboardv2ray
 vless://ff48d680-490f-42f2-8c07-6bf738862bcc@188.245.144.178:443?path=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=342647820-000291.pages.dev&fp=chrome&type=ws&sni=PAgEs.dev#🇩🇪DE_3161_@Surfboardv2ray
-vless://ff4c1e90-fe35-4966-9b05-191777776561@172.66.46.213:443?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&host=speedtest1.svgspeedtest.net&security=tls&fp=&alpn=&sni=speedtest1.svgspeedtest.net#🇨🇦CA_3162_@Surfboardv2ray
