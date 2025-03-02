@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0173
+trojan://telegram-id-privatevpns@15.188.46.25:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.188.46.25-3936
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.136-3578
 trojan://telegram-id-privatevpns@13.38.157.233:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.157.233-4276
 trojan://telegram-id-privatevpns@3.72.202.226:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.72.202.226-4353
@@ -601,5 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.61.49:443?encryption=none&se
 trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F%3Fed%3D2560#VL-1026-57
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.174.232:8880?encryption=none&security=none&type=grpc#VL-1211-012
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.93.66:8880?encryption=none&security=none&type=grpc#VL-1211-013
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.150:8880?encryption=none&security=none&type=grpc#VL-1211-014
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.221:8880?encryption=none&security=none&type=grpc#VL-1211-015
