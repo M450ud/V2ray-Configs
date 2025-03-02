@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://f308fcb0-f47b-47eb-8b08-f88eb834bc66@104.21.69.44:8443?security=tls&sni=de9.vlessx.xyz&fp=randomized&type=ws&path=Telegram-v2rayNGcloud-Telegram-@v2rayNGcloud-Telegram-@v2rayNGcloud&host=de9.vlessx.xyz&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxNjYuODguMzUuMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjIxMmExYzUtMGE1OS00YjA4LWZlYjMtOTE4ZmU4NzM3YzA0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0MDk2OSIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDQuMjQuMTc3LjciLCJhaWQiOiIwIiwiaG9zdCI6InNhbmQuYmxhbmt1Lm1lIiwiaWQiOiJjOGFiZjY2YS0xOTAzLTQ2MzgtYTQ0OC05Yzg2NzMzZTQyNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzMTM0ODAiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6InNhbmRwLmJsYW5rdS5tZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNTIuNjkuMjExLjIzNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkMzQ1OTE2Zi0xNjczLTRhOTgtZjM3ZC00OTM1N2M4NGNlMDMiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-trojan://dbbfbbb0-56e5-11ed-bd9e-1239d0255272@104.21.21.147:443?security=tls&sni=id5-trojan.bonds.id&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://VpRuqFDCJo@138.2.234.225:45555?security=tls&sni=sj1.alieszvps.cf&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://mnk8fd@104.21.69.52:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://your_password@172.67.165.204:443?security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&path=/f1rocket&host=aws-aus-sydney-1.f1cflinea.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://mnk8fd@172.67.204.230:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@209.46.30.17:443?security=tls&sni=2jp4.pqjc.buzz&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxNDAuMjM4LjAuMTQ1IiwiYWlkIjoiMCIsImhvc3QiOiJ6ZmtyMS4zMDgwMzA4MC54eXoiLCJpZCI6ImE3ZDExMjUxLTljY2MtNDBlOS04MDdjLWNlOGJmZWY1ZDRkZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAyMDMiLCJwcyI6IvCfkrsgQ2hhbm5lbCDwn4aUIDogQEFsaWVuVlBONDAyIPCfkb0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -603,3 +595,11 @@ trojan://VPNCUSTOMIZE-VPNCUSTOMIZE@104.17.234.12:443?path=%2FTelegram%2CVPNCUSTO
 trojan://QwwHvrnN@223.113.54.145:36442?security=tls&headerType=none&type=tcp#@vpnclashfa - 20
 trojan://PU3f7528NtNXnQqb9X263rGSD@get.fragmentary.info:443?path=%2Fsocks5tobefree&security=tls&host=get.fragmentary.info&fp=random&type=ws&sni=get.fragmentary.info#@vpnclashfa - 19
 trojan://Julius@66.59.197.211:443?security=tls&type=tcp#@vpnclashfa - 18
+trojan://Julius@66.59.197.211:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 17
+trojan://Julius@193.106.248.196:443?security=tls&headerType=none&type=tcp&sni=miami.juliusnet.com#@vpnclashfa - 16
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#@vpnclashfa - 15
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@168.138.142.53:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#@vpnclashfa - 14
+trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?security=tls&type=tcp#@vpnclashfa - 13
+trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 12
+trojan://984e400bf5d541b7b0815913fe0c432a@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 11
+trojan://57c0ba73-b381-4fa6-aad0-f87c72a4d2d1@[2407:3640:2185:9595:0:1:c2d0:9336]:59005?security=tls&headerType=none&fp=random&type=tcp#@vpnclashfa - 10
