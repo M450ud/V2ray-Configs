@@ -3,30 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "DE9E32FF31B704BF98967202DE78D00D",
-			"server" : "nk6.boom.skin",
-			"server_port" : 16000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
@@ -603,3 +579,27 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@09303582303.ddns.net:443?sni=4n5c7j
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cf.naixii.top:443?sni=v6gincu0wq8d0xnxd1vd.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  3
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@ir8.seeb.shop:443?sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  4
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@usamd.ptuu.gq:443?sni=qi79crholtc6qgd6y9n6.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  5
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@i.badboys.gq:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 6
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mtn.anahid.beauty:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 7
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@niaa.ddns.net:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 8
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@ir8.seeb.shop:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 9
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgop7cjp05p2q0.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  10
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
+vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwMy0wNCAxMDo1NiBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNmI3ZTg4Mi1lMDc3LTRlZGMtYWFiMC01M2RhYTg3MjE1N2M=@free.2weradf.xyz:36313#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
+trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@195.133.52.153:8443?security=tls&headerType=http&type=tcp&sni=ru2.asc-sam.ir&host=ru2.asc-sam.ir#%E6%9C%AA%E7%9F%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#%E6%9C%AA%E7%9F%A52%2011.0MB%2Fs
+trojan://Aimer@108.162.193.128:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+ss://YWVzLTI1Ni1nY206UFQyTjYwRENVSDZWQ1FQQw==@156.245.190.13:15004#HK
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#HK2
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#US%202.0MB%2Fs
+trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&path=/olem/ws?&host=foffmelo.com#US2
+trojan://acabcab-aabc-caba-cdab-cacbababbcac@127.0.0.1:8080?security=tls&type=tcp#US3
+ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA==@185.126.239.231:20002#%E6%9C%AA%E7%9F%A54%20569.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%E6%9C%AA%E7%9F%A55%20752.4KB%2Fs
+trojan://Aimer@162.159.44.231:2053?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A56
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmZkMDA5MS03MGU2LTQyMTMtYTg3MC1kNzg1NjNkNmM2OGY=@free.2apzhfa.xyz:31411#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%E6%9C%AA%E7%9F%A57%2010.6MB%2Fs
+ss://YWVzLTI1Ni1nY206WUtCNDJKR0tLOEg1RElXRg==@23.185.248.12:17002#US4
