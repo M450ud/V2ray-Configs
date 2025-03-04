@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?encryption=none&security=none&type=grpc#🇩🇪DE_2720_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_2721_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_2722_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_2723_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_2724_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇩🇪DE_2725_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.227:8880?encryption=none&security=none&type=grpc#🇩🇪DE_2726_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.227:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪DE_2727_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.227:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_2728_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.227:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇩🇪DE_2729_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.103:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2730_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2731_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_2732_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2733_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?security=&type=grpc&encryption=none#🇫🇮FI_2734_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.127:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇮FI_2735_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_2736_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2737_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2738_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2739_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2740_@Surfboardv2ray
@@ -603,3 +585,21 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
       "plugin": "v2ray-plugin",
       "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
       "plugin_args": "",
+      "remarks": "www.dongtaiwang.com 洛杉矶",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 0,
+  "global": false,
+  "enabled": false,
+  "shareOverLan": false,
+  "isDefault": false,
+  "isIPv6Enabled": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": null,
+  "gfwListUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
