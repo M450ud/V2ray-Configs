@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443/?type=tcp&encryption=none&security=tls&sni=tr-s.xor-vpn.ru#%F0%9F%87%B2%F0%9F%87%A9MD%28AzadNet.t.me%29
 vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443/?type=ws&encryption=none&host=w26io.deonta-yancy.workers.dev&path=%2F%3Fed%3D2048%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&sni=w26io.deonta-yancy.workers.dev&alpn=http%2F1.1&fp=edge#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443/?type=ws&encryption=none&host=1403.stopt7307.workers.dev&path=%2F&security=tls&sni=1403.stopt7307.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://626e5631-2928-4725-8d74-8eef698aabb1@yahoocomgooglecomsof98varzesh3com3.bestsoftware4you.com:30339/?type=tcp&encryption=none#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -603,3 +602,4 @@ trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443/?type=tcp&secu
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@jp005.421421.xyz:20230/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://58e0f26f-67c7-4d13-a90f-d31679097bc6@us2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443/?type=tcp&security=tls#%F0%9F%87%BB%F0%9F%87%B3VN%28AzadNet.t.me%29
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
