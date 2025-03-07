@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.166.88.198:4444#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+23.166.88.198-4444+%7C+105.23ms
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:5601#US%F0%9F%87%BA%F0%9F%87%B8+%7C+69.50.95.203-5601+%7C+56.08ms
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.203:2375#US%F0%9F%87%BA%F0%9F%87%B8+%7C+69.50.95.203-2375+%7C+53.02ms
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+23.166.88.221-8118+%7C+106.62ms
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.55:7307#US%F0%9F%87%BA%F0%9F%87%B8+%7C+69.50.92.55-7307+%7C+55.21ms
@@ -603,3 +601,5 @@ vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:443?security=tls
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 85.32ms
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 158.97ms
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@151.101.194.228:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=chrome&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.drlimit.net&path=%2F#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.03ms
+vless://ecf605cd-bddf-45db-a3d4-a254c776ef52@95.164.36.59:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#RELAY🚩 | sourceforge.net-443 | 50.26ms
+vless://e693e7b6-134b-436f-a19b-d3f6569e3ebd@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#DE🇩🇪 | best1.bestshop10.ir-16072 | 365ms
