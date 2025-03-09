@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@188.114.97.2:8443/?type=ws&encryption=none&host=proxiiraniii.fiseye5589.workers.dev&path=%2F&security=tls&sni=proxiiraniii.fiseye5589.workers.dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701/?encryption=none&host=Speedtest.net&type=tcp&headerType=http#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443/?type=tcp&encryption=none&security=tls&sni=tr-s.xor-vpn.ru#%F0%9F%87%B2%F0%9F%87%A9MD%28AzadNet.t.me%29
 vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443/?type=ws&encryption=none&host=w26io.deonta-yancy.workers.dev&path=%2F%3Fed%3D2048%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&sni=w26io.deonta-yancy.workers.dev&alpn=http%2F1.1&fp=edge#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -603,3 +602,4 @@ trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@65.108.205.61:443/?type=tcp&securi
 trojan://62313560-c059-11ee-b43c-1239d0255272@uk1.test3.net:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@jp005.421421.xyz:20230/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://58e0f26f-67c7-4d13-a90f-d31679097bc6@us2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
