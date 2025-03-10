@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://telegram-id-privatevpns@18.196.171.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 67
-trojan://telegram-id-privatevpns@18.194.63.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 66
-trojan://telegram-id-privatevpns@18.175.78.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 65
-trojan://telegram-id-privatevpns@18.175.105.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 64
 trojan://telegram-id-privatevpns@18.168.237.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 63
 trojan://telegram-id-privatevpns@18.158.92.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 62
 trojan://telegram-id-privatevpns@18.157.156.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 61
@@ -603,3 +599,7 @@ vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:80?security=none
 vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net#@vpnclashfa - 239
 vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net#@vpnclashfa - 238
 vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.drlimit.net#@vpnclashfa - 237
+vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net#@vpnclashfa - 236
+vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net#@vpnclashfa - 235
+vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net#@vpnclashfa - 234
+vless://60950ba3-f03c-4364-b8ef-9913e525e337@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#@vpnclashfa - 233
