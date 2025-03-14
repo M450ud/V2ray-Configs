@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:19320/?type=tcp&encryption=none#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137/?type=tcp&encryption=none#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://TELEGRAM-NUFiLTER@nufilter.fastly80.hosting-ip.com:80/?type=ws&encryption=none&host=kazemi21zerofun.com&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://TELEGRAM-NUFiLTER@fishlab.ucdavis.edu:80/?type=ws&encryption=none&host=kazemi21zerofun.coM&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -602,4 +603,3 @@ trojan://NISHIKUITAN222@104.16.68.95:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%
 trojan://NISHIKUITAN222@104.16.25.100:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://NISHIKUITAN222@104.16.151.253:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://NISHIKUITAN111@188.114.99.96:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://NISHIKUITAN111@188.114.99.126:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
