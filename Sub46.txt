@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+    integrity="sha384-steVzOSr5DI5VId9YubIjP5piv7RVCSZI7DmaxRj6VrZPzoPUmw/i6YbPCnE5HIi"></script>
+<link
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
   href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
   integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
 <script
@@ -449,14 +458,14 @@ vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&
 
             <div class="cf-error-footer cf-wrapper">
     <p>
-      <span class="cf-footer-item">Cloudflare Ray ID: 920723e7ce542243</span>
+      <span class="cf-footer-item">Cloudflare Ray ID: 92077d206bdf20d6</span>
       <span class="cf-footer-separator">&bull;</span>
-      <span class="cf-footer-item">2025-03-14 22:17:16 UTC</span>
+      <span class="cf-footer-item">2025-03-14 23:18:11 UTC</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden">
         <span class="cf-footer-separator">&bull;</span>
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.183.110.163</span>
+        <span class="hidden" id="cf-footer-ip">172.190.111.23</span>
       </span>
       <span class="cf-footer-separator">&bull;</span>
       <span class="cf-footer-item"><span>Runs on </span><a rel="noopener noreferrer" href="https://workers.cloudflare.com?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare Workers</a></span>
@@ -594,12 +603,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.191.12:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.248.163:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇫🇮]t.me/ConfigsHub`
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub`
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2FShadowProxy66%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=randomized&type=ws&sni=REDw.pOOriam.Ir#[🇨🇦]t.me/ConfigsHub`
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub`
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@91.107.241.24:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇩🇪]t.me/ConfigsHub`
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub`
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.30.48:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇫🇮]t.me/ConfigsHub`
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub`
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub`
-ss://384ffaa5-49e4-47a2-86bf-be4ad665c910@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub`
-ss://280c9122-3db3-4f02-b785-c07579f51d4e@hajlab.ucdavis.edu:80?security=&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub`
-ss://d8856c7c-d489-48f7-ba08-1a0f413ac52e@ww.speedmeter.life:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#tm%E2%9A%A1%7C%40lrnbymaa%20%20%281%29%20%E2%AC%9C%EF%B8%8F%F0%9F%9F%A6%20%D9%87%D9%85%D9%87
