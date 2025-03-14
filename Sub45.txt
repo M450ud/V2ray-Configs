@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  <section class="hero is-dark">
-    <div class="hero-body">
-      <div class="container">
-        <h1 class="title">
-          404
-        </h1>
         <h2 class="subtitle">
           Page not found.
         </h2>
@@ -603,3 +597,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@fi4.saint.spynick.com:8880?encrypti
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@fi2.saint.spynick.com:8880?encryption=none&security=none&type=grpc#VL-1220-042
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#VL-1215-010
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?encryption=none&security=none&type=grpc#VL-1220-063
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?encryption=none&security=none&type=grpc#VL-1220-061
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.214.119:8880?encryption=none&security=none&type=grpc#VL-1220-048
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.0.155:80?encryption=none&security=none&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=%2FJoin-ELiV2RAY%3Fed%3D2560#VL-1220-065
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?encryption=none&security=none&type=grpc#VL-1220-064
+vless://68d645e3-80b0-4cc8-8a8b-d3862351b908@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-1222-001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@hk.fastsoonlink.com:40000#VL-1222-002
