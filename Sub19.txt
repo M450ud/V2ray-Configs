@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+212.102.47.131-443+%7C+63.49ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+37.19.198.236-443+%7C+7.96ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#US%F0%9F%87%BA%F0%9F%87%B8+%7C+37.19.198.160-443+%7C+7.93ms
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.157.40.103-6697+%7C+73ms
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.157.40.101-8009+%7C+72.86ms
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#US%F0%9F%87%BA%F0%9F%87%B8+%7C+69.50.93.86-6679+%7C+1.68ms
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.150.152.112-7002+%7C+59.59ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+212.102.53.198-443+%7C+76.47ms
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2376#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.157.40.113-2376+%7C+74.15ms
@@ -597,9 +603,3 @@ vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls
 vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 13.15ms
 vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.49ms
 vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.28ms
-vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 8.13ms
-vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.25ms
-vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.72ms
-vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 9ms
-vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.5ms
-vless://dc316ea1-2449-4217-a6fb-12db67a9177d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.12ms
