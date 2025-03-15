@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-
-vless://f8537da1-402d-441f-8710-45c7132504a2@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-813
-vless://70673417-8727-437e-926b-74322934e5d5@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-995
-vless://1427b57b-02b2-49b8-a2ab-53a515d31339@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl39-1340
-vless://2e22c34f-3716-4650-98bc-70ab5953c3fc@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-467
 vless://e7109938-da58-4d66-9b71-1050a4d0d58d@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-884
 vless://bd79bf14-ee5a-4dce-b05f-825119b6a3ab@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-988
 vless://280059be-4575-4b25-9903-92fe6b628e14@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-998
@@ -603,3 +598,8 @@ vless://ecb1ab21-9b7d-43aa-a3ab-e034d8c8c512@138.2.171.146:443/?type=tcp&encrypt
 
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@142.0.134.242:45017?encryption=auto&type=tcp#@V2rayMiner
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.212.19:50004?encryption=auto&type=tcp#@V2rayMiner
+vless://55b57d47-00b7-4539-ae4a-fc394e53d3d4@www.speedtest.net:8880?flow=&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&type=ws#@V2rayMiner
+vless://d6545fce-02c9-4d1e-ae5d-e55d2f60d165@Arpc.MAshti.link:8880?flow=&host=1505-wordpress-admin-vip-panel-cpanrl-iran-chanel.mralpha-vpn.COM.&path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048&type=ws#@V2rayMiner
+vless://d6545fce-02c9-4d1e-ae5d-e55d2f60d165@Arpc.MAshti.link:8880?flow=&host=1505-wordpress-admin-vip-panel-cpanrl-iran-chanel.mralpha-vpn.COM.&path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048&type=ws#@V2rayMiner
+vless://f9ccbbd3-8c4e-49f2-9ce3-2db4950f37e8@www.speedtest.net:2095?flow=&host=Academi-82.com.www.speedtest.net.www.zula.ir.cloudflare.com.AcadeMigroup.IR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--%3Fed%3D2048&type=ws#@V2rayMiner
+vless://8521242c-0a2e-495b-a0d7-ad44ddf45a0f@www.speedtest.net:80?flow=&host=0.v2.www.speedtest.net.g.debian.org.AcademiGroup.iR.&path=%2FJoin--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN--Join--ACADEMI_VPN&type=httpupgrade#@V2rayMiner
