@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
 	"authUser" : "",
 	"authPass" : "",
 	"autoBan" : false,
@@ -594,12 +603,3 @@ ss://YWVzLTI1Ni1nY206ZjY3N2U3MjMtOTc3Ni00YmU3LWFhNTktYzQ5N2Q4OTBhYTYw@188.119.11
 ss://YWVzLTI1Ni1nY206SUU3U0MzWVI5WDJUNUk3Ng==@156.231.104.25:18015#%E6%9C%AA%E7%9F%A591
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yzk0OGQ2Mi05NGIzLTRjMWItYWI3ZC1jMmQ3ODdkODBjYzU=@free.2weradf.xyz:36731#%F0%9F%87%B9%F0%9F%87%ADTH%E6%B3%B0%E5%9B%BD
 trojan://Aimer@45.134.21.8:2053?security=tls&type=tcp&sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A592
-trojan://blue2024@108.162.195.155:443?security=tls&type=ws&sni=tb.promote.icu&host=tb.promote.icu#%E6%9C%AA%E7%9F%A593
-trojan://7d858e5a-664e-419f-b6a1-c3bceb8ac208@45.146.232.173:10465?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK7
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@68.183.212.103:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A594
-trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.168.62:443?security=tls&type=ws&sni=BoSTON03.862224.ggFf.neT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston03.862224.ggff.net#%E6%9C%AA%E7%9F%A595
-trojan://DHvwod7oq7@104.21.32.1:2083?security=tls&type=ws&sni=esna.twn24.ir&path=/mehdi&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A596
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#TW2%20234.3KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#%E6%9C%AA%E7%9F%A597%20459.0KB%2Fs
-trojan://telegram-id-privatevpns@3.124.225.251:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTggMy45TUIvcyIsImFkZCI6IjMxLjEyOS4xMDUuMjM5IiwicG9ydCI6IjE2MjMxIiwiaWQiOiI3OTNlMDNjYy0yYjA4LTRkMWItYmIwYi01OTI1NjdkMTkwNDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6Ijk4In0=

@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://eafc111d-4a4b-4dc8-a26e-3ec97899db00@5.75.202.97:19211?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_2959_@Surfboardv2ray
+vless://eb6c7d6e-aa53-4616-9e64-46a0a2d95732@www.speedtest.net:2095?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=116.v.v.y.www.speedtest.net.ftp.debian.org.bklink.iR.&type=ws#🇨🇦CA_2960_@Surfboardv2ray
+vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇫🇷FR_2961_@Surfboardv2ray
+vless://ebeb6822-1e9f-4a3d-b0b6-81b8f53331d8@hajlab.ucdavis.edu:443?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#🇺🇸US_2962_@Surfboardv2ray
+vless://ec3d9e57-2b62-4bd2-8aa1-a583de0cb784@a1.ir60.shop:39978?security=none&encryption=none&host=bwm.com&headerType=http&type=tcp#🇮🇷IR_2963_@Surfboardv2ray
+vless://ec3d9e57-2b62-4bd2-8aa1-a583de0cb784@a1.ir60.shop:39978?security=none&encryption=none&host=bwm.com&headerType=http&type=tcp#🇮🇷IR_2964_@Surfboardv2ray
+vless://ec526a16-8995-4c52-bda5-8c9f97afba4d@37.202.232.62:443/?type=tcp&path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN&host=bmw.com&headerType=http&security=none#🇮🇷IR_2965_@Surfboardv2ray
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?security=reality&encryption=none&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&headerType=none&fp=chrome&type=tcp&sni=tile.openstreetmap.org&sid=be4243#🇩🇪DE_2966_@Surfboardv2ray
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.97.249:44441?security=reality&encryption=none&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&headerType=none&fp=chrome&type=tcp&sni=tile.openstreetmap.org&sid=be4243#🇩🇪DE_2967_@Surfboardv2ray
 vless://ec90bacd-6214-4981-d238-65e694126e2a@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷IR_2968_@Surfboardv2ray
 vless://ecc36a9a-4e8d-4af7-896d-6b59800105ff@zmaoz.faculty.ucdavis.edu:443?path=/olem/ws?ed=4096&security=tls&alpn=h2,http/1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#🇺🇸US_2969_@Surfboardv2ray
 vless://ecc36a9a-4e8d-4af7-896d-6b59800105ff@zmaoz.faculty.ucdavis.edu:443?path=/olem/ws?ed=4096&security=tls&alpn=h2,http/1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#🇺🇸US_2970_@Surfboardv2ray
@@ -594,12 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
-	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
-	"proxyUserAgent" : "",
