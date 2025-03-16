@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.162:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=2560#🇫🇷FR_1109_@Surfboardv2ray
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.176:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=2560#🇫🇷FR_1110_@Surfboardv2ray
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.18:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=2560#🇫🇷FR_1111_@Surfboardv2ray
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.198:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=2560#🇫🇷FR_1112_@Surfboardv2ray
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.20:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=2560#🇫🇷FR_1113_@Surfboardv2ray
@@ -603,3 +601,5 @@ vless://95089f63-c732-4594-bfcb-c8180bd09a1c@65.21.149.150:443?path=/&security=n
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@91.107.246.46:443?security=&type=tcp&encryption=none#🇩🇪DE_1706_@Surfboardv2ray
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@91.107.246.46:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE_1707_@Surfboardv2ray
 vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?path=/?ed=2048&security=none&encryption=none&host=nl36.vlessx.us&type=ws#🇨🇦CA_1708_@Surfboardv2ray
+vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:8443?path=/?ed=2048&security=tls&encryption=none&host=nl36.vlessx.us&fp=chrome&type=ws&sni=nl36.vlessx.us#🇨🇦CA_1709_@Surfboardv2ray
+vless://95a8f073-13a6-4241-b1d1-50cb77518b08@zula.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=vip.hvitrin.ir&fp=chrome&type=ws&sni=vip.hvitrin.ir#🇨🇦CA_1710_@Surfboardv2ray
