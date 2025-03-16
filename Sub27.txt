@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
-	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
-	"proxyUserAgent" : "",
-	"authUser" : "",
-	"authPass" : "",
-	"autoBan" : false,
-	"sameHostForSameTarget" : false,
-	"keepVisitTime" : 180,
-	"isHideTips" : true,
 	"nodeFeedAutoUpdate" : true,
 	"serverSubscribes" : [
 
@@ -603,3 +588,18 @@ trojan://Aimer@168.138.204.44:587?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%
 trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@5.83.221.31:30052?security=tls&sni=v2th01.fuqiangren.com#HK2
 trojan://Aimer@40.233.70.7:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A548
 trojan://aP%26%7B%29UBD%40qDGS9b%3B@172.66.44.109:2053?security=tls&type=ws&sni=JoinmAhDiSERver-7Hd.paGes.Dev&path=/tr66o1szTTRkMyRg8P?ed=2560&host=joinmahdiserver-7hd.pages.dev#%E6%9C%AA%E7%9F%A549
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#US17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjBjNWI1MTA4MTIwYTcy@23.162.56.206:11201#%E6%9C%AA%E7%9F%A550%20708.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTk1NWZmYTViNThjYWUz@45.10.154.245:26268#%E6%9C%AA%E7%9F%A551%20217.5KB%2Fs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#%E6%9C%AA%E7%9F%A552%20333.9KB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#US18%201.9MB%2Fs
+trojan://Aimer@43.156.116.194:443?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A553
+ss://YWVzLTI1Ni1nY206QVlDNE1RNURTR0o0UU9LRw==@156.245.190.19:15010#HK3%201.1MB%2Fs
+trojan://Aimer@154.211.8.240:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US19
+trojan://Aimer@107.175.37.179:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#US20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWFlODE2ZS01YTQ0LTRiZDYtOTQxMS01ZjVkNmU4OGFmNzk=@free.2apzhfa.xyz:31271#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+trojan://Aimer@212.41.15.119:443?sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A554
+trojan://Aimer@104.19.107.190:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A555
+trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@143.244.191.231:443?security=tls&type=tcp&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#US21
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@37.48.65.155:443?security=tls&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A556
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@185.24.151.214:52952#%E6%9C%AA%E7%9F%A557%2093.5KB%2Fs
