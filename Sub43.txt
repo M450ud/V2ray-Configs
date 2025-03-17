@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://a646b695-f10c-42ef-8288-9021ded98927@172.67.81.238:8080?security=&type=ws&path=@v2box&host=v2box.aaaaa1.sbs&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://your_password@188.114.99.0:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://bLYUuMKgn1aHGKID@usa7.wujie8.xyz:443?security=tls&sni=usa7.wujie8.xyz&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.7:889?security=tls&sni=cdn.cjhh.lol&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?security=tls&sni=aws-es-madrid-1.f1rocketnode.com&fp=chrome&type=ws&path=/f1rocket&host=aws-es-madrid-1.f1rocketnode.com#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+vless://06e87d4a-314d-4651-af86-d4f55624159a@104.21.50.49:2053?security=tls&sni=bia-code-v2.alphav.top&allowInsecure=1&type=grpc&serviceName=@V2ray_Alpha%20@V2ray_Alpha%20@V2ray_Alpha&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIzOC41NC42LjI0NSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNjUxNWZmYS04M2MyLTQ3NDItZjBjZC1mYjk2YTY0ZWEwYzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI3MTE0IiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://e4e80428-c1e2-44b5-a8ce-7b868d41b49b@47.74.37.50:80?security=&type=ws&path=/&host=jp3.rtacg.com&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -597,9 +603,3 @@ vless://a4baafe3-e4da-447c-8224-4607d007dcce@150.241.101.222:29742?security=real
 vless://a2d9ede5-8f7c-4723-acfd-087717ae06c9@151.101.2.165:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl117.ir&type=ws#@vpnclashfa - 247
 vless://a1b54855-c76e-5b60-8bf6-dc25c99ceeee@104.26.13.8:2095/?type=ws&encryption=none&host=3.9.www.abrha.com.abrha.net.www.zula.ir.joinBede.eliv2ry.io.sk2.vless.sitespeedtest.net.&path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed#@vpnclashfa - 246
 vless://a0f8d501-a00a-41f1-b3de-310d24df09ae@Wedbaz.flashwrite.ir:8443?security=reality&encryption=none&pbk=snecvGb4VGcY1DESJROf6xOoLBYTZqQivnKkuH4nVW4&headerType=none&fp=chrome&type=tcp&sni=www.stackoverflow.com&sid=155dfc38ced3ba72#@vpnclashfa - 245
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@104.25.0.86:8080/?type=ws&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V03.ThEpHp.Ir.&path=%2F#@vpnclashfa - 244
-vless://V2RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#@vpnclashfa - 243
-vless://V2RAXX@fastlyipcloudflaretamiz.fast.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2CV2RAXX%3Fed%3D443&security=none&encryption=none&host=V2RAXX.IR&type=ws#@vpnclashfa - 242
-vless://V2RAXX-@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#@vpnclashfa - 241
-vless://V2RAXX---@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#@vpnclashfa - 240
-vless://Tel--V2RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#@vpnclashfa - 239
