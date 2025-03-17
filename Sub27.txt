@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.55.115:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_2824_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2825_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_2826_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2827_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_2828_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.21:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇺🇸US_2829_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.198.160.190:8880?mode=gun&security=&encryption=none&type=grpc#🇩🇪DE_2830_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.12:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇸🇪SE_2831_@Surfboardv2ray
@@ -603,3 +598,8 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"server_udp_port" : 0,
 			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
