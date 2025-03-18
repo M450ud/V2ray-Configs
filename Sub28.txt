@@ -3,6 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 2,
 	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
@@ -585,21 +603,3 @@ trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#%E6%9C%AA%E7%9F%A528%201.8MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjkgMjE5LjFLQi9zIiwiYWRkIjoiNjIuMTQ2LjIzMi4xNTYiLCJwb3J0IjoiMzMyODEiLCJpZCI6IjI0ZWRhMGVhLWFjZjAtNDUzOC1hMDAxLWY3NDZhNDgwMjM3YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjkifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%E6%9C%AA%E7%9F%A530%20502.0KB%2Fs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@217.182.198.219:7306#%E6%9C%AA%E7%9F%A531%201.8MB%2Fs
-trojan://qr5nXh3P7K6T@80.240.30.72:443?sni=ash.69cf842c-b58a-4e6d-99ff-5c5012d8f395.kailib.com#%E6%9C%AA%E7%9F%A532
-trojan://RXO4SlDD8qRKaxz3cBgSa3AXZuFnpu3Ce3KZFAN3YCxC7EEj2lTRN4Y6FyOcBp50IzD3D@35.180.65.55:443?sni=bottling.coffeekit.net#%E6%9C%AA%E7%9F%A533%205.6MB%2Fs
-trojan://882f187b-feb1-4be7-8678-32460f1ecfe6@134.199.150.246:443?security=tls&sni=au-full.privateip.net#%E6%9C%AA%E7%9F%A534
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:6379#%E6%9C%AA%E7%9F%A535%201.8MB%2Fs
-trojan://bpb-trojan@172.67.2.238:443?security=tls&type=tcp&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev#%E6%9C%AA%E7%9F%A536
-trojan://bpb-trojan@172.67.209.80:443?security=tls&type=tcp&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev#%E6%9C%AA%E7%9F%A537
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%E6%9C%AA%E7%9F%A538
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#%E6%9C%AA%E7%9F%A539%20420.2KB%2Fs
-trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A540
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#US16%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#%E6%9C%AA%E7%9F%A541%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206RVhDQjNLS1cwR1hRM0VDRA==@154.196.244.19:16009#%E6%9C%AA%E7%9F%A542%2025.7KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxNyAxNTkuNE1CL3MiLCJhZGQiOiIxNS4yMDQuMjQ4LjkyIiwicG9ydCI6IjMwNTYyIiwiaWQiOiI4MjQ2NjcxNS02YTU4LTQwNDYtYTM2My1hMGQxOGU1YjJhYjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTcifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxOCAxMTYuMU1CL3MiLCJhZGQiOiIxNS4yMDQuMjQ5LjAiLCJwb3J0IjoiNDgxNjAiLCJpZCI6IjViMTEzYzEyLTRkZDQtNGJiNS05YzAxLWNmZjA5MmI1NTllMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMxOCJ9
-trojan://0f73d067-8fac-4bf4-a08e-ca2434ef5086@192.142.4.64:42405?security=tls&type=tcp&sni=cdn.alibaba.com#HK4
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDMgMTUuMk1CL3MiLCJhZGQiOiIxOTguNDEuMjA5LjcwIiwicG9ydCI6IjIwODYiLCJpZCI6IjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIxMDAtMTcxLTEwNC0yMzguczIuZGItbGluazAyLnRvcCIsInBhdGgiOiIvZGFiYWkuaW4xNzIuNjQuNDMuMTQiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0MyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM0FJVVNsb0Z0YVl1eHJtVm9wSFlX@62.210.88.22:443#%E6%9C%AA%E7%9F%A544
