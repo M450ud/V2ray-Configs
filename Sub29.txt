@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.64.1:443?security=tls&type=ws&sni=BOsToN01.818185.GGff.NET&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=BOsToN01.818185.GGff.NET#%E6%9C%AA%E7%9F%A564
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.46:2377#TW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%E6%9C%AA%E7%9F%A565%20176.3KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.44:2377#TW2
-trojan://telegram-id-directvpn@35.177.134.54:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A566
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.211:8080#US11
-trojan://Aimer@175.215.175.175:50003?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A567
-trojan://NISHIKUITAN111@213.109.205.159:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A568
-ss://YWVzLTI1Ni1nY206TTdQVlZIU0tBUk83NE1XSw==@206.245.211.23:19013#%E6%9C%AA%E7%9F%A569
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MGM4ZTM1Ny0zN2FiLTQwYTctYjg1NS0xYTAyNTE3NTM3Y2M=@free.2apzhfa.xyz:31311#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
-trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@154.17.10.32:28333?security=tls&sni=rolling.homeofbrave.net#US12
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443?security=tls&sni=trus.moonfree.top#US13
 trojan://6c64e6f9-a76c-49eb-96d2-bf8b1afee4a3@159.89.106.182:443?security=tls&sni=fr-full.privateip.net#%E6%9C%AA%E7%9F%A570
 trojan://Aimer@210.222.30.180:17100?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A571
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RjhDWkZuVFhvam5wRlhVUkh2YmUx@81.19.141.45:443#%E6%9C%AA%E7%9F%A572
@@ -603,3 +590,16 @@ vless://d7807075-738b-4032-8124-f11eb88dd097@188.34.201.88:16072?security=none&t
 vless://4290621f-483f-4e40-a15a-07c8cfb93873@104.21.112.1:2095?type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔗 Vauth - 483
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.217:2087?security=tls&sni=a19.bewface-smart.rest&type=grpc#🔗 Vauth - 484
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@104.16.222.126:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 485
+vless://26842241-856f-45f2-b33c-b58e66f36fb8@104.18.14.19:2082?security=none&type=ws&host=0113.edwv8ve3.workers.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 486
+vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 487
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.245:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔗 Vauth - 488
+vless://fa659470-ca91-43c1-a966-2349531fb6a8@188.114.98.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 489
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.181:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔗 Vauth - 490
+vless://ad4a8fe9-2a32-49c4-a532-e4eef253f148@104.19.54.50:443?security=tls&sni=azadanet.azadanet.workers.dev&type=ws&host=azadanet.azadanet.workers.dev&path=%2F#🔗 Vauth - 491
+vless://88f7f39a-163c-4b83-989e-f69a7b579314@172.66.47.23:2096?security=tls&sni=mAHDISeRVEr-Ea5.pagEs.deV&type=ws&host=mAHDISeRVEr-Ea5.pagEs.deV&path=%2Fsowisld53dj231ht%3Fed%3D2560#🔗 Vauth - 492
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.7:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔗 Vauth - 493
+vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@104.21.43.124:80?security=none&type=ws&host=SwMeHrV2ray.naziitness.com.#🔗 Vauth - 494
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80?security=none&type=ws&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔗 Vauth - 495
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&type=tcp#🔗 Vauth - 496
+vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560&fp=firefox#🔗 Vauth - 497
+vless://bd041b03-224b-44d1-a9ec-e25425c822b3@37.152.173.134:2053?security=none&type=tcp&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&path=%2F&headerType=http#🔗 Vauth - 498
