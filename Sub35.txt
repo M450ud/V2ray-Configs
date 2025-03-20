@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://e30dbfd0-f15a-11ed-9080-1239d0255272@51.159.59.186:443/?type=tcp&security=tls&sni=fr.test3.net&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
+trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@94.23.78.106:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B9PT%28AzadNet.t.me%29
+trojan://dns68@104.21.92.73:443/?type=tcp&security=tls&sni=trojan.putata.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://dc21bdbf-04c0-4a7e-8cb4-3d5af39ddf13@t1.teslacdn1.live:443/?type=tcp&security=tls&sni=t1.teslacdn1.live#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443/?type=tcp&security=tls&sni=jobscareertoday.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443/?type=tcp&security=tls&sni=bangladeshipatri.com#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://d4e41ff772c7fd45@23.247.137.70:3389/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -599,7 +603,3 @@ trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443/?type=tcp&securit
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.53.169:8080#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.236:8080#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@51.158.244.38:8080#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
