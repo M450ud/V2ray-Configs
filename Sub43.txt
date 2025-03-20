@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.139.36:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://a6bebbb9-c6bc-42af-9ea2-434a2164a978@ru01.trojanyyds.xyz:443?security=tls&sni=ru01.trojanyyds.xyz&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://4c68fce6-2b72-4ab6-8dd4-8e07139e2b2e@sgt1.sshocean.net:443?security=tls&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://855d54f7-944d-4f04-9171-1ee5ab1d8b60@v2rayngcloud.ddns.net:80?security=&type=ws&path=Telegram-v2rayNGcloud-Telegram-@v2rayNGcloud-Telegram-@v2rayNGcloud&host=nl5.vlessx.us&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 trojan://af6a3685-c423-4579-bfea-784c453d5e23@t5.teslacdn2.live:443?security=tls&sni=t5.teslacdn2.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -603,3 +599,7 @@ vless://8b899dc8-5d3f-4f5d-a96f-edc8e732ca3b@151.101.3.8:80?path=%2FTelegram-ipV
 vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?encryption=none&security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&path=%2F#@vpnclashfa - 186
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-49u.pages.dev:2087/?type=ws&encryption=none&host=joiNv2NgFAsT-49u.PageS.dev&path=%2Fvl0rioUFQ6HK2PN5%3Fed%3D2560&security=tls&sni=joInV2ngfAsT-49U.PageS.dev#@vpnclashfa - 185
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-v.pages.dev:2053?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-v.PaGEs.DeV&type=ws&sni=BpB-v.PAgEs.Dev#@vpnclashfa - 184
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#@vpnclashfa - 183
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#@vpnclashfa - 182
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.148:443?path=%2FeEhGG7CNQ2HTbmMU%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=little-fog-5666.netmousavi.workers.dev&fp=randomized&type=ws&sni=lITtlE-FOg-5666.NEtMoUSaVi.WorKErS.Dev#@vpnclashfa - 181
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.161.13:443/?type=ws&encryption=none&host=pROdUCtioN.PPaL03.aDhAM-ESSA.wOrKErs.dEv&path=%2FBVcSI6Btsnes5TFN%3Fed%3D2560&security=tls&sni=PROdUcTiOn.pPaL03.aDhAM-EsSa.WoRKers.deV&alpn=h2%2Chttp%2F1.1&fp=randomized#@vpnclashfa - 180
