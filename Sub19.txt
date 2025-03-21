@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"autoBan" : false,
-	"sameHostForSameTarget" : false,
-	"keepVisitTime" : 180,
-	"isHideTips" : true,
-	"nodeFeedAutoUpdate" : true,
-	"serverSubscribes" : [
-
-	],
-	"token" : {
 
 	},
 	"portMap" : {
@@ -603,3 +594,12 @@ trojan://telegram-id-directvpn@15.237.90.40:22222?security=tls&headerType=none&t
 trojan://Aimer@188.164.159.185:8443?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31677#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6
 trojan://e338dac0-36d3-3700-8675-7fb501a7e57f@gy.58n.net:20294?sni=z294.hongkongnode.top#%E6%9C%AA%E7%9F%A532
+trojan://0597af27-0972-45de-a32f-d320348cb765@aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583?sni=q08m.vgraxiw73s.hasyaf.cn#%E6%9C%AA%E7%9F%A533
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@52.38.66.116:20230?security=tls&sni=421421.xyz#%E6%9C%AA%E7%9F%A534
+ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21115#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31271#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31173#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+ss://YWVzLTI1Ni1nY206WDNGMTJXNERFM1hTM0E0Sw==@183.240.211.76:15006#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31113#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC6
+ss://YWVzLTI1Ni1nY206SUVQOEdZUDRXTVI0ODJUSw==@120.233.205.203:15005#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
+trojan://aaccbab-acab-baac-abcd-bcabbacbaacc@127.0.0.1:1080?security=tls&type=tcp#%E6%9C%AA%E7%9F%A535
