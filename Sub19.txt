@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
 			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
 			"server" : "aiavnd1.vip.conectinnode.info",
 			"server_port" : 1611,
@@ -593,13 +603,3 @@ trojan://telegram-id-privatevpns@16.16.240.234:22222?security=tls&type=tcp&sni=t
 ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#%E6%9C%AA%E7%9F%A520
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.19:2376#US7
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443?security=tls&type=tcp&sni=official.seoulcitygovernment.com.ua#%E6%9C%AA%E7%9F%A521
-trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me#US8
-trojan://blue2024@172.64.146.66:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A522
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#%E6%9C%AA%E7%9F%A523%201.8MB%2Fs
-trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13655?security=tls&type=tcp&sni=tw.lihua.click#HK2
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#US9%201.8MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%E6%9C%AA%E7%9F%A524%202.1MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.62.68:443#US10
-trojan://SSorg@77.232.140.7:443?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A525
-ss://YWVzLTEyOC1nY206Vk1oR3A1d0VJeUNEZjkwVA==@gy01.hunheiydd.xyz:56277#%E6%9C%AA%E7%9F%A526
-trojan://Aimer@154.9.241.61:587?security=tls&type=tcp&sni=agepu.ambercc.filegear-sg.me#US11
