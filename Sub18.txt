@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.90.36.98:1009?type=tcp&security=none#🇺🇸US_2508_@Surfboardv2ray
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.95.4.107:1009?security=none&encryption=none&headerType=none&type=tcp#🇺🇸US_2509_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.243.24.66:1009?type=tcp&security=none#🇺🇸US_2510_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.37.82.126:1009?type=tcp&security=none#🇺🇸US_2511_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.190.63.231:1009?type=tcp&security=none#🇺🇸US_2512_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://telegram-id-ArV2ray@live.skornorth.com:443?type=grpc&serviceName=Telegra
 vless://telegram-id-ArV2ray@www.speedtest.net:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=m.mashti.link&fp=chrome&type=ws&sni=m.mashti.link#🇨🇦CA_3105_@Surfboardv2ray
 vless://telegram-id-ArV2ry@www.speedtest.net:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=m.mashti.link&fp=chrome&type=ws&sni=m.mashti.link#🇨🇦CA_3106_@Surfboardv2ray
 vless://telegram-id-qeshmserver@108.61.103.121:19297?type=ws&path=/&security=none#🇳🇱NL_3107_@Surfboardv2ray
-vless://telegram-id-qeshmserver@139.180.146.164:2020?type=tcp&security=reality&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&fp=chrome&sni=ea.com&sid=05fb89d5&spx=/&flow=xtls-rprx-vision#🇸🇬SG_3108_@Surfboardv2ray
-vless://telegram-id-qeshmserver@35.157.51.112:443?type=ws&path=/&security=none#🇩🇪DE_3109_@Surfboardv2ray
