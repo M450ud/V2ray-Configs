@@ -3,6 +3,51 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=reality&pbk=ipM5-HQ6sNBZhPGNLNpq8voqMvgxBeL9LDZY4sQ5Yyk&fp=chrome&sni=zula.ir&sid=d2bab77a&spx=/#🇳🇱NL_3110_@Surfboardv2ray
+vless://telgram-id-TheXConfig@64.226.73.121:8080?type=grpc&serviceName=telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig,telgram-id-TheXConfig&authority=&security=none#🇩🇪DE_3111_@Surfboardv2ray
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3112_@Surfboardv2ray
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3113_@Surfboardv2ray
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?type=grpc&serviceName=Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman - Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram : @v2rayiman- Telegram :: @v2rayiman&mode=multi&security=tls&encryption=none&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=isipo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3114_@Surfboardv2ray
+vless://telll--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US_3115_@Surfboardv2ray
+vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇮🇷IR_3116_@Surfboardv2ray
+
+{
+  "version": "4.1.10.0",
+  "configs": [
+    {
+      "server": "dongtaiwang4.com",
+      "server_port": 443,
+      "password": "dongtaiwang.com",
+      "method": "aes-256-gcm",
+      "plugin": "v2ray-plugin",
+      "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
+      "plugin_args": "",
+      "remarks": "www.dongtaiwang.com 洛杉矶",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 0,
+  "global": false,
+  "enabled": false,
+  "shareOverLan": false,
+  "isDefault": false,
+  "isIPv6Enabled": false,
+  "localPort": 1080,
+  "portableMode": true,
+  "showPluginOutput": false,
+  "pacUrl": null,
+  "gfwListUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
     "Font": "Consolas, 8pt",
     "BackgroundColor": "Black",
     "TextColor": "White"
@@ -558,48 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGE1NmJjNDkwZmVhYmQ2@57.128.190.61:23436#%F
 trojan://telegram-id-privatevpns@13.37.143.228:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.37.143.228-5244
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.93.21.189:443#%F0%9F%87%BA%F0%9F%87%B8US-35.93.21.189-1013
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-4144
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-3753
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2ZhZmFkMjM2MzExNjdj@57.130.11.56:11202#%F0%9F%87%AB%F0%9F%87%B7FR-57.130.11.56-4054
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-3864
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.71-3905
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDJlMjA2OGMwNDdkNzUw@57.130.11.84:11202#%F0%9F%87%AB%F0%9F%87%B7FR-57.130.11.84-4140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.166-3741
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.128.195:989#%F0%9F%87%A8%F0%9F%87%B1CL-37.143.128.195-3737
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-4102
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-3841
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-4069
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@84.17.53.160:989#%F0%9F%87%A8%F0%9F%87%ADCH-84.17.53.160-4275
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsd0ZpbzZHZ1BrYTNsMVhaUlFSaG5B@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AADE-81.19.141.45-3921
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-4272
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-4046
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-3842
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-4258
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.77-4375
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#%F0%9F%87%B1%F0%9F%87%B9LT-195.238.126.84-5680
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.72-4176
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0237
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-4413
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.80-4440
-vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk3Ljc5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsCiAgICAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTg4LjExNC45Ny43OS0wMDk4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIKfQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-4099
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%F0%9F%87%AC%F0%9F%87%A7GB-169.150.210.233-4179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#%F0%9F%87%B3%F0%9F%87%B1NL-5.35.47.122-3731
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%F0%9F%87%B3%F0%9F%87%B1NL-89.23.103.21-3926
-vmess://ewogICAgImFkZCI6ICJvYmRpaS5jZmQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvYmRpaS5jZmQiLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNjMuNS4xMjEuMjU0LTAwMTgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDQuMjYuMC45NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm9iZGlpLmNmZCIsCiAgICAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjI2LjAuOTUtMDA2OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIm9iZGlpLmNmZCIKfQ==
-trojan://TTcyAOIqSCCZSO7XNCyzcS2Azlp3Yujw0j4uaR39DAeYw38Ye9F3eplxxg63FaCxC8R3S@154.31.114.15:28332?security=tls&sni=country.meijireform.com#%F0%9F%87%AF%F0%9F%87%B5JP-154.31.114.15-4498
-trojan://telegram-id-privatevpns@51.20.218.223:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-51.20.218.223-4990
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTc1LjU2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib2JkaWkuY2ZkIiwKICAgICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTc1LjU2LTAwODUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJvYmRpaS5jZmQiCn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.162-4437
-vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk2LjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwKICAgICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xODguMTE0Ljk2LjUtMTA0MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#%F0%9F%87%AC%F0%9F%87%A7GB-35.176.197.229-4303
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.181-4095
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.192-4057
-trojan://TOZA9E6pyq4z3pFYeIeOC3ApaSDjR2wFueaO8uNDx0czDF3YCSwa3xjZ3qZAyB4YCKCZS@154.31.115.31:443?security=tls&sni=swiftly.meijireform.com#%F0%9F%87%AF%F0%9F%87%B5JP-154.31.115.31-4685
-trojan://CCwEYCy3g3SzejBn3lDpRAeC83ap7TaR7a0A4Dxg6IelDZFFuaXNFOSSFYpKaSwyeN8qX@affairs.meijireform.com:28331?security=tls&sni=affairs.meijireform.com#%F0%9F%87%AF%F0%9F%87%B5JP-154.31.114.44-0271
-trojan://CCwEYCy3g3SzejBn3lDpRAeC83ap7TaR7a0A4Dxg6IelDZFFuaXNFOSSFYpKaSwyeN8qX@154.31.114.44:28331?security=tls&sni=affairs.meijireform.com#%F0%9F%87%AF%F0%9F%87%B5JP-154.31.114.44-4808
-vmess://ewogICAgImFkZCI6ICJldS0yLmhpaHUubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibXRuLnptIiwKICAgICJpZCI6ICI4OWU1NmZiMC0wNTJiLTExZjAtYjMzOC0yMDVjNmQ1ZjVkNzgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZ2RseTE5czciLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTUxLjE1LjE5LjIwNi0wMTE2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-4313
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@45.153.124.90:989#%F0%9F%87%B2%F0%9F%87%A9MD-45.153.124.90-4136
-vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk3LjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsCiAgICAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTg4LjExNC45Ny4zLTAwOTQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIKfQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-3820
