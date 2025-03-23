@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://15c33952@152.67.228.132:443/?type=tcp&security=tls&sni=sj.5216818.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-trojan://13e7f6f8-4ec2-4060-a1b2-e78eba835ab2@103.76.128.241:12187/?type=tcp&security=tls&sni=xj.cokecloud.top#%F0%9F%87%AF%F0%9F%87%B5JP%28AzadNet.t.me%29
-trojan://123456@104.18.11.39:443/?type=tcp&security=tls&sni=trojan-amp-id01.globalssh.xyz&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443/?type=tcp&security=tls&sni=tt6.tjvpn.top&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
-trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://0bc8c688-e142-4a64-8885-f8c7498f8a90@172.67.68.8:443/?type=tcp&security=tls&sni=tro4replit.bunnylblbblbl.eu.org&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://0b971bb0-f0af-11ee-8f57-1239d0255272@172.67.159.13:443/?type=tcp&security=tls&sni=uk1.test3.net&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443/?type=tcp&security=tls&sni=series-v1.samanehha.co&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443/?type=tcp&security=tls&sni=series-v1.samanehha.co&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -603,3 +597,9 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.95:3389#%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.95:3306#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:9090#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:8888#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:5601#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:5600#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:5001#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:5000#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.89:3389#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.87:9090#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
