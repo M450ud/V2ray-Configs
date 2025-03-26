@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
@@ -596,10 +603,3 @@ trojan://Aimer@206.238.237.146:2083?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTciLCJhZGQiOiIxMjguMjA0LjIyMy4xMTkiLCJwb3J0IjoiMjg1ODIiLCJpZCI6IjRlMTBjMDUxLTI0OTUtNDI3Yi1hOGVkLWE2MjdkODhiNTllZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLzRlMTBjMDUxLTI0OTUtNDI3Yi1hOGVkLWE2MjdkODhiNTllZS12bT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTcifQ==
 trojan://blue2024@104.16.97.152:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A518
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9102#%E6%9C%AA%E7%9F%A519%201.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTYyY2ZiZi0yYmUxLTRiZGQtOWI5Zi05Y2MxNDg2MmE5NjA=@free.2weradf.xyz:36271#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTYyY2ZiZi0yYmUxLTRiZGQtOWI5Zi05Y2MxNDg2MmE5NjA=@free.2weradf.xyz:36113#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://a1925233-669e-4068-b740-d77f41986c43@104.21.58.135:443?sni=ny02.818185.xyz#%E6%9C%AA%E7%9F%A520
-trojan://Aimer@188.164.159.74:8443?sni=agepm.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-ss://YWVzLTI1Ni1nY206UFJDVUo4SU5QTjlLWlc3Mg==@185.186.78.220:20035#%E6%9C%AA%E7%9F%A521
-trojan://Aimer@198.62.62.192:2083?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US6
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#US7%20224.5KB%2Fs
