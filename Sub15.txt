@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@icook.hk:2083?encryption=none&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus-1wc.pages.dev-2083 | 5.86ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@icook.hk:2053?encryption=none&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus-1wc.pages.dev-2053 | 5.98ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@icook.hk:2087?encryption=none&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048#RELAY🚩 | tnetplus-1wc.pages.dev-2087 | 6.14ms
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@185.176.26.16:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&type=ws#RELAY🚩 | t-netplus-4vx.pages.dev-2096 | 6.26ms
@@ -602,4 +603,3 @@ vless://07af5265-c931-4b5a-a3e1-25de5c5b1fbf@T.irimcs.org:2053?type=grpc&service
 vless://07af5265-c931-4b5a-a3e1-25de5c5b1fbf@ems.irimcs.org:2053?type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns&security=tls&fp=&alpn=&sni=Ter.Iranasanejesh.org#🇨🇦CA_329_@Surfboardv2ray
 vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=almze.gt-ov.com&fp=chrome&type=ws&sni=almze.gt-ov.com#🇨🇦CA_330_@Surfboardv2ray
 vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=almze.gt-ov.com&fp=chrome&type=ws&sni=almze.gt-ov.com#🇨🇦CA_331_@Surfboardv2ray
-vless://080bc9e3-3024-4893-b882-7a8af1c0e493@65.109.194.117:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#🇫🇮FI_332_@Surfboardv2ray
