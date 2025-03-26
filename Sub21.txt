@@ -3,6 +3,41 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
+{
+	"configs" : [
+		{
+			"remarks" : "www.dongtaiwang.com 洛杉矶",
+			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
+			"server" : "liaoningddns.xyz",
+			"server_port" : 11421,
+			"server_udp_port" : 0,
+			"password" : "Fhbe0z",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "17431:D7BnFuPDyUA",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "f4b6417431.microsoft.com",
+			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
 	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
@@ -568,38 +603,3 @@ trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@82.192.82.228:443?security=tls&sni
 trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@3.0.61.142:20230?security=tls&sni=421421.xyz#%E6%9C%AA%E7%9F%A554
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDRlYWE5Mi1iZDc5LTQyODctOTY4My0xZjhhMjg4OGJiNDI=@free.2apzhfa.xyz:31411#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A555
-trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@138.68.80.148:443?security=tls&sni=es-full.privateip.net#%E6%9C%AA%E7%9F%A556
-trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@143.244.191.231:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#US14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%E6%9C%AA%E7%9F%A557%20206.0KB%2Fs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#%E6%9C%AA%E7%9F%A558%201.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppYjlLUTR0MWRWVzQzbUdOOEZKejZB@213.159.75.89:52185#%E6%9C%AA%E7%9F%A559
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US15%2024.9MB%2Fs
-trojan://Aimer@45.87.102.122:444?sni=agepn.ambercc.filegear-sg.me#HK9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZTdiMDI2Mzc3ZmU5N2Vh@100.42.182.30:48971#%E6%9C%AA%E7%9F%A560%203.1MB%2Fs
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%E6%9C%AA%E7%9F%A561
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjIgNTguN01CL3MiLCJhZGQiOiI3OS4xMjcuMjI5LjU0IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmYTE4OTdkYi0xOTI1LTRjODYtYTQ5NS05MzlhOTU5YWY5MDAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2MiJ9
-trojan://Aimer@152.70.245.66:12693?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A563
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@152.42.194.105:443?security=tls&sni=bs1.loadingip.com#%E6%9C%AA%E7%9F%A564
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%E6%9C%AA%E7%9F%A565%201.2MB%2Fs
-trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?security=tls&type=grpc&sni=uk2.safecdn.site#%E6%9C%AA%E7%9F%A566
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A567%2013.2MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.71:443#US16
-trojan://NISHIKUITAN111@190.93.247.175:443?#%E6%9C%AA%E7%9F%A568
-trojan://Aimer@108.165.152.219:443?sni=agepj.ambercc.filegear-sg.me#US17
-trojan://Aimer@176.124.223.40:2053?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A569
-ss://YWVzLTI1Ni1nY206OVZOUVBSRVZXNjlaMk1HSg==@185.186.79.135:20028#%E6%9C%AA%E7%9F%A570
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%E6%9C%AA%E7%9F%A571%20379.0KB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#%E6%9C%AA%E7%9F%A572%201.6MB%2Fs
-trojan://4d04b30c-ef7b-4a07-8f9e-f581ec171f8a@172.67.200.11:443?security=tls&type=ws&sni=uS7-03.890606.xYZ&path=/Zseq8mE8wMzbGFtV&host=us7-03.890606.xyz#%E6%9C%AA%E7%9F%A573
-trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.34.159:443?security=tls&type=ws&sni=df5tym.2031.pp.ua&path=/I4L1BP2DQVYmx5NYQ76MGGq&host=df5tym.2031.pp.ua#%E6%9C%AA%E7%9F%A574
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#%E6%9C%AA%E7%9F%A575%201.8MB%2Fs
-trojan://Aimer@5.182.84.52:2083?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A576
-trojan://auto@104.26.3.36:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A577
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzggODQuNktCL3MiLCJhZGQiOiIxOTMuMTA4LjExNy4xNDMiLCJwb3J0IjoiMjQxNjQiLCJpZCI6ImFhM2M1YzE4LTY1NzgtNGRlMy1iODkwLTJmZDI1YzNhOGYzNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6Ijc4In0=
-trojan://telegram-id-privatevpns@13.43.29.99:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A579
-trojan://blue2024@172.64.35.83:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A580
-trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&type=ws&sni=notdirect.howhealthyistoomajreally.homes&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&host=notdirect.howhealthyistoomajreally.homes#%E6%9C%AA%E7%9F%A581
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#US18%201.9MB%2Fs
-trojan://Julius@193.106.248.196:443?security=tls&type=tcp&sni=miami.juliusnet.com#US19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.122.17:443#%E6%9C%AA%E7%9F%A582%205.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDRlYWE5Mi1iZDc5LTQyODctOTY4My0xZjhhMjg4OGJiNDI=@free.2apzhfa.xyz:31173#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
