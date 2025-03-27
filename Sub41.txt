@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.71-3940
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.130-3791
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-4180
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.128.195:989#%F0%9F%87%A8%F0%9F%87%B1CL-37.143.128.195-3953
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@84.17.53.160:989#%F0%9F%87%A8%F0%9F%87%ADCH-84.17.53.160-4130
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmRlMzExMDBiNThmYTdj@57.128.190.212:25784#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.190.212-3855
-vmess://ewogICAgImFkZCI6ICI5NS4xNjQuNDQuNzgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjM4NTM1MDMxLWNjYzMtNGE5NC1iZDU0LWM2ODgwNjQ4NjQwNiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDIwNTIsCiAgICAicHMiOiAi8J+HrvCfh6pJRS05NS4xNjQuNDQuNzgtMDEzOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-4123
-trojan://telegram-id-privatevpns@63.177.4.177:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-63.177.4.177-4450
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@137.175.113.193:8388#%F0%9F%87%BA%F0%9F%87%B8US-137.175.113.193-4254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.218-4001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbk5PbnRPbk9VamxsT1ptSU8wdGJz@89.185.84.185:443#%F0%9F%87%AC%F0%9F%87%A7GB-89.185.84.185-4261
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTZkOTg4NTMzYjcxOTg4@57.128.190.109:14229#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.190.109-4037
@@ -603,3 +593,13 @@ vless://883042f4-e94b-40f3-bdd0-80d2bee1b3ba@LIGHTNING6-joinbed.filj.top:8880?pa
 vless://883042f4-e94b-40f3-bdd0-80d2bee1b3ba@LIGHTNING6-joinbed.filj.top:8880?path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&security=none&encryption=none&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&type=ws#👉🆔 @v2ray_configs_pool
 vless://5461c9d2-ac6a-4ba8-bae1-ca3acb214dd3@LIGHTNING6-joinbede.filj.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray&sni=liV2raya.lightningv.ir#👉🆔 @v2ray_configs_pool
 vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?path=/server&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#👉🆔 @v2ray_configs_pool
+vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@188.114.96.3:443?path=/server&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiMTA0LjI2LjYuNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm1pa2FzYS55YWVtaWtvLmNsb3VkbnMub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+vless://df72a409-8b14-4d91-a644-ec8355239faf@ispeedtop.imailtop.site:38597?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#👉🆔 @v2ray_configs_pool
+vless://df72a409-8b14-4d91-a644-ec8355239faf@ispeedtop.imailtop.site:38597?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OUppYXRCSXk4Z2FBV1RCTHc1ZFZocWhBUTY5bkJDRFdNTSt5S3p4NGQwPQ==@52.59.206.76:8080#👉🆔 @v2ray_configs_pool
+vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#👉🆔 @v2ray_configs_pool
+vless://883042f4-e94b-40f3-bdd0-80d2bee1b3ba@LIGHTNING6-joinbed.filj.top:8880?path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024&security=none&encryption=none&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&type=ws#👉🆔 @v2ray_configs_pool
+vmess://eyJhZGQiOiAiYW1pbmkyLmRkbnMubmV0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiaHR0cC8xLjEiLCAiZnAiOiAiIiwgImhvc3QiOiAicGFOZUwxNjguTU9vS29NZWlsei5ob21lcyIsICJpZCI6ICI1Y2Q3MjNlOC02ZjJiLTQ1ZmMtYmIwNy0wN2FmMzFhMTA2ZWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dsd293byIsICJwb3J0IjogIjIwODciLCAic2N5IjogImF1dG8iLCAic25pIjogImRwc3NrRy5NT29Lb01laWxaLmhvbWVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
