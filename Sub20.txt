@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d91511a1-13e1-4697-80e1-fbdc26910201@top.cloudupdate.ir:52956?type=grpc&serviceName=&authority=&security=reality&pbk=rnpMd6-SLMM9WP_010Hd8PoqJxUbPMzTmHHvFTlDonM&fp=chrome&sni=yahoo.com&sid=f7&spx=/#🇩🇪DE_2561_@Surfboardv2ray
+vless://d927916a-7dca-4466-9c5e-e70c0a6879b5@91.134.61.207:18764?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇫🇷FR_2562_@Surfboardv2ray
 vless://d927916a-7dca-4466-9c5e-e70c0a6879b5@91.134.61.207:18764?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇫🇷FR_2563_@Surfboardv2ray
 vless://d9b5edbe-b8b6-46d1-93ae-0fdb1e433c7c@141.95.103.120:54436?mode=gun&security=none&encryption=none&type=grpc&type=grpc&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&type=grpc&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇩🇪DE_2564_@Surfboardv2ray
 vless://d9cdb87f-b3ae-4392-ba0e-e982a364878f@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed&security=none&encryption=none&host=www.speedtest.net.15.isvpython.onlinE.&type=ws#🇺🇸US_2565_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
       "plugin": "v2ray-plugin",
       "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
       "plugin_args": "",
-      "remarks": "www.dongtaiwang.com 洛杉矶",
-      "timeout": 5
