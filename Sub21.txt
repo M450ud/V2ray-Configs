@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+
+	}
+}
+{
+	"configs" : [
+		{
+			"remarks" : "www.dongtaiwang.com 洛杉矶",
+			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
+			"server" : "liaoningddns.xyz",
+			"server_port" : 11421,
+			"server_udp_port" : 0,
+			"password" : "Fhbe0z",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "17431:D7BnFuPDyUA",
+			"obfs" : "tls1.2_ticket_auth",
 			"obfsparam" : "f4b6417431.microsoft.com",
 			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
 			"group" : "",
@@ -587,19 +603,3 @@ trojan://trojan@104.18.5.250:2053?security=tls&type=ws&sni=ana-service-anaservic
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#US16
 trojan://Aimer@192.200.160.35:2083?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US17
 trojan://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2096?security=tls&type=ws&sni=expRessTv.farSONlIne24.iR&path=/x8xN4dH28mo7U3sS&host=expresstv.farsonline24.ir#%E6%9C%AA%E7%9F%A561
-trojan://Aimer@135.84.76.152:2087?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US18
-trojan://trojan@104.18.3.150:443?security=tls&type=ws&sni=main.xicun.us.kg&host=main.xicun.us.kg#%E6%9C%AA%E7%9F%A562
-trojan://Aimer@89.110.86.132:2053?sni=agepm.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
-trojan://Aimer@104.26.15.138:2053?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A563
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a2NZbUt6bFI4RWJ4aU4zcHNIMTVp@2.56.122.207:28711#%E6%9C%AA%E7%9F%A564
-trojan://73456460-0e3c-46cd-a1aa-92d4fc17584c@45.146.232.172:43586?sni=q08m.vgraxiw73s.hasyaf.cn#HK6
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8008#%E6%9C%AA%E7%9F%A565%201.8MB%2Fs
-trojan://Aimer@77.232.140.101:2053?sni=agepv.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
-trojan://Aimer@154.219.5.44:2053?sni=agepn.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD2
-trojan://0q%2776Evm32qz%40Q%27%28@172.66.47.30:2087?security=tls&type=ws&sni=JOInMahdiserver-11R.PaGES.dEv&path=/trlEKJDs7HkPpxs8rk?ed=2560&host=joinmahdiserver-11r.pages.dev#%E6%9C%AA%E7%9F%A566
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.2.77:8080#%E6%9C%AA%E7%9F%A567
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZGY5ZDlmMC1jNWRiLTRlNjYtYmUwYy1jOTY3YzBkNjU4OGU=@38.150.12.187:39029#US19
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:2053?security=tls&sni=official.seoulcityhall.com.ua#%E6%9C%AA%E7%9F%A568
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF4
-trojan://bpb-trojan@104.17.102.149:2053?security=tls&type=ws&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&host=bpb-worker-panel-bcr.pages.dev#%E6%9C%AA%E7%9F%A569
-trojan://Aimer@188.164.159.196:2096?sni=agepv.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A2
