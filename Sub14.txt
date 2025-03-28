@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://84421222-9d0f-4b6c-9815-a7cd0aff8192@live.wkrq.com:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=live.wkrq.com#US🇺🇸 | live.wkrq.com-443 | 17.27ms
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱 | 95.164.86.59-2198 | 87.55ms
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.3.165:2198?security=none&encryption=none&headerType=none&type=tcp#GI🇬🇮 | 95.164.3.165-2198 | 87.55ms
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#MD🇲🇩 | 94.232.244.5-2198 | 108.97ms
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.131.106.53:2198?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱 | 94.131.106.53-2198 | 88.19ms
@@ -603,3 +601,5 @@ vless://648f7abd-a673-4b05-8624-834f8ddda333@hajlab.ucdavis.edu:443?security=tls
 vless://648f7abd-a673-4b05-8624-834f8ddda333@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetwork19922h.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.14ms
 vless://648f7abd-a673-4b05-8624-834f8ddda333@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.09ms
 vless://648f7abd-a673-4b05-8624-834f8ddda333@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.98ms
+vless://648f7abd-a673-4b05-8624-834f8ddda333@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.59ms
+vless://6483829c-9a1b-4ab8-bd1b-1bc2a87a6d18@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#US🇺🇸 | zmaoz.faculty.ucdavis.edu.-443 | 6.45ms
