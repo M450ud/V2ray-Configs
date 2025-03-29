@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"server_udp_port" : 0,
+			"password" : "Fhbe0z",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "17431:D7BnFuPDyUA",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "f4b6417431.microsoft.com",
+			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
 		}
 	],
 	"index" : 0,
@@ -592,14 +603,3 @@ trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.29.194:443?security=tls&typ
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@82.192.82.225:443?security=tls&type=tcp&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A567
 trojan://Aimer@162.159.45.156:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&path=/?ed=2560&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A568
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.168:443?security=tls&sni=trus.moonfree.top#US17
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#US18
-ss://YWVzLTI1Ni1nY206TlA1U0w0UjEyTjBBQlRNSg==@185.186.77.137:20025#%E6%9C%AA%E7%9F%A569
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#%E6%9C%AA%E7%9F%A570%20691.1KB%2Fs
-trojan://telegram-id-directvpn@18.169.81.26:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A571
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.96.1:2096?security=tls&type=ws&sni=ExpREsSTv.Twn24.ir&path=/vNF7RJtVepEuGq7R6Cczl&host=expresstv.twn24.ir#%E6%9C%AA%E7%9F%A572
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@134.195.196.12:2375#%E6%9C%AA%E7%9F%A573
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@194.87.30.69:8080#%E6%9C%AA%E7%9F%A574
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#%E6%9C%AA%E7%9F%A575%201.2MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.64.138.145:443#US19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg==@89.221.224.166:8388#%E6%9C%AA%E7%9F%A576%202.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Ym5manliTTE0cHBGcUFGN2NTZFVX@91.103.253.151:19057#%E6%9C%AA%E7%9F%A577
