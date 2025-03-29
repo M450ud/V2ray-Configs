@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
 		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.68:8080#US5
 ss://YWVzLTI1Ni1nY206OUQ1STI2VEU4NVNQOTI4Vw==@185.213.22.93:20026#%E6%9C%AA%E7%9F%A523
 trojan://bpb-trojan@104.16.149.244:2053?security=tls&type=tcp&sni=g1-21N.paGeS.deV#%E6%9C%AA%E7%9F%A524
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%E6%9C%AA%E7%9F%A525%201.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMzg5OTczZC1kYjllLTRiMmItYjFmYi03ZTU0Zjc4MDQ4NTg=@free.2apzhfa.xyz:31175#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Telegram@FreeV2Alpha&host=md1.safecdn.site#%E6%9C%AA%E7%9F%A526
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#%E6%9C%AA%E7%9F%A527
-trojan://f411e405-da5e-47aa-93bb-8454c6f59ae1@172.67.202.155:8443?security=tls&type=ws&sni=MehRnEWS.ONEtWOtHRee123.ir&path=/26za8O91d9bS7H1OOKD&host=mehrnews.onetwothree123.ir#%E6%9C%AA%E7%9F%A528
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%E6%9C%AA%E7%9F%A529%2014.0MB%2Fs
