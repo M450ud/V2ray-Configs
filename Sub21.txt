@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2583_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2584_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2585_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2586_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2587_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_2588_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=&sni=TABRIZ.NET#🇺🇸US_2589_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=&encryption=none&type=grpc&sni=TABRIZ.NET#🇺🇸US_2590_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2591_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2592_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2593_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=&sni=TABRIZ.NET#🇺🇸US_2594_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=none&encryption=none&type=grpc&sni=TABRIZ.NET#🇺🇸US_2595_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.35:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_2596_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2597_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_2598_@Surfboardv2ray
@@ -603,3 +590,16 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "571195:iiOdtO",
 			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "DE9E32FF31B704BF98967202DE78D00D",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
