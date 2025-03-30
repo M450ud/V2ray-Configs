@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.50:443?type=ws&encryption=none&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=vfarid.xcdi.WoRkErS.DEV&alpn=http%2F1.1&fp=randomized#RELAY🚩 | vfarid.xcdi.WoRkErS.DEV-443 | 2.04ms
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.162:2083?type=ws&encryption=none&host=vfarid.xcdi.woRkErs.dEv&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=vfarid.xcdi.woRkErs.dEv&alpn=http%2F1.1&fp=randomized#RELAY🚩 | vfarid.xcdi.woRkErs.dEv-2083 | 2.09ms
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.64.38.103:2096?type=ws&encryption=none&host=vfarid.xcdi.wOrKeRS.Dev&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=vfarid.xcdi.wOrKeRS.Dev&alpn=http%2F1.1&fp=edge#RELAY🚩 | vfarid.xcdi.wOrKeRS.Dev-2096 | 2.37ms
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@162.159.195.149:443?type=ws&encryption=none&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=vfarid.xcdi.WoRkErS.DEV&alpn=http%2F1.1&fp=randomized#RELAY🚩 | vfarid.xcdi.WoRkErS.DEV-443 | 2.01ms
@@ -603,3 +602,4 @@ vless://2ee1ec37-c543-47ce-946c-2f689b20af86@Zmaoz.Faculty.Ucdavis.Edu:443?path=
 vless://2d0b88c0-bdd0-46a3-ad5a-f32cb639197d@157.90.127.229:2053?type=ws#DE🇩🇪 | 157.90.127.229-2053 | 96.68ms
 vless://2d0b88c0-bdd0-46a3-ad5a-f32cb639197d@157.90.127.229:2053?security=none&type=ws&path=telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#DE🇩🇪 | 157.90.127.229-2053 | 96.54ms
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#FR🇫🇷 | en.linceedab.com-443 | 127.87ms
+vless://247ed917-18a3-4d34-860e-51e4808c2511@x2.49azvoldkabadc.fun:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=x2.49azvoldkabadc.fun#RELAY🚩 | x2.49azvoldkabadc.fun-2087 | 40.73ms
