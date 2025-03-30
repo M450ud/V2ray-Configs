@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e195991a-d724-4d6f-83be-d102eaa98d19@185.146.173.185:2053?type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&authority=cgvgvhbbygvfchggv.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&security=tls&fp=&alpn=h3,h2,http/1.1&sni=cgvgvhbbygvfchggv.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir#🇸🇪SE_2656_@Surfboardv2ray
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#🇨🇦CA_2657_@Surfboardv2ray
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@nestle.ir:443?path=/wws&security=tls&encryption=none&alpn=h2,http/1.1&host=cpanel.pharmaweb.info&fp=chrome&type=ws&sni=cpanel.pharmaweb.info#🇨🇦CA_2658_@Surfboardv2ray
 vless://e1f8f779-bd78-46a0-b196-707d169f4061@skk.moe:8080?path=/Telegram:@v2raylandd-Telegram:@v2raylandd-Telegram:@v2raylandd?ed=1024&security=none&encryption=none&host=v2raylandd-90.vmjisexa.workers.Dev&type=ws&sni=v2raylandd-90.vmjisexa.workers.dev#🇨🇦CA_2659_@Surfboardv2ray
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#🇺🇸US_2660_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
