@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2660_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2661_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2662_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2663_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2664_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2665_@Surfboardv2ray
@@ -600,6 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"enable" : true,
 			"udp_over_tcp" : false
 		},
-		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "001A9875F7EFDC23EC122E00A195E08B",
