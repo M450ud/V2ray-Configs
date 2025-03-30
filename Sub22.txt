@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"server_port" : 1611,
-			"server_udp_port" : 0,
-			"password" : "mtbv8n",
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_md5",
-			"protocolparam" : "135238:ekBYebTKgsF",
-			"obfs" : "plain",
-			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
@@ -603,3 +595,11 @@ trojan://ba6b9e44-3ea3-405d-a9eb-d5fcda84fdda@104.21.71.205:443?security=tls&typ
 trojan://opentunnel.net-trhrst5ju45s@69.16.230.165:443?security=tls&sni=ukt-2.opensvr.net#US6
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.15.232:443?security=tls&type=ws&sni=3r.2030.pp.ua&path=/XjTi1NYwi9A2bckpqdDoAgkondVWl&host=3r.2030.pp.ua#%E6%9C%AA%E7%9F%A517
 trojan://73456460-0e3c-46cd-a1aa-92d4fc17584c@45.146.232.173:43586?sni=q08m.vgraxiw73s.hasyaf.cn#HK2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@185.231.205.179:8388#%E6%9C%AA%E7%9F%A518
+trojan://auto@172.66.45.2:443?security=tls&type=ws&sni=dcf741e8.epeius-2gy.pages.dev&path=/?ed=2560&host=dcf741e8.epeius-2gy.pages.dev#%E6%9C%AA%E7%9F%A519
+trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.172:27001?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK3
+trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.172:43590?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK4
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#%E6%9C%AA%E7%9F%A520%201.8MB%2Fs
+trojan://Pooria@104.17.147.22:443?security=tls&type=ws&sni=redfree8w.pooriam.ir&path=/trJF1XisQEbWZpxEHh?ed=2560&host=redfree8w.pooriam.ir#%E6%9C%AA%E7%9F%A521
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#%E6%9C%AA%E7%9F%A522%201.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#%E6%9C%AA%E7%9F%A523%20178.7KB%2Fs
