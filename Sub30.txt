@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80/?type=ws&encryption=none&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.5:80/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F%3Fed%3D2048#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80/?type=ws&encryption=none&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.29:80/?type=ws&encryption=none&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.21:80/?type=ws&encryption=none&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.2.88:443/?type=ws&encryption=none&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F&security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 vless://d32dbead-42d4-49b7-aece-b6523a0e945f@195.133.11.229:43774/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tutu.ru&fp=random&security=reality&pbk=ZLAYpx5wkCanyDNjQO_-7kwg0K5e728t2FPD9fSZ4VE&sid=b9a9aba39ba5ab#%F0%9F%87%B7%F0%9F%87%BARU%28AzadNet.t.me%29
 vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.254:8443/?type=ws&encryption=none&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
 vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.247:443/?type=ws&encryption=none&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev#%F0%9F%87%B3%F0%9F%87%B1NL%28AzadNet.t.me%29
@@ -597,9 +603,3 @@ trojan://blue2024@104.16.179.237:443/?type=tcp&security=tls&sni=td.promote.icu#%
 trojan://blue2024@104.16.160.4:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.16.154.93:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.16.144.251:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.16.134.27:2083/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.16.113.194:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.16.112.144:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.16.110.37:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.129.167.128:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
-trojan://blue2024@104.129.166.244:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
