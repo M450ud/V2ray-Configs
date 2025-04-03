@@ -3,33 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
-            Log in
-          </a>
-          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
-              Register
-            </a>
-            <div class="requires-js">
-              <hr class="navbar-divider"/>
-              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
-                Swap theme
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </nav>
-  <section class="hero is-dark">
-    <div class="hero-body">
-      <div class="container">
-        <h1 class="title">
-          404
-        </h1>
-        <h2 class="subtitle">
-          Page not found.
-        </h2>
-      </div>
     </div>
     <div class="hero-foot">
       <div class="container"></div>
@@ -603,3 +576,30 @@ vless://d7f0d60c-95c6-40dd-9ac9-9565bf7f8e43@seminarsinmcb.faculty.ucdavis.edu:8
 vless://65f5b883-a083-5c19-991d-c84764bd3472@zmaoz.faculty.ucdavis.edu:80?security=&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-60.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-60%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://bffc1d6b-0bf5-5b41-a9f7-3f702b886951@bwdraper.faculty.ucdavis.edu:80?security=&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-70.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-70%20-%20IL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+
+
+
+SSHmax GCORE :
+
+
+
+
+DIRECT CONFIG:
+
+
+
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@zula.ir:443?security=tls&sni=cr7.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-01%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@digitalocean.com:443?security=tls&sni=cr7.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-02%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@sourceforge.net:443?security=tls&sni=cr7.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-03%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
+vless://a0bbc599-fa28-4b1a-9194-ec2ef5af001d@www.speedtest.net:443?security=tls&sni=cr7.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-04%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
+vless://a0bbc599-fa28-4b1a-9194-ec2ef5af001d@jquery.com:443?security=tls&sni=cr7.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-05%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
+vless://a0bbc599-fa28-4b1a-9194-ec2ef5af001d@cdnjs.com:443?security=tls&sni=cr7.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-06%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
+vless://a8872ddc-b82f-4af8-967a-9732142d835b@95.164.4.101:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.164.4.101&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20BR%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
+vless://9abc9622-8250-471a-8b79-87820fc5b2e9@95.164.44.140:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.164.44.140&encryption=none#Rayan%20-%20CBT%20-%20WSCT-102%20-%20IE%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
+vless://cdb421d3-c806-43ba-8609-2ea9261e9f31@5.253.41.229:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.41.229&encryption=none#Rayan%20-%20CBT%20-%20WSCT-103%20-%20JP%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
+vless://655a27ed-7e6e-456e-8ae8-d544653c3654@45.137.155.45:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.137.155.45&encryption=none#Rayan%20-%20CBT%20-%20WSCT-104%20-%20UA%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
+vless://f17f85fd-e318-4832-8c54-b1c016f9ec26@5.180.24.205:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.180.24.205&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20US%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
+vless://a9db304a-58fa-490a-a7d4-1bdc8a483d57@85.208.109.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-101%20-%20AT%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
+vless://7e4999ec-1fa9-4a74-91da-6af4a9457d7a@193.203.203.45:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-102%20-%20CA%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
+vless://53d7e10a-f1e1-4b8f-bf53-c845e2c76ea0@146.19.233.138:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-103%20-%20DE%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
+vless://5d4c588b-dfc6-4071-bd14-2259ad298258@91.194.161.69:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=is1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-104%20-%20IS%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
