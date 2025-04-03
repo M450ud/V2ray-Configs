@@ -3,6 +3,96 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  title="dark"
+  rel="stylesheet"
+  href="/static/css/dark-style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-y+RMeVK5OKTpmebEnnHyDAEECqdhBkSLfyPKO1b7CokmrpIKDor61jc7Wi7fQR7A"/>
+<link
+  title="light"
+  rel="stylesheet alternate"
+  href="/static/css/style.css?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-h/nZ9blViSRWoEdjXp0507aSEv57qJuD982XXmJDC4pfhDbFs/acexCxPNm6Ogbf"/>
+<script
+  src="/static/js/style.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-zwBoM/SvColCwJ9hm3JZVZgpLWTXKwowuywp+8KnSA2XpcN9SlsUnCt4D0WEXaYY"></script>
+<script
+  defer
+  src="/static/js/navbar.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-OsNHhrFcStlvb1ftG+CsyQVuRliPz3UoK2zgo4aKw1z8qKR460OLsn9X3EHysa7y"></script>
+<script
+  defer
+  src="/static/js/notifications.js?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6"
+  integrity="sha384-yI6E6wBeIs/7kTFxJ5ZSJSiuDwP7QCjkmK+mnQ7ROOvMq0a6H6pgbZyBEa2+7wws"></script>
+<link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/static/favicons/favicon.ico"/>
+<!--[if IE]><link rel="shortcut icon" href="/static/favicons/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-152.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/>
+<meta name="msapplication-TileImage" content="/static/favicons/favicon-144.png"/>
+<meta name="msapplication-square70x70logo" content="/static/favicons/favicon-70.png"/>
+<meta name="msapplication-square150x150logo" content="/static/favicons/favicon-150.png"/>
+<meta name="msapplication-square310x310logo" content="/static/favicons/favicon-310.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicons/favicon-152.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicons/favicon-144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicons/favicon-120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicons/favicon-114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicons/favicon-72.png"/>
+<link rel="apple-touch-icon-precomposed" href="/static/favicons/favicon-57.png"/></head>
+<body>
+<div class="wrapper">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="&#x2F;">
+        <span class="icon is-small">
+          <svg viewBox="0 0 24 24">
+  <use href="/static/svg/icons.svg?v=01cb6981d6d36376b40a46bdea92bc080fd92ba6#paste"></use>
+</svg>
+        </span>
+        <span>paste.gg</span>
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="menu" class="navbar-menu">
+      <div class="navbar-start">
+        <a class="navbar-item" href="&#x2F;">
+          New
+        </a>
+      </div>
+      <div class="navbar-end">
+        <a class="navbar-item" href="&#x2F;about">
+          About
+        </a>
+      
+        <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link" href="&#x2F;login">
+            Log in
+          </a>
+          <div class="navbar-dropdown is-right"><a class="navbar-item" href="&#x2F;register">
+              Register
+            </a>
+            <div class="requires-js">
+              <hr class="navbar-divider"/>
+              <a class="navbar-item" id="swap_theme" href="javascript:void(0)">
+                Swap theme
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          404
+        </h1>
+        <h2 class="subtitle">
+          Page not found.
+        </h2>
+      </div>
     </div>
     <div class="hero-foot">
       <div class="container"></div>
@@ -513,93 +603,3 @@ ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LW
 ssr://ejAxMTMuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhwdkNmaDdwQlZTMHhNeTR5TXprdU1UUXVNakExTFRJd01UTSUzRCZwcm90b3BhcmFtPQ==
 ssr://MTQuMjkuMTI0LjE2ODoyNDAwNTpvcmlnaW46YWVzLTEyOC1jZmI6cGxhaW46VVdGNlJXUmpWR2RpTVRVNVFDUXEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHhOQzR5T1M0eE1qUXVNVFk0TFRJeU56YyUzRCZwcm90b3BhcmFtPQ==
 ssr://MzYuMTU2LjIyMi4yNTozMjk4NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwLWlldGY6aHR0cF9zaW1wbGU6ZW5wMGR6bHFhemRuZFE9PS8/b2Jmc3BhcmFtPVpUVmhZakEyTVRneExtMXBZM0p2YzI5bWRDNWpiMjAlM0QmcmVtYXJrcz04SiUyQkhxUENmaDdORFRpMHpOaTR4TlRZdU1qSXlMakkxTFRJek1UQSUzRCZwcm90b3BhcmFtPU5qRTRNVHB0T1c5RVNXTSUzRA==
-ssr://c3NyZnJlZS56aHVqaWNuMi5uZXQ6MTAwMDI6YXV0aF9jaGFpbl9hOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHV2Q2ZoN2hWVXkwMk5DNHpNaTQzTGpFME1pMHlOVEl4JnByb3RvcGFyYW09
-ssr://NjguMTgzLjc0LjYzOjEyOTI4Om9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpORE0yT1dJNU5nPT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxZkNmaDZwRVJTMDJPQzR4T0RNdU56UXVOak10TkRVeE1RJTNEJTNEJnByb3RvcGFyYW09
-ssr://ZWR1YWxsLmJ1enpsaW5lLm9yZzo1NjE6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6cGxhaW46YldKc1lXNXJNWEJ2Y25RPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHFQQ2ZoN05EVGkweE1qQXVNak15TGpJd05pNHlOVEV0TlRBNU1BJTNEJTNEJnByb3RvcGFyYW09TlRVNU5UWTZNVEV4TVRFeA==
-ssr://MjIyLjE4Ni4yMC4xMDI6NDEyMjg6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnBsYWluOmFIUjBjRG92TDJOakxtRjRMdz09Lz9vYmZzcGFyYW09WkdGMFlTNWlhV3hwWW1sc2FTNWpiMjB2WldRMVlUSXhOalUwTURBJTNEJnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB5TWpJdU1UZzJMakl3TGpFd01pMDJNVGs1JnByb3RvcGFyYW09TVRZMU5EQXdPa2h5TW1GWVR3JTNEJTNE
-ssr://Y21sYXllcjYuc3RhbmR1cmxzLmNvOjU2MDphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg3TkRUaTB4T0RNdU1qTXlMakV4Tnk0eE9TMDJNakF3JnByb3RvcGFyYW09TWpNek9EbzVkRkZtZUUxWUtEQlRPelF3WmclM0QlM0Q=
-ssr://dXMubGlub2RlLnJicWlzLm1lOjE5MTU1OmF1dGhfc2hhMV92NDphZXMtMTkyLWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6U2xWQ1dFTlEvP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkh1dkNmaDdoVlV5MHhOekl1TWpNMUxqVXdMamt4TFRZeU1EYyUzRCZwcm90b3BhcmFtPQ==
-ssr://NDUuNzkuNzkuMzc6NDQzOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpPV1EyWTJObFlXRXpOek5pWmpKak9HRmpZakl5WlRZd1lqWmhOVGhpWlRZPS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHV2Q2ZoN2hWVXkwME5TNDNPUzQzT1M0ek55MDJNams1JnByb3RvcGFyYW09
-ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz04SiUyQkhzJTJGQ2ZoN0ZPVEMwNU5DNHhNREl1TlRjdU1UWXpMVFk0T1RrJTNEJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=
-ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT09Lz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcyUyRkNmaDdGT1RDMDVOQzR4TURJdU5UY3VNVFl6TFRZNU1qRSUzRCZwcm90b3BhcmFtPQ==
-ShadowSocks:
-
-
-SSHmax FASTLY :
-
-vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.97.201:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://56497add-68ca-4500-b8e2-9f7003382bbe@140.248.169.101:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://c1da8253-1987-4501-9805-69fbb043742a@151.101.7.235:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-3.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-3%20-%20ML%20-%2003%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://e97a0128-4785-4323-a2a5-dd01ce49d359@140.248.145.144:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-4.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-4%20-%20ML%20-%2004%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://c80c8f90-208e-401f-bc4e-1ce8d3631ff3@167.82.67.83:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-5.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-5%20-%20ML%20-%2005%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://9e7b3b9f-ab4b-4f2c-9529-2fc61840db40@199.232.203.230:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-6.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-6%20-%20ML%20-%2006%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://21cf57f2-391f-4e7b-91ac-8b650e0a2f4c@140.248.184.126:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-7.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-7%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://2aeb19d8-ae92-4c21-afd1-f6609517df19@167.82.68.45:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-8.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-8%20-%20ML%20-%2008%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://8df60790-c903-4661-b85d-64c0009378e5@140.248.184.126:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-9.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-9%20-%20ML%20-%2009%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://4f024c96-8dce-4cbe-a94a-f069adc74d3c@140.248.185.64:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-10.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-10%20-%20ML%20-%2010%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.159.231:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-11.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-11%20-%20ML%20-%2011%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://6b7c93f5-92fd-4fce-80ec-348b1fe06b77@151.101.5.237:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-12.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-12%20-%20ML%20-%2012%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://869a36bd-2982-47c6-9195-6d404bdeae9d@151.101.5.149:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-13.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-13%20-%20ML%20-%2013%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://a1650c69-531c-441f-bc6a-bd43565000a4@199.232.114.20:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-14.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-14%20-%20ML%20-%2014%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://db946e35-5553-4737-9ab5-9634a566266b@167.82.68.45:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-15.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-15%20-%20ML%20-%2015%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://cf77cedd-092d-4304-ac4e-628c0e1dae6b@199.232.92.213:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-16.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-16%20-%20ML%20-%2016%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://128fde49-c4d6-41e0-9176-156bf62527eb@140.248.184.126:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-17.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-17%20-%20ML%20-%2017%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://495cb77b-a854-4b8a-aa6d-75346c307a55@167.82.98.164:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-18.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-18%20-%20ML%20-%2018%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@146.75.59.225:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-19.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-19%20-%20ML%20-%2019%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@199.232.205.122:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-20.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-20%20-%20ML%20-%2020%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://c6655de4-b3db-4755-9559-5d09963997d3@151.101.60.119:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-40.com&encryption=none#Rayan%20-%20CBT%20-%20FL%20-%20F-40%20-%20IE%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://5a4cadc6-a3b4-4d14-b2db-82a6468b6d9e@151.101.60.119:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-50.com&encryption=none#Rayan%20-%20CBT%20-%20FL%20-%20F-50%20-%20UA%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://ff1d7116-4c43-529c-9063-93293216bc53@167.82.68.45:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-60.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-60%20-%20NL%20-%20II%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://0c885b48-8225-5ed3-bbe1-f40de3c977f9@140.248.145.144:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-70.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-70%20-%20IL%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@seminarsinmcb.faculty.ucdavis.edu:80?security=&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://56497add-68ca-4500-b8e2-9f7003382bbe@zmaoz.faculty.ucdavis.edu:80?security=&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://c1da8253-1987-4501-9805-69fbb043742a@pscresearch.faculty.ucdavis.edu:80?security=&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-3.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-3%20-%20ML%20-%2003%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://e97a0128-4785-4323-a2a5-dd01ce49d359@seminarsinmcb.faculty.ucdavis.edu:80?security=&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-4.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-4%20-%20ML%20-%2004%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://c80c8f90-208e-401f-bc4e-1ce8d3631ff3@zmaoz.faculty.ucdavis.edu:80?security=&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-5.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-5%20-%20ML%20-%2005%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://9e7b3b9f-ab4b-4f2c-9529-2fc61840db40@pscresearch.faculty.ucdavis.edu:80?security=&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-6.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-6%20-%20ML%20-%2006%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://21cf57f2-391f-4e7b-91ac-8b650e0a2f4c@seminarsinmcb.faculty.ucdavis.edu:80?security=&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-7.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-7%20-%20ML%20-%2007%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://2aeb19d8-ae92-4c21-afd1-f6609517df19@bwdraper.faculty.ucdavis.edu:80?security=&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-8.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-8%20-%20ML%20-%2008%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://8df60790-c903-4661-b85d-64c0009378e5@zmaoz.faculty.ucdavis.edu:80?security=&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-9.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-9%20-%20ML%20-%2009%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://4f024c96-8dce-4cbe-a94a-f069adc74d3c@pscresearch.faculty.ucdavis.edu:80?security=&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-10.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-10%20-%20ML%20-%2010%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@seminarsinmcb.faculty.ucdavis.edu:80?security=&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-11.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-11%20-%20ML%20-%2007%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://6b7c93f5-92fd-4fce-80ec-348b1fe06b77@bwdraper.faculty.ucdavis.edu:80?security=&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-12.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-12%20-%20ML%20-%2008%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://869a36bd-2982-47c6-9195-6d404bdeae9d@bwdraper.faculty.ucdavis.edu:80?security=&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-13.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-13%20-%20ML%20-%2009%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://a1650c69-531c-441f-bc6a-bd43565000a4@zmaoz.faculty.ucdavis.edu:80?security=&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-14.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-14%20-%20ML%20-%2010%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://db946e35-5553-4737-9ab5-9634a566266b@bwdraper.faculty.ucdavis.edu:80?security=&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-15.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-15%20-%20ML%20-%2011%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://cf77cedd-092d-4304-ac4e-628c0e1dae6b@bwdraper.faculty.ucdavis.edu:80?security=&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-16.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-16%20-%20ML%20-%2016%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://128fde49-c4d6-41e0-9176-156bf62527eb@pscresearch.faculty.ucdavis.edu:80?security=&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-17.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-17%20-%20ML%20-%2017%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://495cb77b-a854-4b8a-aa6d-75346c307a55@zmaoz.faculty.ucdavis.edu:80?security=&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-18.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-18%20-%20ML%20-%2018%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@seminarsinmcb.faculty.ucdavis.edu:80?security=&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-19.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-19%20-%20ML%20-%2019%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@pscresearch.faculty.ucdavis.edu:80?security=&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-20.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-20%20-%20ML%20-%2020%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://4d7688ab-9ced-47b1-9ce9-6b3984fbbddb@seminarsinmcb.faculty.ucdavis.edu:80?security=&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-40.com&encryption=none#Rayan%20-%20CBT%20-%20FL%20-%20F-40%20-%20IE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://d7f0d60c-95c6-40dd-9ac9-9565bf7f8e43@seminarsinmcb.faculty.ucdavis.edu:80?security=&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-50.com&encryption=none#Rayan%20-%20CBT%20-%20FL%20-%20F-50%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://65f5b883-a083-5c19-991d-c84764bd3472@zmaoz.faculty.ucdavis.edu:80?security=&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-60.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-60%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://bffc1d6b-0bf5-5b41-a9f7-3f702b886951@bwdraper.faculty.ucdavis.edu:80?security=&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-70.com&encryption=none#Rayan%20-%20SSM%20-%20FL%20-%20F-70%20-%20IL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-
-
-
-SSHmax GCORE :
-
-
-
-
-DIRECT CONFIG:
-
-
-
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@zula.ir:443?security=tls&sni=cr7.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-01%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@digitalocean.com:443?security=tls&sni=cr7.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-02%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@sourceforge.net:443?security=tls&sni=cr7.rayan.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-03%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-vless://a0bbc599-fa28-4b1a-9194-ec2ef5af001d@www.speedtest.net:443?security=tls&sni=cr7.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-04%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-vless://a0bbc599-fa28-4b1a-9194-ec2ef5af001d@jquery.com:443?security=tls&sni=cr7.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-05%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-vless://a0bbc599-fa28-4b1a-9194-ec2ef5af001d@cdnjs.com:443?security=tls&sni=cr7.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=cr7.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20CF%20-%20WSCT-101%20-%20C-06%20-%20%F0%9F%8C%93%20t.me/Rayan_Config
-vless://a8872ddc-b82f-4af8-967a-9732142d835b@95.164.4.101:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.164.4.101&encryption=none#Rayan%20-%20CBT%20-%20WSCT-101%20-%20BR%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
-vless://9abc9622-8250-471a-8b79-87820fc5b2e9@95.164.44.140:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.164.44.140&encryption=none#Rayan%20-%20CBT%20-%20WSCT-102%20-%20IE%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
-vless://cdb421d3-c806-43ba-8609-2ea9261e9f31@5.253.41.229:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.41.229&encryption=none#Rayan%20-%20CBT%20-%20WSCT-103%20-%20JP%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
-vless://655a27ed-7e6e-456e-8ae8-d544653c3654@45.137.155.45:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.137.155.45&encryption=none#Rayan%20-%20CBT%20-%20WSCT-104%20-%20UA%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
-vless://f17f85fd-e318-4832-8c54-b1c016f9ec26@5.180.24.205:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.180.24.205&encryption=none#Rayan%20-%20CBT%20-%20WSCT-105%20-%20US%20-%20%F0%9F%8F%80%20t.me/Rayan_Config
-vless://a9db304a-58fa-490a-a7d4-1bdc8a483d57@85.208.109.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-101%20-%20AT%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
-vless://7e4999ec-1fa9-4a74-91da-6af4a9457d7a@193.203.203.45:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-102%20-%20CA%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
-vless://53d7e10a-f1e1-4b8f-bf53-c845e2c76ea0@146.19.233.138:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=de1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-103%20-%20DE%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
-vless://5d4c588b-dfc6-4071-bd14-2259ad298258@91.194.161.69:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=is1-vph.msnegar.eu.org&encryption=none#Rayan%20-%20VPH%20-%20WSCT-104%20-%20IS%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
