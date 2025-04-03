@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://telegram-id-privatevpns@3.127.82.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 79
+trojan://telegram-id-privatevpns@3.126.192.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 78
+trojan://telegram-id-privatevpns@3.124.72.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 77
+trojan://telegram-id-privatevpns@3.124.103.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 76
+trojan://telegram-id-privatevpns@3.124.103.204:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@vpnclashfa - 75
+trojan://telegram-id-privatevpns@3.123.54.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 74
 trojan://telegram-id-privatevpns@3.121.157.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 73
 trojan://telegram-id-privatevpns@3.11.24.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 72
 trojan://telegram-id-privatevpns@3.10.40.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 71
@@ -597,9 +603,3 @@ vless://648f7abd-a673-4b05-8624-834f8ddda333@hajlab.ucdavis.edu:443?security=tls
 vless://648f7abd-a673-4b05-8624-834f8ddda333@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net#@vpnclashfa - 251
 vless://64497d29-8243-4346-81ab-049300c68af8@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Freehomesvpn&sni=fragment.mzolfaghari.homes#@vpnclashfa - 250
 vless://63360dc6-8999-4fad-9bf4-62406ea57212@amirtronic.1384.zula.amirtronic.top:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.amirtronic.top.&type=ws#@vpnclashfa - 249
-vless://62e5ce89-36cf-43eb-ac21-a00cc06c6564@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Freehomesvpn&sni=fragment.mzolfaghari.homes#@vpnclashfa - 248
-vless://62e16d65-93f0-45b7-9a92-c978014468d4@188.114.97.3:80?path=%2Fvless+%40hopev2ray%2C%40hopev2ray&security=none&encryption=none&host=Se1.vless.site.&type=ws#@vpnclashfa - 247
-vless://619f26b0-9acd-4bf4-8544-0ef0f817290f@discord.com:8880?path=%2Ftelegram-%40Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2Ctelegram-Tsco%2CTsconetwork-V2rayngTsco-telegram-Tsco-v2ray%3Fed&security=none&encryption=none&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la447aac5504dea701aXr1g.caffevip.SHOP.&type=ws#@vpnclashfa - 246
-vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.drlimit.net#@vpnclashfa - 245
-vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimit.net#@vpnclashfa - 244
-vless://60dc501a-3145-4ad1-a01e-eedc0786205d@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net#@vpnclashfa - 243
