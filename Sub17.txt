@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@sky.rethinkdns.com:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tnetplus3.pages.dev&fp=randomized&type=ws&sni=tnetplus3.pages.dev#RELAY🚩 | tnetplus3.pages.dev-2096 | 44.36ms
+vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@66.235.200.91:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+12#US🇺🇸 | 66.235.200.91-8080 | 5.38ms
 vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@194.76.18.65:8080?path=%2FTelegram%3A%40%40vpnclashfa+-+11#KZ🇰🇿 | 194.76.18.65-8080 | 5.94ms
 vless://0f0897cf-469f-421b-9018-b739fb47b721@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#RELAY🚩 | Ruc80.TehrANsiMAn.co.UK.-443 | 6.04ms
 vless://0ed869e7-cbe5-45dd-843a-b3e26b39d8f5@151.101.194.133:443?path=%2FVLESS%3Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=npy.dev&fp=chrome&type=ws&sni=mio.splashthat.com#US🇺🇸 | mio.splashthat.com-443 | 25.06ms
@@ -601,5 +603,3 @@ vless://04b89bc4-bb37-4cd9-8c0d-b3896f546a98@85.208.139.222:1633?security=realit
 vless://04d23c8a-a80f-4ea8-9073-6506b2e22ce9@hajlab.ucdavis.edu:80?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048&host=joinxvproxybedeeeeee.ir&security=none#🇺🇸US_295_@Surfboardv2ray
 vless://04d23c8a-a80f-4ea8-9073-6506b2e22ce9@hajlab.ucdavis.edu:80?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048&host=joinxvproxybedeeeeee.ir&security=none#🇺🇸US_296_@Surfboardv2ray
 vless://04d533ee-51ba-47cc-a703-6336470898ad@limoo.host:443?type=ws&security=tls&host=mhsang2c3.afsharidempire.uk&path=/8Ku2BGY685PUNtppXQIC9t&fp=chrome&sni=mhsang2c3.afsharidempire.uk&alpn=http/1.1#🇨🇦CA_297_@Surfboardv2ray
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.200.10:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇫🇷FR_298_@Surfboardv2ray
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.185.91:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇫🇷FR_299_@Surfboardv2ray
