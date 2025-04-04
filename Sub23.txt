@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
 	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
 	"dnsServer" : "",
 	"reconnectTimes" : 2,
@@ -598,8 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%E6%9C%AA%E7%9F%A537%20
 trojan://Aimer@172.64.33.73:2096?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A538
 trojan://Aimer@46.254.93.211:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A539
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDAgODEuNktCL3MiLCJhZGQiOiIxNzIuOTkuMTkwLjIwNyIsInBvcnQiOiI1NTU3NyIsImlkIjoiZTkyMmQ0ODUtOThhNy00NzVhLTlhNDctY2RlMzcyMmFjODJlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDAifQ==
-trojan://95b@154.211.8.90:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#US10
-trojan://NISHIKUITAN111@141.11.203.203:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A541
-trojan://bpb-trojan@45.80.110.224:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A542
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@82.192.82.227:443?security=tls&type=tcp&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A543
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:2096?security=tls&type=ws&sni=MehRnEWs.twn24.Ir&path=/vNF7RJtVepEuGq7R6Cczl&host=mehrnews.twn24.ir#%E6%9C%AA%E7%9F%A544
