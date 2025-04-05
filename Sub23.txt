@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#🇺🇸US_2948_@Surfboardv2ray
+vless://e2a5b491-38c9-4379-9033-ee275270da5c@join-bede-CONFIGT.nipytee.info:1011?security=none&encryption=none&headerType=none&type=tcp#🇨🇭CH_2949_@Surfboardv2ray
+vless://e2afc104-fc04-4e33-87a5-c5175a5b4c17@www.parsvds.ir:8080?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&security=none#🇨🇦CA_2950_@Surfboardv2ray
+vless://e2afc104-fc04-4e33-87a5-c5175a5b4c17@www.parsvds.ir:8080?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&security=none#🇨🇦CA_2951_@Surfboardv2ray
+vless://e2bdf852-cbc5-4202-9eda-32ce454e0495@104.19.54.50:8080?path=/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048&security=&encryption=none&host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&type=ws#🇨🇦CA_2952_@Surfboardv2ray
+vless://e2bdf852-cbc5-4202-9eda-32ce454e0495@104.19.54.50:8080?path=/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048&security=none&encryption=none&host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&type=ws#🇨🇦CA_2953_@Surfboardv2ray
+vless://e2bdf852-cbc5-4202-9eda-32ce454e0495@104.19.54.50:8080?path=/telegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry?ed=2048&security=none&encryption=none&host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&type=ws#🇨🇦CA_2954_@Surfboardv2ray
 vless://e2e019e4-57da-40bd-974c-d201c55c528e@80.211.203.158:25210?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇨🇿CZ_2955_@Surfboardv2ray
 vless://e2e019e4-57da-40bd-974c-d201c55c528e@80.211.203.158:25210?mode=gun&security=none&encryption=none&type=grpc&type=grpc&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&type=grpc&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇨🇿CZ_2956_@Surfboardv2ray
 vless://e2e019e4-57da-40bd-974c-d201c55c528e@80.211.203.158:25210?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#🇨🇿CZ_2957_@Surfboardv2ray
@@ -596,10 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"protocol" : "auth_aes128_sha1",
 			"protocolparam" : "17431:D7BnFuPDyUA",
 			"obfs" : "tls1.2_ticket_auth",
-			"obfsparam" : "f4b6417431.microsoft.com",
-			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
-			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		}
-	],
