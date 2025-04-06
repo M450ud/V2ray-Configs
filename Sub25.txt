@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A6679
-vless://d3af9aee-7289-48e7-9305-093cf7bf93a0@5.42.107.242:32354?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A32354
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.19:9101#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A9101
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.86.148:8000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.86.148%3A8000
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?encryption=none&security=tls&sni=faRAHDIba.pagES.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=FaRAhDibA.pAgEs.dEv&path=%2FPROXY_MTM-PROXY_MTM%3Fed%3D2560#%F0%9F%9A%A9CF%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2rayng_vpnrog%20%7C%200
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.81:5003#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.81-3444
 vless://f44e3aa9-aa2e-407d-e0a4-2b2cee184036@5.42.107.242:14244?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5.42.107.242%3A14244
@@ -603,3 +599,7 @@ trojan://502560b1-6cb2-443e-ba50-361c94ddab3a@172.65.190.172:33019?security=tls&
 trojan://Aimer@154.17.228.203:443?sni=agepq.ambercc.filegear-sg.me#US38
 trojan://telegram-id-directvpn@18.197.198.204:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A588
 trojan://NISHIKUITAN111@5.182.84.93:443?#%E6%9C%AA%E7%9F%A589
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@23.172.40.143:17742?#US39
+trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.200.11:443?security=tls&type=ws&sni=Us6-08.890606.xYZ&path=/ILLcisbMYUd6MQzxVoMQ&host=us6-08.890606.xyz#%E6%9C%AA%E7%9F%A590
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.191.251:443?security=tls&type=ws&sni=BoStoN01.890614.GGff.neT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston01.890614.ggff.net#%E6%9C%AA%E7%9F%A591
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.59:2377#TW3
