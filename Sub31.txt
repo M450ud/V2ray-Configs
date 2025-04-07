@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.153.2:8443?security=tls&sni=09WeSb13I4.bIgCoMpAnYhArD2.oRg&type=ws&host=09WeSb13I4.bIgCoMpAnYhArD2.oRg&path=/&alpn=h3h2#🔗 Vauth - 2979
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.168:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔗 Vauth - 2980
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.113:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔗 Vauth - 2981
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.236.134:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔗 Vauth - 2982
 vless://d6660712-4d18-47fd-b095-0c36db667250@104.18.202.232:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 2983
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?type=ws&host=redw.pooriam.ir&path=%2Ftelegram%40-----------------------WedBaZ-------------------------WedBaZ---------------------%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2984
@@ -603,3 +600,6 @@ vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.221.248:443?security=tls&sni
 vless://55520747-311e-4015-83ce-be46e2060ce3@206.238.236.166:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔗 Vauth - 3576
 vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.17.195.81:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 3577
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.133.1.33:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔗 Vauth - 3578
+vless://a0a72007-b781-4332-ac95-311bbfbde880@45.11.187.240:443?security=none&type=tcp&host=ubunto.com&headerType=http#🔗 Vauth - 3579
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.21:80?security=none&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔗 Vauth - 3580
+vless://c90932c0-a640-4113-a1d6-14812e4c64d1@104.21.15.33:443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F47845%2F%40M3HDIO1&fp=chrome#🔗 Vauth - 3581
