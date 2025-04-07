@@ -3,28 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	},
-	"portMap" : {
-
-	}
-}
-{
-	"configs" : [
-		{
-			"remarks" : "www.dongtaiwang.com 洛杉矶",
-			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
-			"server" : "liaoningddns.xyz",
-			"server_port" : 11421,
-			"server_udp_port" : 0,
-			"password" : "Fhbe0z",
-			"method" : "chacha20-ietf",
-			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "17431:D7BnFuPDyUA",
-			"obfs" : "tls1.2_ticket_auth",
-			"obfsparam" : "f4b6417431.microsoft.com",
-			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
-			"group" : "",
-			"enable" : true,
 			"udp_over_tcp" : false
 		}
 	],
@@ -603,3 +581,25 @@ trojan://Aimer@173.245.59.202:2083?security=tls&type=tcp&sni=ngepx.ambercc.fileg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMDdmZTRlZi1mYTFlLTQ2ZDItYTgxYS01ZTQyODdkOTkyZDk=@free.2weradf.xyz:36173#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://Aimer@108.162.194.193:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A559
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.44.214:2053?security=tls&type=ws&sni=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs?ed=2560&host=nop-55q.pages.dev#%E6%9C%AA%E7%9F%A560
+trojan://JX98RVznPn2V@104.21.32.1:2087?security=tls&type=httpupgrade&sni=ana.twn24.ir&path=/🆔@M3HDIO1&host=ana.twn24.ir#%E6%9C%AA%E7%9F%A561
+trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A562
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@162.251.63.123:5004#US12%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.2.77:8080#%E6%9C%AA%E7%9F%A563
+trojan://bpb-trojan@104.17.102.149:2053?security=tls&type=ws&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&host=bpb-worker-panel-bcr.pages.dev#%E6%9C%AA%E7%9F%A564
+trojan://opentunnel.net-trhrst5ju45s@69.16.230.165:443?security=tls&sni=ukt-2.opensvr.net#US13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.94:2377#TW2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%E6%9C%AA%E7%9F%A565%2021.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMDdmZTRlZi1mYTFlLTQ2ZDItYTgxYS01ZTQyODdkOTkyZDk=@free.2weradf.xyz:36341#%F0%9F%87%B5%F0%9F%87%ADPH%E8%8F%B2%E5%BE%8B%E5%AE%BE2
+trojan://blue2024@104.19.90.210:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A566
+trojan://Aimer@172.245.156.126:2053?security=tls&type=ws&sni=ageph.ambercc.filegear-sg.me&path=/&host=ageph.ambercc.filegear-sg.mehttp/1.1#US14
+trojan://Trevely@173.245.59.110:443?security=tls&sni=trojan.trevely.us.kg#%E6%9C%AA%E7%9F%A567
+trojan://Aimer@156.225.72.199:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US15
+trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.16.1:8443?security=tls&type=ws&sni=tABNaK.TwN24.ir&path=/vNF7RJtVepEuGq7R6Cczl&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A568
+trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&path=/&host=darkevil.news#%E6%9C%AA%E7%9F%A569
+ss://YWVzLTEyOC1nY206NTBjV01yOUtia2VnREM5aEhaUE5Bdw==@20.173.66.64:1080#%E6%9C%AA%E7%9F%A570
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#HK13%20895.4KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#%E6%9C%AA%E7%9F%A571%2020.1MB%2Fs
+ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA==@223.165.5.107:20023#%E6%9C%AA%E7%9F%A572
+ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA==@185.126.239.231:20002#%E6%9C%AA%E7%9F%A573
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.96:2377#TW3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#%E6%9C%AA%E7%9F%A574%2061.6KB%2Fs
