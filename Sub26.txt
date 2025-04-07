@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://i6Q2Mgkvwc@104.17.180.185:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A5111
-trojan://Aimer@154.211.8.109:2087?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US27
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEyIiwiYWRkIjoiMTcyLjY3LjE3NS40MCIsInBvcnQiOiIyMDgzIiwiaWQiOiI4M2NlNzA5OS1iY2Q2LTRlOTEtOTExZS0xZjI4YTY2NWM5YTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidGFibmFrLmZhcnNvbmxpbmUyNC5pciIsInBhdGgiOiIv8J+GlEBNM0hESU8xIiwidGxzIjoidGxzIiwic25pIjoidGFibmFrLmZhcnNvbmxpbmUyNC5pciIsInRlc3RfbmFtZSI6IjExMiJ9
 trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:2053?security=tls&type=ws&sni=mIzAn.tWn24.Ir&path=/vNF7RJtVepEuGq7R6Cczl&host=mizan.twn24.ir#%E6%9C%AA%E7%9F%A5113
 trojan://Aimer@162.159.44.82:443?sni=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5114
@@ -603,3 +601,5 @@ vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.168:2096?security=tls&sn
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.173:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔗 Vauth - 567
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.209:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔗 Vauth - 568
 vless://40d3fdd7-e534-4762-a125-359484e522ef@104.21.65.172:443?security=tls&sni=PpAL03.MagDalENA-GaYLoRd.workERs.dEV&type=ws&host=pPAL03.mAGdalena-GayloRd.WOrkERS.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 569
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.52:80?security=none&sni=foffmelo.com&type=ws#🔗 Vauth - 570
+vless://c30c5f0c-72b6-4e66-ba53-f755a73064c3@185.79.158.143:8452?security=none&type=tcp&headerType=http#🔗 Vauth - 571
