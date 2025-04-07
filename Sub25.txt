@@ -3,6 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"remarks" : "dongtaiwang.com",
+			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
 	"random" : true,
 	"sysProxyMode" : 3,
 	"shareOverLan" : false,
@@ -585,21 +603,3 @@ ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#HK6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDgzNjEyNy0yNjM5LTQwOGQtYWQ3NS1lMzViZmRhN2Q2NTk=@free.2apzhfa.xyz:31677#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUgNDE2LjNLQi9zIiwiYWRkIjoiMTU0LjI2LjEzMS4zOSIsInBvcnQiOiI0MjY1NCIsImlkIjoiZTE3ZjQ2YjUtZTIyNC00OGM5LTk2NWYtZTI0ZjFkZmMyNDE4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjUifQ==
 trojan://74260700211203800@85.234.83.191:443?security=tls&type=tcp&sni=possible-tiger.shiner427.skin#%E6%9C%AA%E7%9F%A526%201.9MB%2Fs
-trojan://Aimer@172.64.35.127:443?security=tls&type=ws&sni=agepu.ambercc.filegear-sg.me&path=/?ed=2560&host=agepu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A527
-trojan://e3c41c94-097d-475e-8de5-d983d8df7cf1@45.146.232.171:22271?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK7
-trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.172:27001?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK8
-trojan://Mikahyh%40l4fg@172.67.213.239:443?security=tls&type=ws&sni=1dA8C916-rOuNd-moON-05E0.SoreN-cyBGU.WOrkERS.dEV&path=/trRcYvbGfmPV0XjXHV?ed=2560&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev#%E6%9C%AA%E7%9F%A528
-ss://YWVzLTI1Ni1nY206VDBFTFM0ODA0QkdYS0dNTw==@45.154.206.189:20038#%E6%9C%AA%E7%9F%A529
-ss://YWVzLTI1Ni1nY206SFdKTE5ON0lKQVk5M1NPMQ==@45.154.207.246:20030#%E6%9C%AA%E7%9F%A530
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@178.79.152.174:2377#%E6%9C%AA%E7%9F%A531
-trojan://bpb-trojan@172.67.209.80:443?security=tls&type=tcp&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev#%E6%9C%AA%E7%9F%A532
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TnJGWHU2TVVOamVDOWNjeU5LQTJ4@77.238.245.245:27818#%E6%9C%AA%E7%9F%A533
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzQgNDQuOUtCL3MiLCJhZGQiOiIzOC4xMTQuMTIwLjEyIiwicG9ydCI6IjQ3NTY3IiwiaWQiOiJjZGE1ZGZhYS05OWU4LTQyZDYtOWYwYi02ZWYzMGY3NmU5MmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjM0In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#US6%2020.8MB%2Fs
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link#HK9
-trojan://qCfu8t%24s%7B2m%3BsTxm@172.66.44.194:2053?security=tls&type=ws&sni=JOinMaHdISeRvEr-C1C.PaGES.dEV&host=joinmahdiserver-c1c.pages.dev#%E6%9C%AA%E7%9F%A535
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.34.244.77:443#%E6%9C%AA%E7%9F%A536
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#%E6%9C%AA%E7%9F%A537
-vmess://eyJ2IjoiMiIsInBzIjoiVVM3IDkxLjZNQi9zIiwiYWRkIjoiMTUuMjA0LjI0OS4wIiwicG9ydCI6IjQ4MTYwIiwiaWQiOiI1YjExM2MxMi00ZGQ0LTRiYjUtOWMwMS1jZmYwOTJiNTU5ZTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTNyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@59.125.75.110:2377#TW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cmZBOTJNNkEyYTlFMUdpRkhhOVV4@45.129.185.97:4443#%E6%9C%AA%E7%9F%A538
