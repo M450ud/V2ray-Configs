@@ -3,6 +3,27 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "148477AE146D474DFF2EA001FFF8DF35",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
 			"server" : "aiavnd1.vip.conectinnode.info",
@@ -582,24 +603,3 @@ trojan://Aimer@199.34.228.187:443?security=tls&type=ws&sni=ngepy.ambercc.filegea
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#US4%202.0MB%2Fs
 trojan://PiEKEIIMDz1h@172.67.175.40:2087?security=tls&type=ws&sni=tasnim.farsonline24.ir&path=/🆔@M3HDIO1&host=tasnim.farsonline24.ir#%E6%9C%AA%E7%9F%A59
 trojan://Aimer@46.254.93.52:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A510
-trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@5.83.221.31:30051?security=tls&sni=v2vn01.fuqiangren.com#HK4
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A511
-trojan://Aimer@176.124.223.50:8443?security=tls&type=ws&sni=ageph.ambercc.filegear-sg.me&path=/&host=ageph.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A512
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd29IZnB2dWN6ekhPa09lYkdYaVVP@87.98.242.137:49551#%E6%9C%AA%E7%9F%A513%201.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTjJKb1poRG9kTVg1d1BmcjB4YlQ1@45.8.98.163:52839#%E6%9C%AA%E7%9F%A514
-ss://YWVzLTI1Ni1nY206NGhUbHdVY3JuQU1IblMxUA==@46.246.98.130:8388#%E6%9C%AA%E7%9F%A515
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%E6%9C%AA%E7%9F%A516%205.7MB%2Fs
-trojan://Aimer@176.124.223.40:2053?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A517
-trojan://Aimer@46.254.93.243:8443?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A518
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link#HK5
-trojan://Aimer@38.180.58.141:443?sni=agepk.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A519
-trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&type=tcp&sni=z9.gozargah.one#US5
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A520
-trojan://efad7560-dfe7-11ef-b6c6-1239d0255272@51.210.182.170:443?security=tls&type=tcp&sni=momtazpanel.ir#%E6%9C%AA%E7%9F%A521
-trojan://123456@104.25.165.83:8443?security=tls&type=ws&sni=top-azx.pages.dev&path=/Az1.vpn.33.TOP/?ed=2560&host=top-azx.pages.dev#%E6%9C%AA%E7%9F%A522
-trojan://c3599d52-283c-4284-b8f1-15d05e3091b0@62.3.54.31:12014?security=tls&type=tcp&sni=sg4.yuanul.com#%E6%9C%AA%E7%9F%A523
-trojan://74260700211203800@85.234.83.5:443?sni=powerful-grackle.shiner427.skin#%E6%9C%AA%E7%9F%A524%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#HK6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDgzNjEyNy0yNjM5LTQwOGQtYWQ3NS1lMzViZmRhN2Q2NTk=@free.2apzhfa.xyz:31677#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUgNDE2LjNLQi9zIiwiYWRkIjoiMTU0LjI2LjEzMS4zOSIsInBvcnQiOiI0MjY1NCIsImlkIjoiZTE3ZjQ2YjUtZTIyNC00OGM5LTk2NWYtZTI0ZjFkZmMyNDE4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjUifQ==
-trojan://74260700211203800@85.234.83.191:443?security=tls&type=tcp&sni=possible-tiger.shiner427.skin#%E6%9C%AA%E7%9F%A526%201.9MB%2Fs
