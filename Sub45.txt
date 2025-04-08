@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@185.148.106.192:2053?encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp%2F1.1&type=grpc#@vpnclashfa - 74
-vless://347b41ac-a0ad-4b39-a335-ca42b624ba9c@89.221.224.166:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#@vpnclashfa - 73
-vless://33173d48-d620-11ee-aaa8-00505603e70d@104.26.11.137:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&fp=chrome&type=ws&sni=st-fr-1.brocdn.com#@vpnclashfa - 72
-vless://33002e6d-83b5-43b9-8501-bea7391cb1e1@38.60.208.238:8080?security=none&encryption=none&headerType=none&type=tcp#@vpnclashfa - 71
-vless://312849b3-63a4-4016-a8eb-a7f5881a1d89@188.114.96.3:443?path=%2Fvh2&security=tls&encryption=none&host=fc.nimaempire.cfd&fp=chrome&type=httpupgrade&sni=fc.nimaempire.cfd#@vpnclashfa - 70
-vless://2e8d29bd-166c-49a8-9322-898e9bf6c6ad@amirtronic.1384.zula.amirtronic.top:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.amirtronic.top.&type=ws#@vpnclashfa - 69
-vless://2c0404de-6bef-4617-a594-84280f0a70b2@198.41.209.2:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=gard.starmc.ir&fp=firefox&type=grpc&serviceName=%40metavpnn&sni=gard.starmc.ir#@vpnclashfa - 68
 vless://2c0404de-6bef-4617-a594-84280f0a70b2@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2,http/1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#@vpnclashfa - 67
 vless://2725d136-d620-4687-9752-be65774f2914@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Freehomesvpn&sni=fragment.mzolfaghari.homes#@vpnclashfa - 66
 vless://26e12893-0109-4ebf-a9c2-792fcc759656@198.41.209.2:443?path=%2F%40metavpnn&security=tls&encryption=none&alpn=h2,http/1.1&host=gard.starmc.ir&fp=firefox&type=ws&sni=gard.starmc.ir#@vpnclashfa - 65
@@ -113,8 +106,8 @@ trojan://%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYmQyNmE2ZGMtZTA2YS00ZDI4LTlkYmMtNGNkOWMxMTYxODhmIiwicGFnZV90aW1lIjoxNzQ0MTM5ODEyLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjE3Mi4yMTQuMTc1LjI1MCJ9Cg==";</script>
-<script src="/bFpKqsEwP.js"></script>
+<script>window.park = "eyJ1dWlkIjoiYmZhODU5MjktYmNhNS00ZjU4LTkyZmYtODIxNWU4YzJiNDg5IiwicGFnZV90aW1lIjoxNzQ0MTQzNzA4LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjUyLjE2MC4xNjUuNjEifQo=";</script>
+<script src="/bEaWjpYBe.js"></script>
 </body>
 </html>
 
@@ -603,3 +596,10 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
 vless://df72a409-8b14-4d91-a644-ec8355239faf@ispeedtop.imailtop.site:38597?type=tcp&headerType=http&host=www.speedtest.net&path=/&security=none&fragment=50-100,10-20,tlshello#👉🆔 @v2ray_configs_pool
 trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@13.36.24.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.16.214:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-directvpn@3.134.180.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.16.214:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool
+trojan://telegram-id-privatevpns@13.36.24.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool
+vless://fb773829-ebe0-49b6-a55c-6cae72992326@anonymousswi.shoponetop.com.:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=safari&type=grpc&serviceName=xyz&sni=anonymousswi.shoponetop.com.#👉🆔 @v2ray_configs_pool
