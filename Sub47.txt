@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://4e47d40d-770c-49e8-b730-bc9628404f87@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @v2ray_configs_pool
-vless://9d5cc6f7-a8aa-487a-9895-3ba58d33c3eb@www.zula.ir:80?path=%2FV2ray.motorcycles%3Fed%3D80&security=none&encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&type=ws#👉🆔 @v2ray_configs_pool
-vless://15b15cd3-d8c1-4c78-8e25-bd5a57fb9dfc@141.105.130.98:49938?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.176.215.63:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%2980b6690%3A72938#%F0%9F%87%AF%F0%9F%87%B5JP_%40wangcai_8
-vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiMzAwMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1NvdXRoIEtvcmVhIn0=`
 vmess://eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2MyLjE4MDguc2l0ZSIsICJpZCI6ICJkM2Q4Yjc4MS1mMzBkLTQ5MDItOGViMC01OGIxY2E5MzZiZWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hncXF2d3MiLCAicG9ydCI6ICIzMDAwMiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiY2MyLjE4MDguc2l0ZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdTb3V0aCBLb3JlYSJ9`
 vmess://eyJhZGQiOiAiNDUuMTk2LjIzOS4xNDEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxYThkOWQ0LTAzZWYtNGFjNy1kYzRmLTNjZWE0ZTFjYjQ3YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1Mzg2MSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwSG9uZyBLb25nIn0=`
 trojan://telegram-id-directvpn@52.56.145.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔
@@ -603,3 +596,10 @@ hy2://5eaa121d-4362-444d-8219-29b02c35303a@212.115.124.224:33035?insecure=1&sni=
 hy2://729922eb-2020-40a1-89f9-6eb97abcaa02@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H6%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 hy2://0495fe07-c7fe-4af6-9827-069b32457110@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H7%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 hy2://649c1549-da73-406a-a184-9b4c4347d76c@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H8%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+hy2://ab4baa8c-98e2-419c-a0e9-df7faf09ebbe@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H9%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+hy2://a6c590b8-12b9-4107-b840-e79d95961a70@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H10%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+hy2://07d4ef3b-1430-451a-acd9-a4d4e7c0456d@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H11%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+hy2://dd7157a5-b416-49e7-b00e-8c66522f1434@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H12%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+hy2://4f3079e5-29a3-49a0-a820-f1b08cc04f39@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H13%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+hy2://92d1a9ea-0cd8-4efb-b53f-b6496f8abef8@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H14%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+hy2://f59c9c59-2366-4d6c-8477-b8f57568cb68@212.115.124.224:33035?insecure=1&sni=dxobg4azmk.gafnode.sbs#Rayan%20-%20GAFN%20-%20Hys2%20-%20H15%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
