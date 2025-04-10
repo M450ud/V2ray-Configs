@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "17431:D7BnFuPDyUA",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "f4b6417431.microsoft.com",
+			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
+			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
 		}
@@ -596,10 +603,3 @@ trojan://Aimer@173.245.59.203:443?sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%
 trojan://Aimer@192.210.193.248:50005?sni=epccy.ambercc.filegear-sg.me#US16
 trojan://fsoOufuTGmSKzRDaAwAbww@178.63.244.9:443?security=none&type=tcp#%E6%9C%AA%E7%9F%A568
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.29.194:443?security=tls&type=ws&sni=sanjose03.890614.filegear-sg.me&path=/T5yZBrY2Qkg2cThJQeJb&host=sanjose03.890614.filegear-sg.me#%E6%9C%AA%E7%9F%A569
-trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US17
-trojan://Aimer@27.50.49.136:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A570
-trojan://Aimer@77.232.140.101:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A571
-trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@43.207.112.226:443?#%E6%9C%AA%E7%9F%A572
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxOCIsImFkZCI6IjE4NS4xODkuMzIuMTc5IiwicG9ydCI6IjIyNzAyIiwiaWQiOiI0ODNhMWNjZS1hZjliLTQ0MTYtZDdjNi0xMGI5YjYzYmU2NmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTgifQ==
-trojan://bpb-trojan@104.19.35.14:443?security=tls&type=tcp&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV#%E6%9C%AA%E7%9F%A573
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNTdmZWZiYy1jNGNiLTRkODItOTQ1Mi1lZjJjMzFjZmIwMDU=@free.2apzhfa.xyz:31115#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
