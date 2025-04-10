@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"isHideTips" : true,
 	"nodeFeedAutoUpdate" : true,
 	"serverSubscribes" : [
 
@@ -603,3 +602,4 @@ trojan://Aimer@121.180.184.145:50000?security=tls&type=tcp&sni=ngepy.ambercc.fil
 trojan://d041d96a-09a5-405f-ba3d-f56e3b444fb9@45.146.232.173:43583?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#HK9
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.248.235:5003#US11%2037.4KB%2Fs
 trojan://SSorg@104.19.60.104:2096?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A557
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#US12%201.8MB%2Fs
