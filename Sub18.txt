@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://9d20c262-b8a6-48d4-8851-e3cc7511a596@5.202.6.12:2086?type=ws#IR🇮🇷 | 5.202.6.12-2086 | 253.8ms
+vless://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@WwW.SpeEdTest.Net:8880?path=%2F%3Fed%3D8880Telegram+%3A&security=none&encryption=none&host=pourya.direct5.gpairnetwork369.ir.&type=httpupgrade#RELAY🚩 | pourya.direct5.gpairnetwork369.ir.-8880 | 182.47ms
+vless://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@WwW.SpeEdTest.Net:8880?path=%2F%3Fed%3D8880Telegram+%3A&security=none&encryption=none&host=pourya.direct2.gpairnetwork369.ir.&type=httpupgrade#RELAY🚩 | pourya.direct2.gpairnetwork369.ir.-8880 | 182.43ms
+vless://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@WwW.SpeEdTest.Net:8880?path=%2F%3Fed%3D8880Telegram+%3A&security=none&encryption=none&host=pourya.direct1.gpairnetwork369.ir.&type=httpupgrade#RELAY🚩 | pourya.direct1.gpairnetwork369.ir.-8880 | 5.86ms
 vless://9c4c3633-441c-60d3-50a6-893a7c904f7e@104.21.69.44:2086?mode=auto&path=%2FDevil%3Fed%3D2560&security=none&encryption=none&host=xhttp.fr1.inservices.ir&type=xhttp#FR🇫🇷 | xhttp.fr1.inservices.ir-2086 | 276.69ms
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@104.18.14.19:8880?type=ws&host=0103.x8r4itwg.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 0103.x8r4itwg.workers.dev-8880 | 39.37ms
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@104.18.14.19:8080?type=ws&host=0103.x8r4itwg.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩 | 0103.x8r4itwg.workers.dev-8080 | 6.06ms
@@ -599,7 +603,3 @@ vless://7d4b6a9a-cb74-4de1-b78f-dbec043d4156@185.148.106.64:2053?encryption=none
 vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#RELAY🚩 | Ruc80.TehrANsiMAn.co.UK.-443 | 6.6ms
 vless://7acdf2df-95fd-4bc8-a730-d6e44b95aad2@172.67.187.156:443?security=tls&type=ws&headerType=&path=%2Fvlws&host=fcgerman.nimaempire.cfd&sni=fcgerman.nimaempire.cfd&fp=chrome#RELAY🚩 | fcgerman.nimaempire.cfd-443 | 6.25ms
 vless://7acdf2df-95fd-4bc8-a730-d6e44b95aad2@172.67.187.156:443?security=tls&type=httpupgrade&headerType=&path=%2Fvh2&host=fcgerman.nimaempire.cfd&sni=fcgerman.nimaempire.cfd&fp=firefox#RELAY🚩 | fcgerman.nimaempire.cfd-443 | 6.41ms
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?path=%2FTelegram%2FXV2ray%3Fed&security=none&encryption=none&host=Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.&type=ws#DE🇩🇪 | Csgo.XV2ray.xn--2b5b.127.0.0.1.Offline.Download.Down.Online.0.2.1.Tor.xn--g28h.dns-dynamic.net.-80 | 834.79ms
-vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 6.63ms
-vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.25ms
-vless://6d47d0cf-4ef8-4101-a3b9-9126b6875dc0@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.43ms
