@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"sysProxyMode" : 3,
-	"shareOverLan" : false,
-	"localPort" : 1080,
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
 	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
@@ -603,3 +599,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg=
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.141:443?security=tls&sni=trus.moonfree.top#US21
 trojan://telegram-id-privatevpns@63.177.217.23:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A573
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Telegram@FreeV2Alpha&host=md1.safecdn.site#%E6%9C%AA%E7%9F%A574
+trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.200.11:443?security=tls&type=ws&sni=Us6-08.890606.xYZ&path=/ILLcisbMYUd6MQzxVoMQ&host=us6-08.890606.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://amclubs@103.160.204.1:443?security=tls&type=ws&sni=tran.amclubstest.nyc.mn&path=/?ed=2560&host=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A575
+trojan://NISHIKUITAN111@198.41.217.62:443?#%E6%9C%AA%E7%9F%A576
+trojan://telegram-id-directvpn@13.50.127.142:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%2012.1MB%2Fs

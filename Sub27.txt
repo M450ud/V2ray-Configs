@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.200.11:443?security=tls&type=ws&sni=Us6-08.890606.xYZ&path=/ILLcisbMYUd6MQzxVoMQ&host=us6-08.890606.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://amclubs@103.160.204.1:443?security=tls&type=ws&sni=tran.amclubstest.nyc.mn&path=/?ed=2560&host=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A575
-trojan://NISHIKUITAN111@198.41.217.62:443?#%E6%9C%AA%E7%9F%A576
-trojan://telegram-id-directvpn@13.50.127.142:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5%2012.1MB%2Fs
 trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&type=tcp&sni=x1es-ovh.devefun.net#%E6%9C%AA%E7%9F%A577%2013.9MB%2Fs
 trojan://Aimer@103.116.7.189:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US22
 trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A578
@@ -603,3 +599,7 @@ vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.93.179:443?security=tls&sni=
 vless://704222bd-7eff-4307-ae26-d6a5ab79817a@31.22.116.18:443?sni=usc.xzncr.asia&type=ws&host=usc.xzncr.asia#🔗 Vauth - 514
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.44.215:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔗 Vauth - 515
 vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@104.27.62.243:443?security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev&type=ws&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=@VPNHTTPInjectorfree#🔗 Vauth - 516
+vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 517
+vless://08aa1264-7f7b-4cd0-9f1e-9783146fab53@172.67.73.163:80?security=none&type=ws&host=iNFoRMed-Heat.oNeEAt.Co.&path=%2F%3Fed%3D2048#🔗 Vauth - 518
+vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@207.148.101.144:23492?security=tls&sni=rel21.amosrelldow.ir&type=ws&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔗 Vauth - 519
+vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@104.16.60.79:8080?security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 520
