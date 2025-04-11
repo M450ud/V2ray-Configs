@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.98:2377#US16
 trojan://Aimer@67.226.221.102:80?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US17
 trojan://b37c8327-1fcf-4c9e-a42f-9f7922972cc1@45.146.232.173:34017?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK12
 trojan://74260698218909400@109.107.159.122:443?security=tls&type=tcp&sni=electric-mallard.shiner427.skin#%E6%9C%AA%E7%9F%A560
@@ -603,3 +602,4 @@ vless://5b243918-7b57-4aef-a01d-a32e20405cc1@172.67.68.199:2096?security=tls&sni
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.114:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔗 Vauth - 488
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.209:8880?type=grpc#🔗 Vauth - 489
 vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.136.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔗 Vauth - 490
+vless://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.80.1:2083?security=tls&sni=MIZAn.TWn24.ir&type=httpupgrade&host=mizan.twn24.ir&path=%2F1TEFUc8jfdS517rirmowmH&fp=chrome&alpn=http%2F1.1#🔗 Vauth - 491
