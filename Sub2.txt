@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.26.11.144:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.144:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@202.37.33.80:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇿 NZ-202.37.33.80:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.254:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.254:80
 vless://2fec7227-9abe-46f2-af18-78302b836c45@172.67.208.155:443?security=tls&sni=3g.2030.pp.ua&type=ws&host=3g.2030.pp.ua&path=%2FqF5dXhCllosLcFpqdDoAgkondVWl&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.155:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@125.139.48.108:16026?security=tls&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇰🇷 KR-125.139.48.108:16026
@@ -601,5 +603,3 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?security=none&type=
 vless://622c959c-0e77-435b-b116-8b2e45e87b39@185.146.173.146:443?security=tls&sni=lIsT.ClOudUPdATe.Ir.&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.146:443
 vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@172.67.133.177:8880?security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.133.177:8880
 vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.130.216:80?security=none&type=ws&host=marzneshinestonia.car&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.216:80
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.150.214:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.50.150.214:22222
-vless://3dfcc8dc-e3d3-4323-a508-0628eeb8769e@151.101.63.2:80?security=none&type=xhttp&host=telegram-netpie.com&path=%2Fnetpie#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.63.2:80
