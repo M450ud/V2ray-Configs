@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://dfcf09d0-3b94-48fd-9e9b-7d7adfa76c0d@www.speedtest.net:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#🇨🇦CA_3135_@Surfboardv2ray
 vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇫🇮FI_3136_@Surfboardv2ray
 vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇫🇮FI_3137_@Surfboardv2ray
 vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪DE_3138_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"randomAlgorithm" : 2,
 	"randomInGroup" : false,
 	"TTL" : 0,
-	"connectTimeout" : 5,

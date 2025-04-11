@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
@@ -602,4 +603,3 @@ trojan://Aimer@104.19.86.120:2096?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%
 trojan://vip@104.18.42.98:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A535
 trojan://vip@104.17.48.63:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A536
 trojan://Aimer@108.165.152.59:2087?sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://Aimer@108.165.152.67:2053?sni=epccy.ambercc.filegear-sg.me#US19
