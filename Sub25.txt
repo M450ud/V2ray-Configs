@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@34.194.177.180:8880?security=none&encryption=none&headerType=none&type=tcp#🇺🇸US_3159_@Surfboardv2ray
+vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@52.32.132.172:8880?security=none&encryption=none&headerType=none&type=tcp#🇺🇸US_3160_@Surfboardv2ray
+vless://e2e9c4ea-9c7a-4b9d-a3c6-9c3bb872bd0e@167.172.32.26:2096?security=reality&encryption=none&pbk=Lm8Jp-rgdb1UkSaldcQEa-I3BSFe6ldC27G2DHOllX8&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=946f2debf4c1e834#🇳🇱NL_3161_@Surfboardv2ray
+vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@167.235.224.93:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=forward222.maryam1500.top#🇩🇪DE_3162_@Surfboardv2ray
+vless://e2f45773-e553-47d1-b495-4f6063a8d95f@188.245.126.124:44566?security=reality&encryption=none&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🇩🇪DE_3163_@Surfboardv2ray
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=chrome&type=ws&sni=119f3a0b.chikiy123w.pages.dev#🇨🇦CA_3164_@Surfboardv2ray
+vless://e3089788-42eb-4792-8348-47fe2fe213a2@104.17.231.69:443?path=/nR8YIgT2y9Cvz6EgciEMO&security=tls&alpn=http/1.1&encryption=none&host=service-c.secretvps.cam&fp=chrome&type=httpupgrade&sni=service-c.secretvps.cam#🇨🇦CA_3165_@Surfboardv2ray
 vless://e313427c-da42-4f52-9922-057aa6e5da1e@free4.iranbax.com:2053?encryption=none&security=reality&sni=greenpepper.ir&fp=chrome&pbk=DnbLcTb0Q3MgaCfJ8s7NPk_8kz6PxShHVw9rnnQbd2c&sid=d8&spx=/&type=grpc&serviceName=Telegram:@iranbaxvpn&mode=gun#🇺🇸US_3166_@Surfboardv2ray
 vless://e313427c-da42-4f52-9922-057aa6e5da1e@tr.iranbax.com:443?encryption=none&security=reality&sni=greenpepper.ir&fp=chrome&pbk=DnbLcTb0Q3MgaCfJ8s7NPk_8kz6PxShHVw9rnnQbd2c&sid=d8&spx=/&type=grpc&serviceName=Telegram:@iranbaxvpn&mode=gun#🇺🇸US_3167_@Surfboardv2ray
 vless://e3239565-787d-4949-da19-d9ac65d0ef12@ns.cloudflare.com:2095?type=ws&path=@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=xpntEamfree.sockSchangert.ir.&security=none#🇨🇦CA_3168_@Surfboardv2ray
@@ -596,10 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	}
 }
 {
-	"configs" : [
-		{
-			"remarks" : "www.dongtaiwang.com 洛杉矶",
-			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
-			"server" : "liaoningddns.xyz",
-			"server_port" : 11421,
-			"server_udp_port" : 0,
