@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@13.188.20.222:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3124_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@13.217.80.182:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3125_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@15.230.39.205:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3126_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@15.230.39.207:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3127_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@155.146.76.111:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3128_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@16.58.239.19:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3129_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@161.188.127.181:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3130_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@161.188.15.167:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3131_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@162.250.236.197:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3132_@Surfboardv2ray
+vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@216.182.239.78:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3133_@Surfboardv2ray
 vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@3.18.132.33:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3134_@Surfboardv2ray
 vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@3.216.145.128:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3135_@Surfboardv2ray
 vless://e7a04b44-855e-4fe7-8fa0-31894e928bce@3.239.157.2:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#🇺🇸US_3136_@Surfboardv2ray
@@ -593,13 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"proxyType" : 0,
 	"proxyHost" : "",
 	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
-	"proxyUserAgent" : "",
-	"authUser" : "",
-	"authPass" : "",
-	"autoBan" : false,
-	"sameHostForSameTarget" : false,
-	"keepVisitTime" : 180,
-	"isHideTips" : true,
-	"nodeFeedAutoUpdate" : true,
