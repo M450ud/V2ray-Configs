@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
 	"token" : {
 
 	},
@@ -592,14 +603,3 @@ trojan://Aimer@38.207.129.34:35333?security=tls&type=tcp&sni=ngepz.ambercc.fileg
 trojan://d041d96a-09a5-405f-ba3d-f56e3b444fb9@45.146.232.171:43583?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#HK10
 trojan://vip@104.16.229.229:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A548
 trojan://vip@104.18.13.229:2053?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A549
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y2Y0MzEyYi02Y2Y5LTQ4MGYtOGU1OS1kNGUxNDRiMjMxNWI=@free.2weradf.xyz:36371#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A6
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTAiLCJhZGQiOiIxNTcuMjQ1LjczLjE3MCIsInBvcnQiOiIyMDg4IiwiaWQiOiJkMGE2ZjcxMi00NGMxLTE2ODgtZGM2NS1mMzRmOWFmYjA1NTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNTAifQ==
-trojan://8D7cKgBRSZ7DRxaAOD4BOYAe3Z8wCSAya3AaD2lp3gxz5xpl0lXZ93F6EjuY2RIC3q8uZ@3.25.239.76:443?security=tls&sni=ttolpro.bigkangaroo.net#%E6%9C%AA%E7%9F%A551
-trojan://Aimer@118.37.220.10:11300?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A552
-trojan://telegram-id-directvpn@13.37.196.35:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A553%207.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#%E6%9C%AA%E7%9F%A554%204.1MB%2Fs
-trojan://Aimer@5.182.85.28:443?sni=epccy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A555
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#%E6%9C%AA%E7%9F%A556%203.7MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#US11
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.123:443#US12
-ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#%E6%9C%AA%E7%9F%A557
