@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6pCRShBemFkTmV0LnQubWUpIiwiYWRkIjoiNTcuMTI5LjI0LjE0MiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJoYXJyaXNjaXR5LmNvbSIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443?type=tcp&sni=us02.trojanyyds.xyz&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%AABE(AzadNet.t.me)
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?type=tcp&sni=us01.trojanyyds.xyz&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%AABE(AzadNet.t.me)
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg01.trojanyyds.xyz:443?type=tcp&sni=sg01.trojanyyds.xyz&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%AABE(AzadNet.t.me)
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6pCRShBemFkTmV0LnQubWUpIiwiYWRkIjoiNTcuMTI5LjI0LjEyNCIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6pCRShBemFkTmV0LnQubWUpIiwiYWRkIjoiNTcuMTI4LjE4NC4xMjciLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6pCRShBemFkTmV0LnQubWUpIiwiYWRkIjoiNTcuMTI5LjI4LjY5IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.71:989#%F0%9F%87%A7%F0%9F%87%AABE(AzadNet.t.me)
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk04.trojanyyds.xyz:443?type=tcp&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%AABE(AzadNet.t.me)
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%A7%F0%9F%87%ACBG(AzadNet.t.me)
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#%F0%9F%87%A7%F0%9F%87%ACBG(AzadNet.t.me)
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#%F0%9F%87%A7%F0%9F%87%ACBG(AzadNet.t.me)
-trojan://blue2024@185.176.26.193:443?type=tcp&sni=b.promote.icu&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%ACBG(AzadNet.t.me)
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUihBemFkTmV0LnQubWUpIiwiYWRkIjoiMTg4LjExNC45OS4xODMiLCJwb3J0Ijo0NDMsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh7dCUihBemFkTmV0LnQubWUpIiwiYWRkIjoiMTg4LjExNC45Ni4zIiwicG9ydCI6NDQzLCJpZCI6IjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImI2MmE5NDhjLWZhYTItNGU4YS1iZjhhLTNmZjMxMjFjODc1YS5hc291bC1hdmEudG9wIiwicGF0aCI6Ii9henVtYXNlLnJlbiIsInRscyI6InRscyJ9
-trojan://blue2024@188.114.97.99:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
-trojan://blue2024@188.114.96.186:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
-trojan://79770a32-9607-4919-9483-0f1794559390@188.114.97.3:443?type=tcp&sni=nika3hdfy2.foriran.trade&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
-trojan://auto@188.114.99.81:443?type=tcp&sni=mazq100za43.962dael.workers.dev&allowInsecure=1#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.192.124.188:989#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&type=ws&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&fp=randomized&path=/?ed=2048&encryption=none&headerType=none#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
 vless://57b195c6-5b14-4740-84dd-4eac9fa496dd@188.114.96.0:443?security=tls&type=ws&sni=4fi0bned6rskd4f4x8b53lhibpjrrz7ppzbyhrqv99yf0i9riuwzp79gu5lahbt.1td780.workers.Dev&path=/&encryption=none&headerType=none#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.96.3:8080?security=none&type=ws&sni=order.fortgift.ir&path=/z5lsHF5zQrd1rJDr&encryption=none&headerType=none#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA(AzadNet.t.me)
@@ -603,3 +582,24 @@ trojan://your_password@aws-se-stockholm-1.f1rocketnode.com:443?type=tcp&sni=aws-
 trojan://your_password@aws-mx-queretaro-1.f1cflinea.com:443?type=tcp&sni=aws-mx-queretaro-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://your_password@aws-jp-tokyo-1.f1cflinea.com:443?type=tcp&sni=aws-jp-tokyo-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://your_password@aws-it-milan-1.f1cflineb.com:443?type=tcp&sni=aws-it-milan-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-id-jakarta-1.f1cflineb.com:443?type=tcp&sni=aws-id-jakarta-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-hk-1.f1cflinea.com:443?type=tcp&sni=aws-hk-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-ge-frankfurt-1.f1cflineb.com:443?type=tcp&sni=aws-ge-frankfurt-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-ge-frankfurt-1.f1cflinea.com:443?type=tcp&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-fr-paris-1.f1cflineb.com:443?type=tcp&sni=aws-fr-paris-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?type=tcp&sni=aws-es-madrid-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-es-madrid-1.f1cflineb.com:443?type=tcp&sni=aws-es-madrid-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-ch-zurich-1.f1cflinea.com:443?type=tcp&sni=aws-ch-zurich-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-ca-central-1.f1cflineb.com:443?type=tcp&sni=aws-ca-central-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-aus-sydney-1.f1cflinea.com:443?type=tcp&sni=aws-aus-sydney-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@18.100.115.245:443?type=tcp&sni=aws-es-madrid-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@16.62.65.57:443?type=tcp&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@16.171.12.136:443?type=tcp&sni=aws-se-stockholm-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@15.160.138.221:443?type=tcp&sni=aws-it-milan-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-ar-buenosaires-1.f1cflineb.com:443?type=tcp&sni=aws-ar-buenosaires-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@172.67.188.24:443?type=tcp&sni=aws-es-madrid-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://trojan@172.64.155.16:2053?type=tcp&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://trojan@104.18.4.250:2053?type=tcp&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?type=tcp&sni=aws-us-nyc-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?type=tcp&sni=Speedtest.net&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?type=tcp&sni=aws-us-dallas-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
