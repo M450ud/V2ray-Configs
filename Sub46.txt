@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%F0%9F%87%A6%F0%9F%87%B9AT-95.164.9.144-4076
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.235.122-3836
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.236-4161
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.80-3950
 vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk2LjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvYmRpaS5jZmQiLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE4OC4xMTQuOTYuMi0wMTUwIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-3839
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-3923
@@ -177,7 +181,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-04-14 08:26:56 UTC</div>
+            <div class="mt-3">2025-04-14 09:22:24 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -206,7 +210,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Chicago</span>
+  <span class="md:block w-full truncate">San Jose</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -250,12 +254,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9301d23538800ed2</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9302237119cb2716</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.221.34</span>
+      <span class="hidden" id="cf-footer-ip">52.234.38.201</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -299,7 +303,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-04-14 08:26:56 UTC</div>
+            <div class="mt-3">2025-04-14 09:22:24 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -328,7 +332,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Chicago</span>
+  <span class="md:block w-full truncate">San Jose</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -372,12 +376,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9301d2379f69f163</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">930223744db7168c</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.221.34</span>
+      <span class="hidden" id="cf-footer-ip">52.234.38.201</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -421,7 +425,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
             <div>
                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-04-14 08:26:57 UTC</div>
+            <div class="mt-3">2025-04-14 09:22:25 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -450,7 +454,7 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Chicago</span>
+  <span class="md:block w-full truncate">San Jose</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -494,12 +498,12 @@ vless://8e6c4dcd-9fd6-42c7-80f4-a6c46a13ca43@speed.cloudflare.com:80/?type=ws&en
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9301d239e87c8f50</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">93022377a969f9e0</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">172.183.221.34</span>
+      <span class="hidden" id="cf-footer-ip">52.234.38.201</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -599,7 +603,3 @@ vless://Parsashonam-82@www.visa.com:8080?path=%2F&security=none&encryption=none&
 vless://58e1a8ae-d8ae-4d71-885d-eeaea5f967e2@185.146.173.94:80?path=%2Fvless&security=none&encryption=none&host=1.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&type=ws#👉🆔 @v2ray_configs_pool
 vmess://eyJhZGQiOiAiOTEuMTA3LjEzMC4yMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJkNWU1YTczLThmYTEtNGM0My1iNjdmLWMwMjExYmEzNGEwMyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUyNjIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 vless://24d80106-32ca-4333-bdd0-ce486748e538@ns1.game2download.com:443?type=ws&path=%2F&host=&security=tls&fp=random&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool
-vless://c7ccd55f-e9b3-48ae-b34f-dca5556aa872@v2kingfree.zula.ir.game.com.cloudflare.net.0.0.0.0.tech.xn--link-8553cdwd1va.XN--ZFRU1GHYCY7IJZAD72A1I1AW3QE86A.SHOP.:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#👉🆔 @v2ray_configs_pool
-vless://Telegram-%69%70%56%32%52%61%79-ito@185.146.173.58:80?type=ws&path=/Telegram-%69%70%56%32%52%61%79?ed%3D2048&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&security=none#👉🆔 @v2ray_configs_pool
