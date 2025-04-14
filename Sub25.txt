@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.222.235.12:443?type=tcp&security=none#🇺🇸US_2997_@Surfboardv2ray
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.222.235.12:443?type=tcp&security=none#🇺🇸US_2998_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.243.24.66:1009?type=tcp&security=none#🇺🇸US_2999_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.36.63.90:443?type=tcp&security=none#🇺🇸US_3000_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.36.63.90:443?type=tcp&security=none#🇺🇸US_3001_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 {
   "version": "4.1.10.0",
   "configs": [
-    {
-      "server": "dongtaiwang4.com",
