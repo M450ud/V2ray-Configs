@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://bpb-trojan@162.159.153.2:443?type=tcp&sni=visa.cn&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://bpb-trojan@162.159.153.229:443?type=tcp&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://bpb-trojan@162.159.153.19:443?type=tcp&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://bpb-trojan@162.159.153.172:443?type=tcp&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://bpb-trojan@162.159.153.161:443?type=tcp&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:2
 trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@z9.gozargah.one:443?type=tcp&sni=z9.gozargah.one&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8FunKnow(AzadNet.t.me)
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?type=tcp&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8FunKnow(AzadNet.t.me)
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ps++4j3VuS25vdyhBemFkTmV0LnQubWUpIiwiYWRkIjoiNzcuODMuMTQxLjE3MSIsInBvcnQiOjQ0MywiaWQiOiIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCJhaWQiOjMyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidmMuZmx5LmRldiIsInBhdGgiOiIvdmMiLCJ0bHMiOiJ0bHMifQ==
+vless://dfa25b43-edf2-99e4-c3b0-1aa7c9ccaa96@138.199.225.195:1152?security=reality&flow=xtls-rprx-vision&type=tcp&sni=stackoverflow.com&fp=chrome&pbk=EsdPQG7EdQ6yCid_OtlMfCDIRTnmFZ_ujpKbaqOiCT4&sid=4374d295a4f9dd83&encryption=none&headerType=none#%F0%9F%8F%B3%EF%B8%8FunKnow(AzadNet.t.me)
+vless://2f28ff4e-218d-42de-ed49-960083a48228@138.199.216.129:2053?security=none&type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&encryption=none&headerType=none#%F0%9F%8F%B3%EF%B8%8FunKnow(AzadNet.t.me)
