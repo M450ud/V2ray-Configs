@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:2083?path=%2FJoin-%7BMTMVPN%7DJoin-%7BMTMVPN%7D%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@meli_proxyy
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=%2F47.89.39.186-39251%23Telegram%40V2ray_Alpha&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#@meli_proxyy
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@meli_proxyy
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#@meli_proxyy
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#@meli_proxyy
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.207.55:443?path=telegram%40V2ray_Alpha%3D5.83.140.140&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#@meli_proxyy
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramV2ray_Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#@meli_proxyy
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFreeV2Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.34.163:443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=%2F%40V2ray_Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
@@ -25,7 +14,6 @@ vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=%2F%3Fed%3D
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?path=%2F%3Fed%3D1080%2Ftelegram%40v2ray_alpha&security=none&encryption=none&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&type=ws#@meli_proxyy
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=%2F%3Fed%3D1080Telegram_V2ray_Alpha&security=none&encryption=none&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&type=ws#@meli_proxyy
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#@meli_proxyy
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
@@ -603,3 +591,15 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwiYWRkIjoiMTcyLjY3
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwiYWRkIjoiMTA0LjIxLjE4LjIyNyIsInBvcnQiOjQ0MywiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyJ9
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.245:8008#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwiYWRkIjoiMTUuMjM1LjgzLjIyNyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtYW5rYWRtdS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwiYWRkIjoiMTUuMjM1LjUwLjE3MiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJiYXJhZGloYS5jb20iLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwiYWRkIjoiNjcuMjIwLjY2LjE5NCIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiI2Ny4yMjAuNjYuMTk0IiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
+trojan://blue2024@104.17.28.100:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-in-mumbai-1.f1cflinea.com:443?type=tcp&sni=aws-in-mumbai-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?type=tcp&sni=aws-ch-zurich-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://trojan@172.67.130.66:443?type=tcp&sni=test-a23.pages.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://jagoanssh-Aweqdcc@104.21.32.17:443?type=tcp&sni=to.ruangguru.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?type=tcp&sni=bangladeshipatri.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://bpb-trojan@172.67.2.238:443?type=tcp&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://bpb-trojan@162.159.152.59:443?type=tcp&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://bpb-trojan@104.16.149.244:2053?type=tcp&sni=g1-21N.paGeS.deV&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://blue2024@icook.tw:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
