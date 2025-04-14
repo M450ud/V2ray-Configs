@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@185.245.105.249:443?security=reality&flow=xtls-rprx-vision&type=tcp&sni=video.intfreed.ru&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@49.13.57.28:2087?security=reality&flow=xtls-rprx-vision&type=grpc&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+vless://a3df7505-e10e-4707-bf56-49c1b1afee0d@178.63.228.220:443?security=reality&flow=xtls-rprx-vision&type=grpc&sni=fauxid.com&fp=chrome&pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+vless://eacc24ed-a1c1-4037-9af4-4f6bcd657119@91.107.219.8:443?security=reality&flow=xtls-rprx-vision&type=tcp&sni=direct.pdownloaddigikala.ir&fp=chrome&pbk=Rcapy_5gvuL9LOr1Bqz-Y84P69L3wUQjG48xpB4fLTA&sid=1d13151ce1&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
 vless://ca16a141-2fe3-4299-b8b8-2a765b13c076@91.107.166.17:2083?security=reality&flow=xtls-rprx-vision&type=grpc&sni=www.cdn77.com&fp=chrome&pbk=wOT1aJnRc8GxKUNd98DvQOsVLNVxp7Zb0Tgfqpvp6Qo&sid=dd39&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&flow=xtls-rprx-vision&type=tcp&sni=stackoverflow.com&fp=chrome&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&sid=9b28132c703433&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
 vless://e8bcc78f-6f92-4aa6-84e5-30db1a0143d6@91.107.146.208:443?security=reality&flow=xtls-rprx-vision&type=tcp&sni=eset.com&fp=chrome&pbk=_scshlStWSz3DI8nsre9mq87ZrPP5ov3a0NMuHkvyjU&sid=fc&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
@@ -599,7 +603,3 @@ trojan://blue2024@162.159.250.15:443?type=tcp&sni=ta.promote.icu&allowInsecure=1
 trojan://blue2024@162.159.245.125:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://blue2024@159.246.55.142:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://blue2024@162.159.22.29:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@162.159.21.210:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@162.159.194.188:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@162.159.152.49:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@108.165.216.212:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
