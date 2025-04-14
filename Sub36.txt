@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://your_password@aws-ar-buenosaires-1.f1cflineb.com:443?type=tcp&sni=aws-ar-buenosaires-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://your_password@172.67.188.24:443?type=tcp&sni=aws-es-madrid-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://trojan@172.64.155.16:2053?type=tcp&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://trojan@104.18.4.250:2053?type=tcp&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?type=tcp&sni=aws-us-nyc-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?type=tcp&sni=Speedtest.net&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?type=tcp&sni=aws-us-dallas-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://hwiyBDgN65hGmiwxPcfMUA@b2n.ir:443?type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://e4f288433b@54.36.173.159:443?type=tcp&sni=pol1.connecton.surf&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://e30dbfd0-f15a-11ed-9080-1239d0255272@51.159.59.186:443?type=tcp&sni=fr.test3.net&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
@@ -596,10 +603,3 @@ vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@104.21.69.41:443?security=tls&type=
 vless://e01c13b6-d8b9-47c9-afd2-14686104de28@151.101.64.155:80?security=none&type=ws&sni=vipfast_7.com&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 vless://e01c13b6-d8b9-47c9-afd2-14686104de28@151.101.192.155:80?security=none&type=ws&sni=vipfast_7.com&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://123456@104.25.165.81:8443?type=ws&sni=top-azx.pages.dev&allowInsecure=1&path=/Az1.vpn.33.TOP/&host=top-azx.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?security=tls&type=ws&sni=BPB-pANEL-En-1O0.pAges.DEV&path=/&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2096?security=tls&type=ws&sni=node.vauth.workers.dev&path=/?ed=2048&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://ea9e43cb-16fc-4540-fecf-57245e26dc05@104.17.148.22:2082?security=none&type=ws&sni=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:2083?security=tls&type=ws&sni=23-lsjfjwiposkfls.hc2021.cfd&fp=random&path=/flow=-udp443&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://5642c0ab-5be9-4a95-abdd-2412cd101b55@104.19.54.50:8080?security=none&type=ws&sni=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&sni=sinaazizpor.wapgiz.workers.dev&path=/?ed=2048&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2087?security=tls&type=ws&sni=node.vauth.workers.dev&path=/?ed=2048&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
