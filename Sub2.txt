@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.23:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.68:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇺🇸 US-151.101.67.68:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.79.211:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.79.211:443
 vless://64b3cbba-e6ac-495a-9481-976a0493eab9@172.67.211.70:443?security=tls&sni=ESetseCuRiTyLICEnse.KmlRV.woRKERs.DEV&type=ws&host=ESEtsecURItYLiCENSE.KMlRv.woRKeRs.deV&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.211.70:443
@@ -603,3 +602,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.187:443?security=tls&sn
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.193:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.193:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.127:443?security=tls&sni=edfgv.aimercc.filegear-sg.me&type=ws&host=edfgv.aimercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.127:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.153.144:443?sni=vb.bgm2024.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.153.144:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.19:8880
