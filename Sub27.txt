@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_3176_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3177_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3178_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3179_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3180_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?security=&type=grpc&encryption=none#🇫🇮FI_3181_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.250.184:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3182_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3183_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3184_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.186:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#🇱🇹LT_3185_@Surfboardv2ray
@@ -596,10 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
     "toolbarShown": false,
     "Font": "Consolas, 8pt",
     "BackgroundColor": "Black",
-    "TextColor": "White"
-  },
-  "proxy": {
-    "useProxy": false,
-    "proxyType": 0,
-    "proxyServer": "",
-    "proxyPort": 0,
