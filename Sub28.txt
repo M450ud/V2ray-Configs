@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"remarks" : "www.dongtaiwang.com 洛杉矶",
+			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
+			"server" : "liaoningddns.xyz",
+			"server_port" : 11421,
 			"server_udp_port" : 0,
 			"password" : "Fhbe0z",
 			"method" : "chacha20-ietf",
@@ -599,7 +603,3 @@ trojan://JX98RVznPn2V@104.21.16.1:2087?security=tls&type=httpupgrade&sni=ana.twn
 trojan://Aimer@5.182.84.229:2087?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A560
 trojan://Aimer@160.79.105.160:8443?sni=agepj.ambercc.filegear-sg.me#US23
 trojan://9e9ef571-5a94-47e9-916f-95c14f75f6f2@45.146.232.171:43498?sni=q08m.vgraxiw73s.hasyaf.cn#HK5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjY0ZmY0MS0yNTk1LTQ1MDEtYmY0Mi02OTE2MmQ4MWQ5YWE=@free.2weradf.xyz:36511#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://bpb-trojan@104.16.4.103:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&path=/tr?ed=2560&host=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A561
-trojan://4467ae8518abf1ef321618c0bfb5549ccc@54.169.111.81:10001?security=tls&type=tcp&sni=www.cloudflare.com#%E6%9C%AA%E7%9F%A562
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443?security=tls&type=ws&sni=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci&host=app.soft10.ir#%E6%9C%AA%E7%9F%A563
