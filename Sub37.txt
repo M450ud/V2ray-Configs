@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29_2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29_3
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29_4
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@178.209.50.206:989#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29_5
+vless://7153d030-2373-4163-b4ff-ce849faac372@138.124.102.65:443/?type=grpc&encryption=none&flow=xtls-rprx-vision&sni=gemini.google.com&fp=chrome&security=reality&pbk=gXCdbHLSxlT4DCgtd7oc33EtZrbQyoh8ztm7ELKSfyw&sid=7d891e2de36c#%F0%9F%87%A8%F0%9F%87%ADCH%28AzadNet.t.me%29_6
 vmess://eyJhZGQiOiI4LjIxOS4yMDYuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJleW9uZGRzei5jZmQiLCJpZCI6IjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4eo8J+Hs0NOKEF6YWROZXQudC5tZSlfMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZXlvbmRkc3ouY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMTIuMTMyLjIxNS4xMiIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAwMiIsInBzIjoi8J+HqPCfh7NDTihBemFkTmV0LnQubWUpXzEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014/?type=tcp&security=tls&sni=telewebion.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN%28AzadNet.t.me%29_100
@@ -598,8 +603,3 @@ trojan://0028109a-37ed-4ded-b858-e566388a904c@sg006.421421.xyz:20230/?type=tcp&s
 trojan://58dcd460-65df-47b1-b062-517df30bef29@ca.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_3
 trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_4
 trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_5
-trojan://18304160-03d4-4c55-95c1-586c0a5f3a0a@ap.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_6
-trojan://58dcd460-65df-47b1-b062-517df30bef29@sg.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_7
-trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@usa.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_8
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG%28AzadNet.t.me%29_9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI%28AzadNet.t.me%29
