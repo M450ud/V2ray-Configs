@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?type=ws&host=nautica.foolvpn.me&path=/47.89.39.186-39251&security=tls&sni=nautica.foolvpn.me#🇨🇦CA_2644_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2645_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2646_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2647_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2648_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?encryption=none&security=tls&sni=nautica.foolvpn.me&fp=chrome&type=ws&headertype=none&host=nautica.foolvpn.me&path=/47.89.39.186-39251#🇨🇦CA_2649_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2650_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2651_@Surfboardv2ray
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2652_@Surfboardv2ray
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2653_@Surfboardv2ray
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#🇨🇦CA_2654_@Surfboardv2ray
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@www.speedtest.net:443?path=/47.89.39.186-39251#🇨🇦CA_2655_@Surfboardv2ray
@@ -594,12 +603,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.siteforipdirect.com:8880?en
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.siteforipdirect.com:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3241_@Surfboardv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh36v5.siteforipdirect.com:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇺🇸US_3242_@Surfboardv2ray
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇨🇦CA_3243_@Surfboardv2ray
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇨🇦CA_3244_@Surfboardv2ray
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇨🇦CA_3245_@Surfboardv2ray
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?security=&type=ws&path=/telegram@v2ray_alpha/?ed=2560&host=pormang.webhost99.workers.dev&encryption=none#🇨🇦CA_3246_@Surfboardv2ray
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80?path=/?ed=2560/telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#🇳🇱NL_3247_@Surfboardv2ray
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80?security=&type=ws&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1&host=pormang.webhost99.workers.dev&encryption=none#🇺🇸US_3248_@Surfboardv2ray
-vless://e4bef747-d77f-4ebf-a1bd-e8c617aa02f7@104.19.54.50:8080?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&security=none#🇨🇦CA_3249_@Surfboardv2ray
-vless://e4bef747-d77f-4ebf-a1bd-e8c617aa02f7@104.19.54.50:8080?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&security=none#🇨🇦CA_3250_@Surfboardv2ray
-vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@discord.gg:80?path=/&security=none&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws#🇨🇦CA_3251_@Surfboardv2ray
-vless://e4ebd5b7-b6db-4aee-80de-aa383819215c@www.speedtest.net:2086?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=none&encryption=none&host=fiNland1.httpupgrademowji.bloG.&type=httpupgrade#🇨🇦CA_3252_@Surfboardv2ray
