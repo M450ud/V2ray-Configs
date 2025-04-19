@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"proxyType" : 0,
-	"proxyHost" : "",
-	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
-	"proxyUserAgent" : "",
 	"authUser" : "",
 	"authPass" : "",
 	"autoBan" : false,
@@ -603,3 +597,9 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODcgMTYuMk1CL3MiLCJhZGQiOiI0NS4xMi4xMzguODIi
 trojan://ba6b9e44-3ea3-405d-a9eb-d5fcda84fdda@172.67.149.43:443?security=tls&type=ws&sni=XC.890603.pP.uA&path=/KXc8P40jGtEKiqQASULQ4Era5IOo&host=xc.890603.pp.ua#%E6%9C%AA%E7%9F%A588
 trojan://8QOe%29%26jIP%5E%5Dl%7BP.1@172.66.44.182:443?security=tls&type=ws&sni=JoInMAHdisErVER-78D.PaGEs.DEV&path=/tru7tu2JHg2lcefNbf?ed=2560&host=joinmahdiserver-78d.pages.dev#%E6%9C%AA%E7%9F%A589
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2%2037.0KB%2Fs
+ss://YWVzLTEyOC1nY206ZjM0N2I2NDQtNWNlNy00OGIyLWJlMDctOTc0NzQ4MDVhOWFm@142.91.98.103:45609#%E6%9C%AA%E7%9F%A590
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08=@185.246.153.12:31348#%E6%9C%AA%E7%9F%A591%2027.0KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODNmNzBkYS01NTlmLTQ4ZWItYTUxMS0xZjMxMjYxZjgxYTA=@free.2weradf.xyz:36731#%F0%9F%87%B9%F0%9F%87%ADTH%E6%B3%B0%E5%9B%BD
+trojan://Aimer@176.124.223.133:2096?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A592
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#US18%201.9MB%2Fs
+trojan://SSorg@104.19.60.104:2096?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A593
