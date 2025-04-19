@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://eyJhZGQiOiIxNzQzOTE5OTQxLnRlbmNlbnRhcHAuY24iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjE3NDM5MTk5Nzguc3BlZWQuYWRsLmNjY3AuZnJlZWZseS5wcC51YSIsImlkIjoiM2JiM2M3MzAtZTEwNy00OWM1LWEwYjItYjU3NmQxYjI2YTVlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk2IiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSlfMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNzQzOTE5OTc4LnNwZWVkLmFkbC5jY2NwLmZyZWVmbHkucHAudWEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNzIuNjcuMTM4LjY5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpXzIwIiwic2N5IjoiYXV0byIsInNuaSI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://blue2024@198.41.205.237:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_200
-trojan://blue2024@190.93.245.62:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_201
-trojan://blue2024@190.93.245.114:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_202
-trojan://blue2024@190.93.244.198:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_203
-trojan://blue2024@173.245.58.233:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_204
 trojan://blue2024@173.245.49.162:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_205
 trojan://blue2024@172.67.95.24:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_206
 trojan://blue2024@172.67.79.211:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_207
@@ -603,3 +596,10 @@ vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2087/?type=ws&encrypt
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:443/?type=ws&encryption=none&flow=&path=%2F%3Fed%3D2048&security=tls&sni=node.vauth.workers.dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_737
 vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_738
 vmess://eyJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJGcmEtVnAtMTIzLkJMYVpFQ0xPVUQuU2l0ZSIsImlkIjoiMzdmNDY0Y2ItYjgyNi00Mjc4LTliZjgtMTFiZGYxZWM4OTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbnZrd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSlfNzM5Iiwic2N5IjoiYXV0byIsInNuaSI6IkZyYS1WcC0xMjMuQkxhWkVDTE9VRC5TaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_74
+vmess://eyJhZGQiOiIxNzIuNjcuMjAwLjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsImlkIjoiNWY3MjZmZTMtZDgyZS00ZGE1LWE3MTEtOGFmMGNiYjJiNjgyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2F6dW1hc2UucmVuIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpXzc0MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_741
+vmess://eyJhZGQiOiJpY29vay5oayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2xpdGNoLm5udXUubnljLm1uIiwiaWQiOiIyZmFhZjk5Ni1kMmIwLTQ0MGQtODI1OC04MWYyYjA1ZGQwZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MtYXJnbz9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSlfNzQyIiwic2N5IjoiYXV0byIsInNuaSI6ImdsaXRjaC5ubnV1Lm55Yy5tbiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://bpb-trojan@172.66.44.128:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_743
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_744
+vmess://eyJhZGQiOiJoazIubHJ6ZHgudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhrMi5scnpkeC51ayIsImlkIjoiZGI2OWQ1YmMtZDM2Yy00OTAzLWY0NzEtNzRiOThjNWNlZmU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JlZ2lzdGVyIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpXzc0NSIsInNjeSI6ImF1dG8iLCJzbmkiOiJoazIubHJ6ZHgudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
