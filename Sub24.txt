@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_1451_@Surfboardv2ray
+vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇹🇷TR_1452_@Surfboardv2ray
 vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?encryption=none&security=none&type=grpc&authority=&serviceName=DarkTeam_VPN&mode=gun#🇬🇧GB_1453_@Surfboardv2ray
 vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#🇬🇧GB_1454_@Surfboardv2ray
 vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#🇬🇧GB_1455_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://Parsashonam-221@185.146.173.39:8880?path=/&security=none&encryption=none
 vless://Parsashonam-221@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🇺🇸US_2048_@Surfboardv2ray
 vless://Parsashonam-222@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🇸🇪SE_2049_@Surfboardv2ray
 vless://Parsashonam-222@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🇸🇪SE_2050_@Surfboardv2ray
-vless://Parsashonam-222@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🇺🇸US_2051_@Surfboardv2ray
-vless://Parsashonam-223@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🇸🇪SE_2052_@Surfboardv2ray
