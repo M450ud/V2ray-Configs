@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://eyJhZGQiOiIxNDYuNTkuNTUuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0ZSKEF6YWROZXQudC5tZSlfMTciLCJzY3kiOiJhdXRvIiwic25pIjoiby5tZXR1amkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://telegram-id-privatevpns@35.180.233.144:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_18
-trojan://telegram-id-privatevpns@35.180.36.215:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_19
-trojan://hZ7JkYVAfB@141.227.138.29:1935/?type=tcp&security=tls&sni=x1ch-ovh.devefun.net&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_2
-trojan://telegram-id-privatevpns@35.180.202.29:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_20
-vmess://eyJhZGQiOiIyMTcuMTgyLjc2LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZTY4MDE1Zi1hOGIyLTQ4OTMtYTdhMy00ZWRiMTliMTc4ZDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7dGUihBemFkTmV0LnQubWUpXzIxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_22
-trojan://telegram-id-privatevpns@15.237.50.200:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_23
-trojan://telegram-id-privatevpns@15.236.122.160:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_24
-vmess://eyJhZGQiOiI1MS43Ny4yMC4xMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRpbGViYW5pLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0ZSKEF6YWROZXQudC5tZSlfMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ0aWxlYmFuaS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzVmpQbzVtOFBVcmhIdUI5bERaek5T@151.115.88.168:443#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_4
-trojan://utF6JLQd2x@141.227.128.69:1935/?type=tcp&security=tls&sni=x1es-ovh.devefun.net&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_5
-vmess://eyJhZGQiOiJpcnZpZGVvLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaXJ2aWRlby5jZmQiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0ZSKEF6YWROZXQudC5tZSlfNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJpcnZpZGVvLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://your_password@aws-fr-paris-1.f1rocketnode.com:443/?type=tcp&security=tls&sni=aws-fr-paris-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_7
 trojan://your_password@15.236.64.14:443/?type=tcp&security=tls&sni=aws-fr-paris-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_8
 trojan://bpb-trojan@45.80.110.224:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_9
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.18:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_1
@@ -603,3 +589,17 @@ trojan://bpb-trojan@162.159.153.19:443/?type=tcp&security=tls&sni=cf.090227.xyz&
 trojan://bpb-trojan@162.159.153.172:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_168
 trojan://bpb-trojan@162.159.153.161:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_169
 vmess://eyJhZGQiOiIxMDQuMjEuOTQuMTY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpXzE3Iiwic2N5IjoiYXV0byIsInNuaSI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://bpb-trojan@108.165.216.155:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_170
+trojan://bpb-trojan@162.159.153.132:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_171
+trojan://bpb-trojan@162.159.152.35:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_172
+trojan://bpb-trojan@162.159.152.2:443/?type=tcp&security=tls&sni=visa.cn&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_173
+trojan://bpb-trojan@162.159.152.227:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_174
+trojan://bpb-trojan@104.21.79.143:443/?type=tcp&security=tls&sni=403b3611-99bC-43B7-88D7-26eD5D0825A9-3.pAgeS.dEv&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_175
+trojan://bpb-trojan@104.21.30.195:443/?type=tcp&security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_176
+trojan://bpb-trojan@104.18.182.198:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_177
+trojan://bpb-trojan@104.18.181.179:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_178
+trojan://bpb-trojan@104.18.146.214:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_179
+vmess://eyJhZGQiOiIxNzIuNjcuMTM2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSlfMTgiLCJzY3kiOiJhdXRvIiwic25pIjoiYXowNS5iZXlvbmR5LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://bpb-trojan@104.18.107.117:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_180
+trojan://bpb-trojan@104.17.68.111:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_181
+trojan://bpb-trojan@104.17.217.238:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_182
