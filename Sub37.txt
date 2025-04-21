@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://your_password@15.236.64.14:443/?type=tcp&security=tls&sni=aws-fr-paris-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_8
-trojan://bpb-trojan@45.80.110.224:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7FR%28AzadNet.t.me%29_9
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.18:8080#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_10
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_11
-trojan://eG92F3gh09@51.15.86.181:1935/?type=tcp&security=tls&sni=x1ams-scaleway.devefun.net&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_12
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_13
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_14
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_15
-trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.ak-hk.top:10200/?type=tcp&security=tls&sni=www.ak-hk.top&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_16
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_17
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@80.225.222.181:10230/?type=tcp&security=tls&sni=www.hk-jd.top&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_18
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.hk-jd.top:10230/?type=tcp&security=tls&sni=www.hk-jd.top&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29_19
@@ -603,3 +593,13 @@ vmess://eyJhZGQiOiIxNzIuNjcuMTM2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 trojan://bpb-trojan@104.18.107.117:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_180
 trojan://bpb-trojan@104.17.68.111:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_181
 trojan://bpb-trojan@104.17.217.238:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_182
+trojan://bpb-trojan@104.16.193.133:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_183
+trojan://blue2024@www.whatismyip.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_184
+trojan://blue2024@www.pcmag.com:443/?type=tcp&security=tls&sni=tb.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_185
+trojan://blue2024@www.iakeys.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_186
+trojan://blue2024@www.glassdoor.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_187
+trojan://blue2024@www.digitalocean.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_188
+trojan://blue2024@wilson.ns.cloudflare.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_189
+vmess://eyJhZGQiOiIxMDQuMjEuOS4yMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJpZCI6IjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuFVTKEF6YWROZXQudC5tZSlfMTkiLCJzY3kiOiJhdXRvIiwic25pIjoiaG1zMTkuYmVzdC10aXppLnRvcCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://blue2024@tw04.nttkk.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_190
+trojan://blue2024@otto.ns.cloudflare.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29_191
