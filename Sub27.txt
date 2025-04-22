@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e1f091af-3751-4271-a326-f0b9040ed3e8@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#🇺🇸US_2969_@Surfboardv2ray
+vless://e1f091af-3751-4271-a326-f0b9040ed3e8@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_2970_@Surfboardv2ray
 vless://e1f091af-3751-4271-a326-f0b9040ed3e8@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#🇺🇸US_2971_@Surfboardv2ray
 vless://e1f091af-3751-4271-a326-f0b9040ed3e8@zmaoz.faculty.ucdavis.edu:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_2972_@Surfboardv2ray
 vless://e1f8f779-bd78-46a0-b196-707d169f4061@skk.moe:8080?path=/Telegram:@v2raylandd-Telegram:@v2raylandd-Telegram:@v2raylandd?ed=1024&security=none&encryption=none&host=v2raylandd-90.vmjisexa.workers.Dev&type=ws&sni=v2raylandd-90.vmjisexa.workers.dev#🇨🇦CA_2973_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"udp_over_tcp" : false
 		},
 		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
