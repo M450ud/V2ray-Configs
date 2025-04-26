@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.243.24.66:1009?type=tcp&security=none#🇺🇸US_2914_@Surfboardv2ray
-vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.207.6.89:443?type=tcp&security=none#🇺🇸US_2915_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.37.82.126:1009?type=tcp&security=none#🇺🇸US_2916_@Surfboardv2ray
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.190.63.231:1009?type=tcp&security=none#🇺🇸US_2917_@Surfboardv2ray
 vless://d8f1fa98-be39-47e8-8107-335f0afc77eb@Www.speedtest.net:2095?path=/?ed=2048&security=&encryption=none&host=h1.N.iranshopering.ir.&type=httpupgrade#🇨🇦CA_2918_@Surfboardv2ray
@@ -603,3 +601,5 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
   ],
   "strategy": null,
   "index": 0,
+  "global": false,
+  "enabled": false,
