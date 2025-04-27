@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://ac5ef6ff-4df5-4615-8e8b-3819497f5776@138.199.232.232:443?security=reality&flow=xtls-rprx-vision&sni=direct.psnapptapsi.ir&type=tcp&fp=chrome&pbk=15VSj5bGCGemmifDA6IfLCz8deqBcvaI7SRZFd2bUBQ&sid=ec7d25#🔗 Vauth - 226
 vless://c842415f-3a7e-4934-be35-5616ca01c759@128.140.38.233:443?security=reality&sni=tgju.org&type=tcp&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🔗 Vauth - 227
 vless://8c2bb7d3-7079-434b-b2ba-dc7ddc2cb859@188.213.129.15:443?security=reality&sni=app.hubspot.com&type=tcp&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#🔗 Vauth - 228
 vless://5343f4a4-85c7-467e-9fe5-d048572273e3@54.37.7.94:443?security=reality&sni=snapp.ir&type=tcp&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1#🔗 Vauth - 229
@@ -602,4 +603,3 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.165:80?security=none&ty
 vless://9d5dda5d-2644-42da-8a88-be1e648a7f89@194.182.79.174:11984?security=none&type=grpc#🔗 Vauth - 823
 vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80?type=ws&host=azadnet.b0b723a182.workers.dev&path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560#🔗 Vauth - 824
 vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@172.67.162.79:443?security=tls&sni=ARCane-427.Pages.DEV&type=ws&host=arcane-427.pages.dev&path=/api/assets&fp=android&alpn=http/1.1#🔗 Vauth - 825
-vless://bcc970b2-9358-0885-955d-de5f91dd1833@188.245.95.151:8249?security=none&sni=all88-vip.f-sub.com&type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=testspeed-foreign.tci.ir&path=/&headerType=http#🔗 Vauth - 826
