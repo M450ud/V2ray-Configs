@@ -3,6 +3,37 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 2,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
 	"serverSubscribes" : [
 
 	],
@@ -572,34 +603,3 @@ trojan://4d04b30c-ef7b-4a07-8f9e-f581ec171f8a@172.67.204.22:443?security=tls&typ
 trojan://Aimer@104.16.8.154:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A573
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%E6%9C%AA%E7%9F%A574%201.7MB%2Fs
 trojan://Aimer@162.159.133.68:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A575
-trojan://WQ18Jv9CHgJe@104.21.96.1:2053?security=tls&type=ws&sni=tasnim.twn24.ir&path=/🆔@M3HDIO1&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A576
-ss://YWVzLTI1Ni1nY206QUlXN05JWVlZRVA4RzE2Rg==@185.47.253.144:20010#%E6%9C%AA%E7%9F%A577
-trojan://aP%26%7B%29UBD%40qDGS9b%3B@172.66.44.109:2053?security=tls&type=ws&sni=JoinmAhDiSERver-7Hd.paGes.Dev&host=joinmahdiserver-7hd.pages.dev#%E6%9C%AA%E7%9F%A578
-ss://YWVzLTI1Ni1nY206QjJwc1g4TFI=@38.60.217.99:27178#%E6%9C%AA%E7%9F%A579%20370.0KB%2Fs
-trojan://GlxLO2T3Gz@104.21.48.1:2096?security=tls&type=ws&sni=tabnak.twn24.ir&path=/🆔@M3HDIO1&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A580
-trojan://Aimer@199.34.228.164:2087?sni=epccy.ambercc.filegear-sg.me#US19
-trojan://5d84f3b9-fb95-45ac-8e53-2e396bc19fa1@45.146.232.171:43395?sni=q08m.vgraxiw73s.hasyaf.cn#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%20373.4KB%2Fs
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.245:445#US20%201.9MB%2Fs
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A581
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.181.146.122:2377#%E6%9C%AA%E7%9F%A582
-trojan://Aimer@27.50.49.156:2096?sni=epcci.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A583
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODQiLCJhZGQiOiIxNTcuMjQ1LjczLjE3MCIsInBvcnQiOiIyMDg4IiwiaWQiOiJkMGE2ZjcxMi00NGMxLTE2ODgtZGM2NS1mMzRmOWFmYjA1NTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiODQifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODUgNTI1LjlLQi9zIiwiYWRkIjoiMTA0LjE2LjE1NS4xMCIsInBvcnQiOiIyMDgyIiwiaWQiOiJjN2NlNGYyZi0xZjg3LTNhN2MtYjQwNy0zZjhiOGE2YzMzZDQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIxMDAtNjEtODctMjMuczUuZGItbGluazAyLnRvcCIsInBhdGgiOiIvZGFiYWkuaW4xNzIuNjcuOTkuMTAzIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiODUifQ==
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A586
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.226:2087?security=tls&type=grpc&sni=1744156312.speed.rdsactaa.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A587
-trojan://Aimer@188.253.6.210:443?sni=ngepz.ambercc.filegear-sg.me#TW6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.64:2377#TW7
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.62:8080#US21
-trojan://075b9690-f1cc-4d0c-aa1e-f80f07f09815@172.67.152.170:443?security=tls&type=ws&sni=4dfghj.191288.xyz&path=/w8oHMEEc9tWBZ57XYkE&host=4dfghj.191288.xyz#%E6%9C%AA%E7%9F%A588
-trojan://Aimer@162.159.141.149:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A589
-trojan://Aimer@135.84.76.152:2087?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US22
-ss://YWVzLTI1Ni1nY206TlA1U0w0UjEyTjBBQlRNSg==@185.186.77.137:20025#%E6%9C%AA%E7%9F%A590
-trojan://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:443?security=tls&type=ws&sni=ExpResSTV.FArsOnLINE24.IR&path=/x8xN4dH28mo7U3sS&host=expresstv.farsonline24.ir#%E6%9C%AA%E7%9F%A591
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#US23
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#US24%201.7MB%2Fs
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.208.155:443?security=tls&type=ws&sni=3r.2030.pp.ua&path=/XjTi1NYwi9A2bckpqdDoAgkondVWl&host=3r.2030.pp.ua#%E6%9C%AA%E7%9F%A592
-ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#%E6%9C%AA%E7%9F%A593
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.108:8091#US25%20160.9KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.65:2377#TW8
-trojan://vpn@89.191.234.182:2025?security=none&type=ws&path=/&host=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A594
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGVEhUN2gzU0VCaVQycTNReUdoZ2Rv@77.83.246.74:443#%E6%9C%AA%E7%9F%A595%2095.3KB%2Fs
