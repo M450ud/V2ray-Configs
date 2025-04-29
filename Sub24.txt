@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?path=/?ed=2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#🇫🇷FR_427_@Surfboardv2ray
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@23.95.61.191:19678?security=tls&sni=cx.ylks0033.dpdns.org&type=ws&host=cx.ylks0033.dpdns.org&path=/?ed=2560#🇺🇸US_428_@Surfboardv2ray
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@23.95.61.191:19678?security=tls&sni=cx.ylks0033.dpdns.org&type=ws&host=cx.ylks0033.dpdns.org&path=/?ed=2560#🇺🇸US_429_@Surfboardv2ray
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@cris.ns.cloudflare.com:443/?type=ws&encryption=none&host=cv.dong2025.cfd&path=/?ed=2560&security=tls&sni=cv.dong2025.cfd#🇺🇸US_430_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.74.23:59483?encryption=none
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪DE_1024_@Surfboardv2ray
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_1025_@Surfboardv2ray
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.52.18:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#🇺🇸US_1026_@Surfboardv2ray
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.53.157:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#🇺🇸US_1027_@Surfboardv2ray

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://ewogICAgImFkZCI6ICIxNzQzOTE5OTQxLnRlbmNlbnRhcHAuY24iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxNzQzOTE5OTc4LnNwZWVkLmFkbC5jY2NwLmZyZWVmbHkucHAudWEiLAogICAgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDk2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNDEuMTAxLjEyMS4xNTAtMDc4OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIjE3NDM5MTk5Nzguc3BlZWQuYWRsLmNjY3AuZnJlZWZseS5wcC51YSIKfQ==
 vmess://ewogICAgImFkZCI6ICIxMDQuMTguMTE4LjE5NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjE3NDM5MTk5Nzguc3BlZWQuempnemEuY2NjcC5mcmVlZmx5LnBwLnVhIiwKICAgICJpZCI6ICIzYmIzYzczMC1lMTA3LTQ5YzUtYTBiMi1iNTc2ZDFiMjZhNWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE4LjExOC4xOTUtMDgwNSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIjE3NDM5MTk5Nzguc3BlZWQuempnemEuY2NjcC5mcmVlZmx5LnBwLnVhIgp9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.132-4186
 ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#%F0%9F%87%BA%F0%9F%87%B8US-45.55.2.232-3974
@@ -602,4 +603,3 @@ vless://06a697a3-771d-4747-a0b9-27fa8d343823@www.speedtest.net:2086?path=/telegr
 vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#🇵🇱PL_424_@Surfboardv2ray
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.131:443?sni=vv.ylka.dpdns.org&type=ws&allowInsecure=1#🇿🇦ZA_425_@Surfboardv2ray
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?type=ws&host=vb.ylks0033.dpdns.org&path=/?ed=#🇧🇷BR_426_@Surfboardv2ray
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?path=/?ed=2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#🇫🇷FR_427_@Surfboardv2ray

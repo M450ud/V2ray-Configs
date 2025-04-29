@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://auto@www.digitalocean.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6.06ms
 trojan://auto@104.17.142.12:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6.1ms
 trojan://auto@104.17.68.85:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6ms
 trojan://auto@nikon.ns.cloudflare.com:443?security=tls&sni=trojanmz.pages.dev&fp=randomized&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#RELAY🚩 | trojanmz.pages.dev-443 | 6.01ms
@@ -602,4 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#%F0%9F%87%BA%F0%9F%87%B8US-107.155.57.11-3789
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8US-23.251.121.242-4038
 vmess://ewogICAgImFkZCI6ICIxNzQ0MDA3NTQxLnRlbmNlbnRhcHAuY24iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxNzQ0MDA3NTc4LnNwZWVkLnpqZ3phLmNjY3AuZnJlZWZseS5wcC51YSIsCiAgICAiaWQiOiAiMzgxY2I2ZDEtNmFkNC00OTA5LTg0OTQtYjhkNzg2Y2Y3OGNlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE0MS4xMDEuMTIxLjIzOC0wODA0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTc0NDAwNzU3OC5zcGVlZC56amd6YS5jY2NwLmZyZWVmbHkucHAudWEiCn0=
-vmess://ewogICAgImFkZCI6ICIxNzQzOTE5OTQxLnRlbmNlbnRhcHAuY24iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxNzQzOTE5OTc4LnNwZWVkLmFkbC5jY2NwLmZyZWVmbHkucHAudWEiLAogICAgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDk2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNDEuMTAxLjEyMS4xNTAtMDc4OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIjE3NDM5MTk5Nzguc3BlZWQuYWRsLmNjY3AuZnJlZWZseS5wcC51YSIKfQ==
