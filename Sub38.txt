@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.17.165.13:443?security=tls&sni=z.softmeto.site&type=xhttp#🔗 Vauth - 4189
-vless://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:2083?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=/8PaKguUsL3cShypAZpXO7Ci&fp=chrome&alpn=http/1.1#🔗 Vauth - 4190
 vless://bf73e6e5-0336-40d5-995c-283de50646d2@104.24.158.124:80?security=none&type=ws&host=divine-limit-e9df-ppal03.jorekon645.workers.dev&path=%2Ftelegram%40V2ray\_Alpha%2F%3Fed%3D2048#🔗 Vauth - 4191
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.175.36:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔗 Vauth - 4192
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.41.190:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔗 Vauth - 4193
@@ -603,3 +601,5 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?allowInsecure=0&
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?allowInsecure=0&sni=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws&host=M4.nF9JZ2st7N.zULAiR.ORG.&path=/#🔗 Vauth - 4786
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#🔗 Vauth - 4787
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#Free%2062%20%28%40proxy_kafee%29
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?encryption=none&security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560#@meli_proxyy
