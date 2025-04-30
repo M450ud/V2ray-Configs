@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Browser
-    
-  </h3>
   <span class="leading-1.3 text-2xl text-green-success">Working</span>
 </div>
 
@@ -18,7 +13,7 @@
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">San Jose</span>
+  <span class="md:block w-full truncate">Ashburn</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
     <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -62,12 +57,12 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9384962539499e5c</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9384faa098f8d6ef</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
       Your IP:
       <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">52.155.62.250</span>
+      <span class="hidden" id="cf-footer-ip">20.42.51.102</span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
     </span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +598,8 @@ vless://90004e6d-f70b-5bf6-b9b3-48b25fefc2e9@5.180.46.21:443?security=tls&sni=zu
 vless://9486734c-7f42-5074-bd8b-02f37aaa3a32@45.136.117.7:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.136.117.7&encryption=none#Rayan%20-%20SSO%20-%20WSCT-111%20-%20LU%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 vless://e6d5faae-7276-5f92-a332-21af22adae2b@91.192.81.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=91.192.81.199&encryption=none#Rayan%20-%20SSO%20-%20WSCT-112%20-%20SG%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
 vless://2f46c3a7-5308-527f-b7b4-59c31d420389@88.218.95.7:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=88.218.95.7&encryption=none#Rayan%20-%20SSO%20-%20WSCT-113%20-%20ZA%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
+vless://0623cef9-ffce-552f-9c26-9e6692f8cb41@5.253.30.11:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.30.11&encryption=none#Rayan%20-%20SSO%20-%20WSCT-114%20-%20US%20-%20I%20-%20%E2%9A%AA%EF%B8%8F%20t.me/Rayan_Config
+vless://584216de-3989-5b7c-b9f4-8b541111a458@85.209.156.7:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.156.7&encryption=none#Rayan%20-%20SSM%20-%20WSCT-110%20-%20BR%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+vless://52ef41ff-c979-5eb3-af2b-b174a5fb443a@85.209.194.2:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=85.209.194.2&encryption=none#Rayan%20-%20SSM%20-%20WSCT-111%20-%20CA%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+vless://8b1baf24-e8b4-5bc2-89df-344e87f56244@194.36.37.13:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.36.37.13&encryption=none#Rayan%20-%20SSM%20-%20WSCT-112%20-%20UK%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+vless://2dd019f4-3c89-5810-ba08-a69af681452a@5.180.46.9:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.180.46.9&encryption=none#Rayan%20-%20SSM%20-%20WSCT-113%20-%20KZ%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
