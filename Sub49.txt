@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+      Your IP:
+      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+      <span class="hidden" id="cf-footer-ip">74.249.22.152</span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+    </span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
     
   </p>
   <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
@@ -596,10 +602,4 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@jquery.com:443?security=tls&sni=chi
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-1.com&encryption=none#Rayan - FL - F1 - 443
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-2.com&encryption=none#Rayan - FL - F2 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-3.com&encryption=none#Rayan - FL - F3 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@pscresearch.faculty.ucdavis.edu:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-4.com&encryption=none#Rayan - FL - F4 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@seminarsinmcb.faculty.ucdavis.edu:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&type=ws&path=/?ed%3D2560&host=harifet-manam-5.com&encryption=none#Rayan - FL - F5 - 443
 
