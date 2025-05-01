@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://2bcdbd33-321e-4a1c-bae9-d37517b694c3@77.110.100.177:2083?security=reality&sni=speedtest.net&type=grpc&serviceName=@VPN_KING_V2RAY@VPN_KING_V2RAY@VPN_KING_V2RAY@VPN_KING_V2RAY&fp=chrome&pbk=_Mo8etwPEDo42B4BnrkX3FOaPsOv2thyIlrzg3hhDBk&sid=e09b0ba7d2#🔗 Vauth - 331
+vless://fdb9faa8-753a-40e2-ab35-6afc43389100@195.234.63.156:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=0jP7cs_Tp-_taIXbdueV7HMHZS7oS2xWp4v-JURR-jc&sid=4780a0c6d99de0c3#🔗 Vauth - 332
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@213.142.133.172:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=7594vless&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🔗 Vauth - 333
 vless://1e315d86-f3fc-475e-aea9-5bce080c4973@88.210.9.149:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🔗 Vauth - 334
 vless://9836f5d2-52a3-4249-8041-5a217da3ce44@172.82.67.36:40183?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=88xra78x-U6nM96e0EbhgcF7WhXujpKR6Pg6T0K_XAg&sid=a1#🔗 Vauth - 335
@@ -601,5 +603,3 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.21.17.92:2087?security=tls&sni=
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔗 Vauth - 928
 vless://315b209c-bdcd-412e-95b1-1d7608641dcc@91.107.131.168:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 929
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?security=tls&sni=cr777.rayan.dpdns.org&type=ws&host=cr777.rayan.dpdns.org&path=%2F&fp=chrome#🔗 Vauth - 930
-vless://9b224b07-98c9-4f4c-8360-301ada31dea4@104.17.148.22:443?security=tls&sni=www.speedtest.net&type=xhttp&host=cats.dgclix.ir&path=%2F%3FJoin_Bade_Channel@JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&allowInsecure=1#🔗 Vauth - 931
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?security=tls&sni=dash.cloudflare.com&type=grpc&fp=chrome#🔗 Vauth - 932
