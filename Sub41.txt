@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:2053?type=tcp&sni=official.tokyometropolis.odessa.ua&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
+trojan://67eb147db1c0f8c5@60.249.28.59:443?type=grpc&sni=007.com&allowInsecure=1&serviceName=db#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?type=tcp&sni=official.taipeicitygovernment.co.ua&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.61:8388#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ru.mjt001.com:443?type=tcp&sni=ru.mjt001.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@il.mjt001.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?type=tcp&sni=jp.mjt001.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
 trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ua.mjt001.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3CN(AzadNet.t.me)
@@ -597,9 +603,3 @@ trojan://blue2024@162.159.44.161:443?type=tcp&sni=tc.promote.icu&allowInsecure=1
 trojan://b80Iy90Fma@104.26.9.227:443?type=tcp&sni=usa03.rtx.al&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://auto@104.21.35.43:443?type=tcp&sni=esetsecuritylicense3.wawafec355.workers.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://auto@104.21.31.51:443?type=tcp&sni=esetsecuritylicense1.vowexa5791.workers.dev&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.27:5535?type=tcp&sni=steampipe.akamaized.net&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.28:3516?type=tcp&sni=akamai.cdn.steampipe.steamcontent.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwiYWRkIjoiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCJwb3J0Ijo0NDMsImlkIjoiNWY3MjZmZTMtZDgyZS00ZGE1LWE3MTEtOGFmMGNiYjJiNjgyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCJwYXRoIjoiL2F6dW1hc2UucmVuIiwidGxzIjoidGxzIn0=
-trojan://ZJU29smXwp@172.67.176.206:2053?type=tcp&sni=damn-mci-again-3.danesh-bonyan.Store&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://TGCitizenScyu@104.18.21.69:2087?type=tcp&sni=maikeaxiang.me&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.19.222.79:443?type=tcp&sni=tb.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
