@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://blue2024@104.19.143.99:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.19.120.87:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.18.41.190:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.18.37.5:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.18.118.171:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.17.83.149:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.17.33.7:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://blue2024@104.17.31.182:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://blue2024@104.17.190.165:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://blue2024@104.17.139.53:443?type=tcp&sni=td.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://blue2024@104.16.221.250:443?type=tcp&sni=ta.promote.icu&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
@@ -592,14 +584,22 @@ vless://0bc05508-b6ca-4225-cf10-26133f5600ec@cpanel.com:8080?encryption=none&hos
 vless://42b53885-3675-4a8c-cb15-103505d2c78b@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048%3Fed&security=tls&sni=www.GozargahVPN.top&type=ws#رایگان | VLESS | @GozargahVPN | US🇺🇸 | 0️⃣7️⃣
 vless://79775e49-c3d7-4535-97e5-6980dbf760d1@92.243.74.137:8443?encryption=none&fp=random&host=vip4-romax-tiktok.golabyazd.ir&path=%2F%3Fed%3D2048&security=tls&sni=vip4-romax-tiktok.golabyazd.ir&type=ws#رایگان | VLESS | @ROMAX_VPN | KH🇰🇭 | 0️⃣1️⃣
 ssr://NDUuNTUuMi4yMzI6MTQyOTM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk1qRTNNR1k0Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NlppeTVhU3g1cFdJWjJsMGFIVmlJRk4xWWtOeVlYZHNaWExudm83bG03MWZNVEl4TXpJd016azQmZ3JvdXA9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE1NC45MC42My4xOTM6OTkw#_01 |23.22Mb
-ss://YWVzLTI1Ni1jZmI6MTYwMWUzYzI5YzhkYjFhODg5NDJjZjBjYWQ3MzFiZjNANDMuMTMxLjI1NS4xNzU6MzMwNg==#_03 | 2.84Mb
-ss://YWVzLTI1Ni1jZmI6MTYwMWUzYzI5YzhkYjFhODg5NDJjZjBjYWQ3MzFiZjNANDMuMTI4LjIxMi4xODA6MzMwNg==#_05 | 3.18Mb
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNWQDEwMy4xODYuMTU0LjE5OjM4Mzg4#_07 | 5.01Mb
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTY6NDQz#🇬🇧GB_21 |61.00Mb
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAdWstZGMxLnlhbmdvbi5jbHViOjQ0Mw==#Relay_🇬🇧GB-🇬🇧GB_22 |47.92Mb
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTc6NDQz#🇬🇧GB_23 |48.62Mb
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1QDYyLjYwLjIzMS44MTozOTAwOA==#🇭🇰HK_30 | 3.85Mb
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxMjUuMTQxLjI2LjEyOjQ4NTc=#🇰🇷KR_141 |53.00Mb
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEBwMjMxLnBhbmRhMDA0Lm5ldDoxMTM4OQ==#Relay_🇰🇷KR-🇰🇷KR_142 |41.32Mb
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEBwMjI3LnBhbmRhMDA0Lm5ldDo0ODU3#Relay_🇰🇷KR-🇰🇷KR_143 |38.54Mb
+ss://YWVzLTI1Ni1jZmI6MTYwMWUzYzI5YzhkYjFhODg5NDJjZjBjYWQ3MzFiZjNANDMuMTMxLjI1NS4xNzU6MzMwNg==# | 2.52Mb
+ss://YWVzLTI1Ni1jZmI6MTYwMWUzYzI5YzhkYjFhODg5NDJjZjBjYWQ3MzFiZjNANDMuMTI4LjIxMi4xODA6MzMwNg==# | 4.83Mb
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNWQDEwMy4xODYuMTU0LjE5OjM4Mzg4# | 0.80Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE1NC45MC42My4xOTM6OTkw# | 8.55Mb
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNkAxOTMuMTA4LjExOS4yMzA6ODA4MA==#🇩🇪DE_18 |463.63Mb
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTY6NDQz# |29.78Mb
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTc6NDQz# |47.39Mb
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAdWstZGMxLnlhbmdvbi5jbHViOjQ0Mw==#Relay_ |21.30Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1QDYyLjYwLjIzMS44MTozOTAwOA==# | 0.46Mb
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEBwMjI3LnBhbmRhMDA0Lm5ldDo0ODU3#Relay_ |38.54Mb
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEBwMjIyLnBhbmRhMDAxLm5ldDoxNTA5OA==#Relay_ |11.66Mb
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxMjUuMTQxLjMxLjcyOjE1MDk4# | 3.22Mb
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxMjUuMTQxLjI2LjEyOjQ4NTc=# |53.00Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDQ1Ljg3LjE3NS4xNTQ6ODA4MA==# |104.21Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1QDQ1Ljg3LjE3NS4xODE6ODA4MA==# |177.89Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBnQDQ1Ljg3LjE3NS4xODE6ODA4MA==# |173.65Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDQ1Ljg3LjE3NS4xODE6ODA4MA==# |180.14Mb
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51WkAyMTcuMzAuMTAuMTg6OTAyNA==# |14.07Mb
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0lANzcuOTEuMTAzLjczOjQ0Mw==# |140.82Mb
