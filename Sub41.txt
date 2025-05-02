@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NDTihBemFkTmV0LnQubWUpIiwiYWRkIjoiZTliYTc1NmEtc3Zkd2cwLXN3ZDVmZi1mMXYxLmhrLnA1cHYuY29tIiwicG9ydCI6ODAsImlkIjoiOWNjY2VhN2EtYjZhYi0xMWViLWEwZmMtZjIzYzkxM2M4ZDJiIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NDTihBemFkTmV0LnQubWUpIiwiYWRkIjoiZWM0Y2U1NmUtc3Yyc2cwLXRjeG40bS0xMnFiYS5oay5wNXB2LmNvbSIsInBvcnQiOjgwLCJpZCI6IjBjZjFkODcyLWFhMmEtMTFlZi05N2UwLWYyM2M5MTY0Y2E1ZCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NDTihBemFkTmV0LnQubWUpIiwiYWRkIjoiM2UxYzg5MzEtc3ZobHMwLXQ0eWZldi0xcnozMS53dHQ1LnA1cHYuY29tIiwicG9ydCI6ODEwMiwiaWQiOiI3Njk5NzY3Yy00NGFlLTExZWYtODBjNy1mMjNjOTFjZmJiYzkiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NDTihBemFkTmV0LnQubWUpIiwiYWRkIjoiMjgwN2EyYTYtc3VuejQwLXRhdm41Ny0xbXRxeS5oay5wNXB2LmNvbSIsInBvcnQiOjgwLCJpZCI6ImUyNzEzN2M4LTU5NTItMTFlZi1hYTIzLWYyM2M5MTY0Y2E1ZCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6IiIsInRscyI6IiJ9
+vless://b3fe99f8-17d0-4011-a042-f8642b42c609@190.93.247.245:443?security=tls&type=ws&sni=vless.vvzxyvv.sbs&encryption=none&headerType=none#%F0%9F%87%A8%F0%9F%87%B7CR(AzadNet.t.me)
+trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?type=tcp&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%BFCZ(AzadNet.t.me)
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.200.162:989#%F0%9F%87%A8%F0%9F%87%BFCZ(AzadNet.t.me)
+vless://76394cec-9b9a-49a7-84cf-1ff52c70aaf5@194.182.79.247:13479?security=none&type=grpc&encryption=none&headerType=none#%F0%9F%87%A8%F0%9F%87%BFCZ(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usajs.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@dejs.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://your_password@aws-ge-frankfurt-1.f1rocketnode.com:443?type=tcp&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://your_password@54.93.172.88:443?type=tcp&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@lu.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@esjs.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@usa.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@ukjs.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@uk.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@nljs.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@jp.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@in.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@hkjs.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
 trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@frjs.liangyuandiancloud.com:443?type=tcp&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE(AzadNet.t.me)
@@ -583,23 +603,3 @@ trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@104.21.38.163:443?type=tcp&sni=kdl
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.141:443?type=tcp&sni=trus.moonfree.top&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.139:443?type=tcp&sni=trus.moonfree.top&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.142:443?type=tcp&sni=trus.moonfree.top&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.200.238:443?type=tcp&sni=3s.890689.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443?type=tcp&sni=trus.moonfree.top&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://0000000@18.238.109.37:443?type=tcp&sni=www.lovelive-anime.jp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://bpb-trojan@104.17.147.22:2053?type=tcp&sni=bPB-worker-PANeL1-e4p.paGes.DeV&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://Wd9QmL5Vr2Z6@66.135.9.2:443?type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://Wd9QmL5Vr2Z6@104.207.146.30:443?type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&type=tcp&sni=local.rogsoftwaregroup.com&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVUyhBemFkTmV0LnQubWUpIiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiIzN2Y0NjRjYi1iODI2LTQyNzgtOWJmOC0xMWJkZjFlYzg5MmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJGcmEtVnAtMTIzLkJMYVpFQ0xPVUQuU2l0ZSIsInBhdGgiOiIvbGludmt3cyIsInRscyI6InRscyJ9
-trojan://bpb-trojan@172.66.44.128:443?type=tcp&sni=cf.090227.xyz&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@z9.gozargah.one:443?type=tcp&sni=z9.gozargah.one&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download2hkt.windowsupdatea.com:443?type=tcp&sni=glc-hkt2.windowsupdatea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://xxoo@138.197.5.103:443?type=tcp&sni=telewebion.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://27876_t7d7f4e3f@23.142.200.175:443?type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-trojan://SaujZeOR2F6eDD09KnxFcl3CY8laTXAyYOyCEI5qgwRSDp4ZCp33ASxN738zBa@beseech.homeofbrave.net:443?type=tcp&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%BA%F0%9F%87%B8US(AzadNet.t.me)
