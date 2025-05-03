@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://Aimer@108.165.152.29:2096?sni=agept.ambercc.filegear-sg.me#US11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidEJadXRmbUFEVndNRUdoZVFlUVhq@89.185.84.185:443#%E6%9C%AA%E7%9F%A576%206.4MB%2Fs
 trojan://Aimer@162.159.44.233:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A577
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.176.215.63:2377#%E6%9C%AA%E7%9F%A578
@@ -602,4 +603,3 @@ vless://8072e624-46d6-4fa9-ea8c-4b2ce6581340@185.133.35.242:80?security=none&typ
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@188.114.97.214:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 495
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.236:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔗 Vauth - 496
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.43:443?security=tls&sni=vb.bgm2024.dpdns.org&type=ws&host=vb.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔗 Vauth - 497
-vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?security=tls&sni=ad.oldcloud.online&type=ws&host=ad.oldcloud.online&path=%2F&fp=chrome#🔗 Vauth - 498
