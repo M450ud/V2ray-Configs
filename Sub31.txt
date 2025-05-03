@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
 	"randomInGroup" : false,
@@ -590,16 +603,3 @@ trojan://Aimer@18.185.51.67:8080?security=tls&type=tcp&sni=epccr.ambercc.filegea
 trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&type=grpc&sni=getgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A581
 trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US14
 trojan://Aimer@108.162.195.82:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A582
-trojan://Aimer@172.67.144.114:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A583
-trojan://Aimer@5.144.181.144:2053?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A584
-trojan://123456@104.25.97.27:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#%E6%9C%AA%E7%9F%A585
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTJjOGVmYi0zMTlhLTQ1ZjQtYjEzZi0yZTY0NTBjMTcwZTc=@free.2apzhfa.xyz:31341#%F0%9F%87%B5%F0%9F%87%ADPH%E8%8F%B2%E5%BE%8B%E5%AE%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTQ3ZTliOS01NTZkLTQ3NDMtOTgyZC0xMDkzMTA1OTM3Njk=@free.2weradf.xyz:36213#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://Aimer@104.16.193.121:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A586
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#%E6%9C%AA%E7%9F%A587%202.4MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#US15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#%E6%9C%AA%E7%9F%A588%20828.9KB%2Fs
-trojan://Aimer@108.162.194.193:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A589
-trojan://Aimer@118.45.113.48:12238?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A590
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@t9.qifei.app:64804?#%E6%9C%AA%E7%9F%A591
-trojan://1161decb-384b-4528-99bb-0144cadc5e87@45.146.232.171:42883?sni=q08m.vgraxiw73s.hasyaf.cn#HK9
