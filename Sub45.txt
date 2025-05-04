@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@141.148.223.173:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇮🇳%20IN%20down
-hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@158.101.37.59:443?security=tls&insecure=1&mport=50000-53000&sni=www.bing.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.101.4.24:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇺🇸%20US%20down
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@139.185.49.195:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇦🇪%20AE%20down
 hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@139.185.34.29:443?security=tls&insecure=1&mport=50000-53000&sni=www.hoyoverse.com#🆔new_mtproxi2%20🔒%20HY2-UDP-N/A%20🇦🇪%20AE%20down
@@ -603,3 +601,5 @@ vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=realit
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@162.159.32.35:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjExNCIsImFpZCI6IjEiLCJob3N0Ijoib3BoZWxpYS5tb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6Im9waGVsaWEubW9tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://0b111ced-0f47-461f-ae09-589f393d45b6@172.66.47.98:2053?security=tls&sni=mtnfinldefhdisjwidjsmperep0.amoozeshgah-com.com&type=ws&path=/backup&host=mtnfinldefhdisjwidjsmperep0.amoozeshgah-com.com&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.71.221:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.122.175:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
