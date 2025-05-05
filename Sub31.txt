@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&encryption=none&host=Join_Bade_Channel@JOKERRVPN&headerType=none&type=tcp#🇳🇱NL_3254_@Surfboardv2ray
-vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&encryption=none&host=Join_Bade_Channel@Nicotine_joker&headerType=none&type=tcp#🇳🇱NL_3255_@Surfboardv2ray
-vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&encryption=none&host=bmw.com&headerType=none&type=tcp#🇳🇱NL_3256_@Surfboardv2ray
-vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@clientproo.xyz:443?security=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&encryption=none&host=FergalVpnMod.com&headerType=none&type=tcp#🇳🇱NL_3257_@Surfboardv2ray
-vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@128.140.43.250:8081?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#🇩🇪DE_3258_@Surfboardv2ray
-vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#🇨🇦CA_3259_@Surfboardv2ray
 vless://e8bad3b8-8ff9-4cf8-be46-d01466514368@hajlab.ucdavis.edu:443?encryption=none&security=tls&sni=hajlab.ucdavis.edu&fp=chrome&allowInsecure=1&type=ws&host=www.darcy.ir&path=/#🇺🇸US_3260_@Surfboardv2ray
 vless://e8c5e684-019f-4b79-f741-401008b3a56d@speedtest.net:80?path=/olem/ws?ed=1024&security=&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_3261_@Surfboardv2ray
 vless://e91b64d0-4967-45ac-9cf8-f68a14879260@104.19.54.50:8080?type=ws&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&security=none#🇨🇦CA_3262_@Surfboardv2ray
@@ -603,3 +597,9 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 	"proxyAuthPass" : "",
 	"proxyUserAgent" : "",
 	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
