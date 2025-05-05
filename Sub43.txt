@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://your_password@aws-uae-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-uae-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://your_password@aws-sg-1.f1cflineb.com:443/?type=tcp&security=tls&sni=aws-sg-1.f1cflineb.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://your_password@aws-se-stockholm-1.f1rocketnode.com:443/?type=tcp&security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 trojan://your_password@aws-mx-queretaro-1.f1cflinea.com:443/?type=tcp&security=tls&sni=aws-mx-queretaro-1.f1cflinea.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -603,3 +602,4 @@ vless://d7e47374-af6f-4daa-8bba-7322a157107d@104.17.147.22:80?encryption=none&ho
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?encryption=none&host=de1-moryvpnbot.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=de1-moryvpnbot.pages.dev&type=ws#رایگان | VLESS | @ProxyForOpeta | US🇺🇸 | 0️⃣6️⃣
 vless://13bec8ea-44d8-4a7d-9de2-ecde71f01241@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&type=ws#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣1️⃣
 vless://a82dd080-ea8c-4a99-8acc-59aa16cede6e@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&security=none&type=ws#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣4️⃣
+vless://a82dd080-ea8c-4a99-8acc-59aa16cede6e@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&type=ws#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣5️⃣

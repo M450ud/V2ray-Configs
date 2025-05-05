@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-		{
-			"remarks" : "www.dongtaiwang.com 洛杉矶",
 			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
 			"server" : "liaoningddns.xyz",
 			"server_port" : 11421,
@@ -603,3 +601,5 @@ trojan://Aimer@104.17.180.103:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUGtwQTFFUTN2amhOQTJmaHpTUWw1@193.233.253.224:38264#%E6%9C%AA%E7%9F%A590
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk=@80.225.223.49:21451#%E6%9C%AA%E7%9F%A591
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%E6%9C%AA%E7%9F%A592%204.4MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTVU2OU54ZXBlUU8zSGNFSFJoVE11@78.129.140.11:443#%E6%9C%AA%E7%9F%A593
+trojan://vip@104.19.174.68:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A594
