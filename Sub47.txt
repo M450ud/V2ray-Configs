@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vmess://eyJhZGQiOiIyMDYuMjA2LjgwLjY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg4MjVmZDA0LTkwMDUtNDQxMC1iNDhjLWQyZjM0NWVjN2ZlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjM0MjMiLCJwcyI6IkB2cG5jbGFzaGZhIC0gODRcbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyMDIuNzguMTYyLjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCJpZCI6IjExODI4N2QyLWU5NjgtNDJlMS04MGQwLTEyZmEyZjVkMzhkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9AZm9yd2FyZHYycmF5IiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbmNsYXNoZmEgLSA4M1xuIiwic2N5IjoiYXV0byIsInNuaSI6InNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIyLjU4Ljg3LjIyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkYjg1ZmYwZS1jMzNmLTQwMWQtYzQxNS00YzdjY2UxMzU3MDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjEyMjY5IiwicHMiOiJAdnBuY2xhc2hmYSAtIDgyXG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyLjE4OS41OS4zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAdnBuY2xhc2hmYSAtIDgxXG4iLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -603,3 +602,4 @@ vless://aceffb65-8bd3-4978-9cf8-afcf72edb374@188.114.97.58:443?path=%2F%3Fed%3D2
 vless://aceffb65-8bd3-4978-9cf8-afcf72edb374@162.159.195.67:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev#@vpnclashfa - 246
 vless://aceffb65-8bd3-4978-9cf8-afcf72edb374@162.159.192.168:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev#@vpnclashfa - 245
 vless://aceffb65-8bd3-4978-9cf8-afcf72edb374@104.27.206.87:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev#@vpnclashfa - 244
+vless://acbabac-cbaa-bcaa-cdab-cbabbacaabcc@127.0.0.1:1080?security=tls&type=tcp#@vpnclashfa - 243
