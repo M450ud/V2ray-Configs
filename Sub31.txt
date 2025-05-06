@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638819987607009128.warsaw-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇳🇱NL_3109_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638819987607012198.warsaw-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇳🇱NL_3110_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820422729382324.helsinki-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇱🇹LT_3111_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820422729388540.helsinki-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇳🇱NL_3112_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820422729388540.helsinki-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇳🇱NL_3113_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820422729388960.helsinki-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇳🇱NL_3114_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820422729388960.helsinki-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇳🇱NL_3115_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇱🇹LT_3116_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839342755.dublin-shledrc-acbn.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇱🇹LT_3117_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820971350278181.belgrade-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇬🇧GB_3118_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820971350283180.belgrade-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇫🇷FR_3119_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820971350283180.belgrade-shledrc-acbs.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇫🇷FR_3120_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.146.125:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3121_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3122_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.212.64:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3123_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.153.86:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3124_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.245.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3125_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=&encryption=none&authority=/&type=grpc#🇩🇪DE_3126_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=&encryption=none&authority=/&type=grpc#🇩🇪DE_3127_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=&encryption=none&type=grpc#🇩🇪DE_3128_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&authority=/&type=grpc#🇩🇪DE_3129_@Surfboardv2ray
@@ -603,3 +585,21 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "9D5249CB74D17FE57D18E5ED8AD1EC47",
+			"server" : "us7.edge.boom.skin",
+			"server_port" : 46000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "476637:Caiange823057",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
