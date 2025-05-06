@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
-	"proxyPort" : 0,
-	"proxyAuthUser" : "",
-	"proxyAuthPass" : "",
 	"proxyUserAgent" : "",
 	"authUser" : "",
 	"authPass" : "",
@@ -603,3 +594,12 @@ trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&typ
 trojan://Aimer@162.159.44.233:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A557
 trojan://Aimer@104.17.180.103:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A558
 trojan://Aimer@108.165.152.219:443?sni=agepj.ambercc.filegear-sg.me#US18
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#US19%20116.9KB%2Fs
+trojan://trojan@172.67.130.66:443?security=tls&type=tcp&sni=test-a23.pages.dev#%E6%9C%AA%E7%9F%A559
+trojan://TKsVHmEEGn3v@104.21.64.1:2087?security=tls&type=httpupgrade&sni=hamshahri.twn24.ir&path=/🆔@M3HDIO1&host=hamshahri.twn24.ir#%E6%9C%AA%E7%9F%A560
+trojan://Aimer@199.34.228.191:2096?sni=agepj.ambercc.filegear-sg.me#US20
+trojan://Aimer@108.162.194.193:443?sni=agepy.aimercc.filegear-sg.me#%E6%9C%AA%E7%9F%A561
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.22.95.183:443#%E6%9C%AA%E7%9F%A562
+ss://YWVzLTI1Ni1nY206ODRYQUpMOFNZVTVERkVPMQ==@156.231.104.14:18004#%E6%9C%AA%E7%9F%A563
+trojan://NISHIKUITAN111@104.20.138.222:443?#%E6%9C%AA%E7%9F%A564
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&type=ws&sni=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq&host=series-v1.samanehha.co#%E6%9C%AA%E7%9F%A565
