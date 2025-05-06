@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.114.143:8880?security=&type=grpc&encryption=none#🇩🇪DE_3068_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:8880?mode=gun&security=none&encryption=none&authority=/Join_Bade_Channel@JOKERRVPN&type=grpc#🇩🇪DE_3069_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:8880?mode=gun&security=none&encryption=none&authority=/Join_Bade_Channel@JOKERRVPN&type=grpc#🇩🇪DE_3070_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE_3071_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3072_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3073_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3074_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3075_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?security=&type=grpc&encryption=none#🇫🇮FI_3076_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.250.184:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3077_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇮FI_3078_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇮FI_3079_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇮FI_3080_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_3081_@Surfboardv2ray
@@ -603,3 +592,14 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
     "wrapText": false,
     "toolbarShown": false,
     "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3,
+    "useAuth": false,
+    "authUser": "",
