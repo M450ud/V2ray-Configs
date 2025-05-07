@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://09486821-5166-4b4c-806b-80c1c8fb101a@104.16.72.104:8443/?type=ws&encryption=none&flow=&security=tls&sni=egcf.shijie.icu#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+vmess://eyJhZGQiOiJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwiaWQiOiIyYmFmYjg5OS03Zjk4LTRhNTQtOWYzMy02OWVjNGM4MThlZWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTYiLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKSIsInNjeSI6ImF1dG8iLCJzbmkiOiJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.16.144.242:2083/?type=ws&encryption=none&flow=&path=%2F%3Fed%3D2048&security=tls&sni=test.bujidao.org#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80/?type=ws&encryption=none&flow=&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+vless://25636ecf-9958-48a3-9b0d-63c25a9db541@104.16.29.203:443/?type=ws&encryption=none&flow=&security=tls&sni=w-axh.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443/?type=ws&encryption=none&flow=&path=%2F%3Fed%3D2560&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=random#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
+vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.16.194.204:80/?type=ws&encryption=none&flow=&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.49.112:443/?type=ws&encryption=none&flow=&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=random#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 vless://bde95043-c1da-4177-90b5-101d64cbfd94@104.16.157.153:443/?type=ws&encryption=none&flow=&security=tls&sni=zlgmz.top#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@104.16.50.195:2087/?type=ws&encryption=none&flow=&security=tls&sni=teslakit1.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29
@@ -596,10 +603,3 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?host=TdWwPlBs61.
 vless://DIGIV2RAy@www.parspack.com:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣4️⃣
 vless://DIGIV2RAy@www.parspack.com:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣5️⃣
 vless://DIGIV2RAY@www.parspack.com:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣6️⃣
-vless://DIGIV2RAY@www.parspack.com:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣7️⃣
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?encryption=none&host=ios-azadnet.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=ios-azadnet.pages.dev&type=ws#رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣1️⃣
-vless://501f51e6-468b-48d7-a458-929f45bb2d10@www.parspack.com:8880?encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&path=%2FSHHPROXY%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣2️⃣
-vless://4e6bed59-1b49-4198-856d-97916b15e24c@104.17.147.22:80?encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&type=httpupgrade#رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣3️⃣
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?encryption=none&fp=randomized&host=de4ecf6b.isvphp-4g8.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws#رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣4️⃣
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?encryption=none&host=e10c0e4b.oodaeq2.pages.dev&path=TELEGRAM-PROXY_MTM%2F%3Fed%3D2048&security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws#رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣5️⃣
-vless://1c64e3b6-581d-430a-b487-8fabda42263f@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&type=httpupgrade#رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣1️⃣
