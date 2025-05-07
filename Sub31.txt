@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v3.vetdomok.shop#🇺🇸US_3179_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v3.vetdomok.shop#🇺🇸US_3180_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸US_3181_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3182_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3183_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3184_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3185_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3186_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&encryption=none&type=grpc#🇺🇸US_3187_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_3188_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_3189_@Surfboardv2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇺🇸US_3190_@Surfboardv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3191_@Surfboardv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3192_@Surfboardv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_3193_@Surfboardv2ray
@@ -591,15 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"obfsparam" : "f4b6417431.microsoft.com",
 			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
 			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		}
-	],
-	"index" : 0,
-	"random" : true,
-	"sysProxyMode" : 3,
-	"shareOverLan" : false,
-	"localPort" : 1080,
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
-	"dnsServer" : "",
-	"reconnectTimes" : 2,
