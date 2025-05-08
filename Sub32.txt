@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
 		},
 		{
 			"remarks" : "dongtaiwang.com",
@@ -592,14 +603,3 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.81:2053?security=tls&t
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjggNDU0LjJLQi9zIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoiMTA1MzQiLCJpZCI6ImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI4In0=
 trojan://Aimer@162.159.135.88:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A529
 trojan://123456@198.41.208.69:8443?security=tls&type=ws&sni=top-azx.pages.dev&path=/Az1.vpn.33.TOP/?ed=2560&host=top-azx.pages.dev#%E6%9C%AA%E7%9F%A530
-trojan://Aimer@18.166.149.73:18443?sni=epccu.ambercc.filegear-sg.me#HK5
-trojan://NISHIKUITAN111@190.93.247.175:443?#%E6%9C%AA%E7%9F%A531
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.29:7306#US4%20117.3KB%2Fs
-trojan://Aimer@104.17.174.193:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A532
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?security=tls&type=tcp&sni=mailbox.CPIFOrpersiA.UK#%E6%9C%AA%E7%9F%A533
-trojan://Aimer@104.25.252.184:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A534
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFamxWMklBdG5PemVTekQzcDQ2M1Vu@62.133.60.60:21712#%E6%9C%AA%E7%9F%A535
-ss://YWVzLTEyOC1nY206ZjM0N2I2NDQtNWNlNy00OGIyLWJlMDctOTc0NzQ4MDVhOWFm@142.91.98.103:45609#%E6%9C%AA%E7%9F%A536
-trojan://vip@104.26.7.112:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A537
-ss://YWVzLTI1Ni1nY206dDU0emVIaWxsZHhLcmlvSg==@149.56.95.142:8388#%E6%9C%AA%E7%9F%A538
-trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.191.251:443?security=tls&type=ws&sni=BoStoN01.890614.GGff.neT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston01.890614.ggff.net#%E6%9C%AA%E7%9F%A539
