@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "DE9E32FF31B704BF98967202DE78D00D",
 			"server" : "nk6.boom.skin",
@@ -596,10 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%E6%9C%AA%E7%9F%A56%20207.8KB%2Fs
 trojan://Aimer@172.64.145.155:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A57
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#%E6%9C%AA%E7%9F%A58%207.0MB%2Fs
-trojan://vs6f8hvt@172.67.68.204:443?security=tls&type=ws&sni=trojan.cchappy.eu.org&host=trojan.cchappy.eu.org#%E6%9C%AA%E7%9F%A59
-trojan://uV8u9Q41e2@104.18.165.147:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A510
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7002#US2%20174.4KB%2Fs
-trojan://uV8u9Q41e2@104.16.127.84:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A511
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%E6%9C%AA%E7%9F%A512%2014.4MB%2Fs
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A513
-trojan://amclubs@156.238.19.69:2096?security=tls&type=ws&sni=tran.amclubstest.nyc.mn&path=/?ed=2560&host=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A514
