@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://0cc6b4268dea0ba8@103.168.155.73:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=ws&path=/gateway/connect&host=TG.WangCai_1#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@bia-t-o.outline-vpn.cloud:804#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.17.245.1:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6697#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vless://e4e80428-c1e2-44b5-a8ce-7b868d41b49b@8.219.151.193:80?security=&type=ws&path=/&host=jp3.rtacg.com&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 ss://YWVzLTI1Ni1nY206Ykk1MVVjN0NMNg==@50.114.159.250:6666#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
@@ -600,6 +603,3 @@ trojan://telegram-id-directvpn@15.188.209.143:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@15.156.27.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 59
 trojan://telegram-id-directvpn@13.61.73.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 58
 trojan://telegram-id-directvpn@13.61.56.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 57
-trojan://telegram-id-directvpn@13.58.24.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 56
-trojan://telegram-id-directvpn@13.53.232.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 55
-trojan://telegram-id-directvpn@13.53.196.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 54

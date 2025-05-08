@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"index" : 0,
-	"random" : true,
 	"sysProxyMode" : 3,
 	"shareOverLan" : false,
 	"localPort" : 1080,
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206OU5DV0RSVlU3VEE1WTNWUQ==@154.196.244.13:16003#%E6%9C%AA%E7%
 trojan://Aimer@162.159.129.152:443?type=ws&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A545
 trojan://Aimer@lynn.ns.cloudflare.com:443?sni=epccj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ss://YWVzLTI1Ni1nY206NEFLUDhXRkRUSTAwMVEyOQ==@129.232.133.62:20015#%E6%9C%AA%E7%9F%A546
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.22.161.135:2377#TW2
+ss://YWVzLTEyOC1nY206YmZlMjRlOGQtYmI2YS00ZmU3LTk3Y2UtMjI4ZWM0NDJkMWI2@152.53.64.227:45602#%E6%9C%AA%E7%9F%A547

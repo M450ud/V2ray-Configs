@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#🇮🇷IR_1816_@Surfboardv2ray
-vless://8cb62db2-cb4f-4531-bef4-39aed7a14dc4@185.18.212.125:2053?security=none&encryption=none&host=fast.speedgo.lol&headerType=http&type=tcp#🇮🇷IR_1817_@Surfboardv2ray
 vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇸🇰SK_1818_@Surfboardv2ray
 vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇸🇰SK_1819_@Surfboardv2ray
 vless://8ce30235-83ac-458c-8651-986922d5249b@cname.proxystore11.news:2087?type=ws&path=/prx11&host=panel.proxystore11.news&security=tls&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1&sni=panel.proxystore11.news#🇨🇦CA_1820_@Surfboardv2ray
@@ -603,3 +601,5 @@ vless://bedd9f06-f222-4c99-a00f-65e3667931ce@speedtest.net:80?path=/olem/ws?ed=1
 vless://bedd9f06-f222-4c99-a00f-65e3667931ce@zmaoz.faculty.ucdavis.edu:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_2413_@Surfboardv2ray
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=chrome&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&sid=9b28132c703433&type=tcp&headerType=none#🇩🇪DE_2414_@Surfboardv2ray
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&encryption=none&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9b28132c703433#🇩🇪DE_2415_@Surfboardv2ray
+vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&encryption=none&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9b28132c703433#🇩🇪DE_2416_@Surfboardv2ray
+vless://bf4c45e7-2723-457d-8f81-6789c3f42439@www.speedtest.net:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=chrome&type=ws#🇨🇦CA_2417_@Surfboardv2ray
