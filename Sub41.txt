@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.120:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔗 Vauth - 4600
 vless://a65eeff9-e5a5-45fb-a142-2210d98bcffd@162.159.130.234:443?security=tls&sni=hk3.servervless.de&type=ws&host=hk3.servervless.de&fp=chrome&alpn=h2,http/1.1#🔗 Vauth - 4601
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.4.60:8080?security=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev#🔗 Vauth - 4602
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.77:443?sni=sv.ylka.dpdns.org&type=ws&host=sv.ylka.dpdns.org&allowInsecure=1#🔗 Vauth - 4603
@@ -603,3 +602,4 @@ vless://da8e396e-5430-4214-b221-8f6836db5507@162.159.153.4:443?security=tls&sni=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.100:2002?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#🔗 Vauth - 5197
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@172.66.43.238:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 5198
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=tls&flow=xtls-rprx-vision-udp443&sni=speed.cloudflare.com&fp=chrome&allowInsecure=0#🔗 Vauth - 5199
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@198.41.193.100:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 5200

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://075b9690-f1cc-4d0c-aa1e-f80f07f09815@104.21.69.50:443?security=tls&sni=4o.191292.xyz&type=ws&host=4o.191292.xyz&path=%2FcXwWQOGtZd9NCd8WBZ57XYkE&fp=chrome&alpn=http%2F1.1#🔗 Vauth - 2800
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@183.214.166.149:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&fp=randomized#🔗 Vauth - 2801
 vless://b73f44c0-caaf-4654-c723-192b08f3e615@94.182.129.211:18231?type=tcp&headerType=http#🔗 Vauth - 2802
 vless://00a9a559-8bb0-425e-bc97-c9885a575455@5.10.244.44:443?sni=usargo.lzj520hxw.dpdns.org&type=ws&host=usargo.lzj520hxw.dpdns.org#🔗 Vauth - 2803
@@ -603,3 +602,4 @@ vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&type=
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.148.223:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔗 Vauth - 3397
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.72.49:443?security=tls&sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me#🔗 Vauth - 3398
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@188.114.98.70:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 3399
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.210.92.24:80?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔗 Vauth - 3400
