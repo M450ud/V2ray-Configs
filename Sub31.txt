@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2914_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US_2915_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_2916_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.74:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇸US_2917_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇳🇱NL_2918_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱NL_2919_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=none&encryption=none&type=grpc#🇳🇱NL_2920_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.248.159:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹LT_2921_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹LT_2922_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹LT_2923_@Surfboardv2ray
@@ -596,10 +603,3 @@ vless://zigma-config-bot-2338@212.80.19.27:8443?security=none&encryption=none&ho
 			"udp_over_tcp" : false
 		},
 		{
-			"remarks" : "dongtaiwang.com",
-			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
-			"server" : "nk7.boom.skin",
-			"server_port" : 17000,
-			"server_udp_port" : 0,
-			"password" : "Uk92CS",
-			"method" : "aes-256-cfb",
