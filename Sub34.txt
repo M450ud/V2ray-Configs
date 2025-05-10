@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@82.115.4.168:443?security=reality&flow=xtls-rprx-vision&sni=video.intfreed.ru&type=tcp&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🔗 Vauth - 65
+vless://ddc43612-9d16-48f9-a4d2-e90000fcb489@147.182.208.126:2083?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#🔗 Vauth - 66
 vless://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=k9oHeYY0hNmcd6BRZQTX9sp0ZQR7Bx85fPMu0v4uvwc&sid=c5a5eca0d8234375#🔗 Vauth - 67
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@216.173.70.95:443?security=reality&flow=xtls-rprx-vision&sni=video.intfreed.ru&type=tcp&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🔗 Vauth - 68
 vless://6abe5ebe-7afb-4157-8e5f-fa3f074d2140@188.245.163.203:443?security=reality&sni=yahoo.com&type=xhttp&fp=chrome&pbk=wKlkFbReKv_gawUVfc2l-Ah3HNVutXWMfPhfDIjR1SI&sid=f21f70d301f05a#🔗 Vauth - 69
@@ -601,5 +603,3 @@ vless://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.30.167:443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔗 Vauth - 662
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.113:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔗 Vauth - 663
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.150:80?security=none&type=ws&host=game.baziha0098.ir#🔗 Vauth - 664
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.135.232:8880?path=/@ZEDMODEON+TEL#🔗 Vauth - 665
-vless://1533d356-cb86-4d5d-9f6d-ba357a907284@151.101.194.228:80?security=none&type=ws&host=joinxvproxybedee.ir&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔗 Vauth - 666
