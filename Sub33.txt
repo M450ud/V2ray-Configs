@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
 			"obfs" : "plain",
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
@@ -601,5 +603,3 @@ trojan://Aimer@162.159.38.100:2053?security=tls&type=ws&sni=agepa.ambercc.filege
 trojan://gIRrGnuuNm@45.85.119.0:2096?security=tls&type=ws&sni=aa.v2jey.fun&path=/&host=aa.v2jey.fun#%E6%9C%AA%E7%9F%A531
 vmess://eyJ2IjoiMiIsInBzIjoiVVM3IDMxLjFNQi9zIiwiYWRkIjoiNTEuODEuMjAzLjU3IiwicG9ydCI6IjI4ODYwIiwiaWQiOiIxNzg0NDk3ZC0wM2ExLTQwYmItYmI4Yi1kZTRmZmFjN2M1OWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM3In0=
 trojan://Aimer@45.66.129.147:46741?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A532
-ss://YWVzLTI1Ni1nY206OVZOUVBSRVZXNjlaMk1HSg==@185.186.79.135:20028#%E6%9C%AA%E7%9F%A533
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A534
