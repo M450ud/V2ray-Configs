@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+trojan://8264f515-90b6-4152-9830-7abc0ec215c6@193.57.136.137:443?security=tls&type=tcp&sni=dried-chow-kite.stark-industries.solutions#%E6%9C%AA%E7%9F%A595
+trojan://amclubs@104.16.134.27:2083?sni=tran.amclubs.rr.nu#%E6%9C%AA%E7%9F%A596
+trojan://Aimer@104.16.158.89:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
+trojan://Aimer@104.19.56.130:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#US19%201.1MB%2Fs
+trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A599
+trojan://Aimer@162.159.140.211:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5100
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.143:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5101
 trojan://Aimer@210.222.30.180:17100?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A5102
 trojan://juzi@5.75.201.8:2053?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A5103
@@ -596,10 +603,3 @@ vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.98.19:443?security=tls&sni=
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.47.213:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔗 Vauth - 522
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@108.162.198.69:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=chrome#🔗 Vauth - 523
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔗 Vauth - 524
-vless://f40b19a1-5515-4c93-804c-334873d38449@104.16.156.225:443?security=tls&sni=autumn.norjson.top&type=ws&host=autumn.norjson.top#🔗 Vauth - 525
-vless://c91ca460-51e6-470f-99ab-2b1d3439f194@104.21.91.19:443?security=tls&sni=byvless.xiaoqi666.xyz&type=ws&host=byvless.xiaoqi666.xyz&path=%2F#🔗 Vauth - 526
-vless://ac00d98b-a311-4ef2-b3a3-89f9f930b3aa@104.22.71.106:443?security=tls&sni=mHsa5sRv2.FArVAHARfOrevEr.cOm&type=ws&host=mHsa5sRv2.FArVAHARfOrevEr.cOm&path=%2FFdNQQ9YwZaJCzXHFXJO9ry6uLKVQz#🔗 Vauth - 527
-vless://a040115b-aaef-4851-9ba0-d558bba55359@185.140.211.50:2052?security=none&type=grpc&serviceName=vless-grpc#🔗 Vauth - 528
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.47.184:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔗 Vauth - 529
-vless://4c6f2a23-541a-45a2-9dd8-30bd29e4fa30@173.245.59.132:2052?type=httpupgrade&host=External_net.ysphs.top.&path=/@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net%3Fed%3D2048#🔗 Vauth - 530
-vless://d5fd9125-cd52-b16b-5408-d203f9532da7@172.67.75.172:443?security=tls&sni=ct8.ppwgg.ggff.net&type=xhttp&fp=chrome#🔗 Vauth - 531

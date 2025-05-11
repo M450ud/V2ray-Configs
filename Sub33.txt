@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
 	"shareOverLan" : false,
 	"localPort" : 1080,
 	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
@@ -596,10 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMzBRaFVqemRVdFhpMXRzRHNGN0cx@147.45.221.106
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A592
 trojan://Aimer@162.159.140.164:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A593
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?sni=dozo01.flztjc.top#%E6%9C%AA%E7%9F%A594
-trojan://8264f515-90b6-4152-9830-7abc0ec215c6@193.57.136.137:443?security=tls&type=tcp&sni=dried-chow-kite.stark-industries.solutions#%E6%9C%AA%E7%9F%A595
-trojan://amclubs@104.16.134.27:2083?sni=tran.amclubs.rr.nu#%E6%9C%AA%E7%9F%A596
-trojan://Aimer@104.16.158.89:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
-trojan://Aimer@104.19.56.130:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#US19%201.1MB%2Fs
-trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A599
-trojan://Aimer@162.159.140.211:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5100
