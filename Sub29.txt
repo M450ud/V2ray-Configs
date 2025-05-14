@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://b54ebf50-8f3c-4aef-a6e8-4a29c7c3f2df@o.soskom.ir:11045?security=reality&encryption=none=#🇩🇪DE_1072_@Surfboardv2ray
 vless://b55fdebb-cd09-4f43-89af-59f5f1364c43@104.24.196.20:2086?path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=&encryption=none=#🇨🇦CA_1073_@Surfboardv2ray
 vless://b55fdebb-cd09-4f43-89af-59f5f1364c43@104.24.196.20:2086?type=httpupgrade&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=www.speedtest.net.icEnIc.ir.&security=none#🇨🇦CA_1074_@Surfboardv2ray
 vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@join.FilTerK0sH.fastly80-3.hosting-ip.com:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&path=/telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE?ed=2048&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#🇺🇸US_1075_@Surfboardv2ray
@@ -603,3 +602,4 @@ vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=reality&pbk
 			"obfs" : "http_simple",
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",

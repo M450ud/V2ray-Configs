@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&fp=chrome#🔗 Vauth - 432
 vless://a9718c02-7177-4100-a133-3c74ada7ce63@151.101.2.216:80?security=none&type=ws&host=website.amin-app.ir#🔗 Vauth - 433
 vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@94.130.187.47:2087?security=tls&sni=s.sarzamiiinahang.ir&type=grpc&fp=chrome&alpn=h2#🔗 Vauth - 434
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@172.64.40.240:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔗 Vauth - 435
@@ -603,3 +602,4 @@ vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@213.35.108.22:443?security=tls&flow
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.112:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔗 Vauth - 1029
 vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@159.203.57.161:3951?security=tls&sni=ukmci.cdnpark.net&type=ws&path=%2F#🔗 Vauth - 1030
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@104.18.129.165:2087?security=tls&sni=a19.bewface-smart.rest&type=grpc#🔗 Vauth - 1031
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.75.172:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔗 Vauth - 1032
