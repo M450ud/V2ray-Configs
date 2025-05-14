@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "148477AE146D474DFF2EA001FFF8DF35",
 			"server" : "aiavnd1.vip.conectinnode.info",
@@ -603,3 +599,7 @@ trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&type=ws&
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.22.95.183:443#%E6%9C%AA%E7%9F%A526
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWmVxSVVDTWNhbzdSZU5qNUI4M1ly@91.84.109.28:49209#%E6%9C%AA%E7%9F%A527
 trojan://Aimer@27.50.49.207:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A528
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bjRFbTJocFdVU0NEUWFt@131.145.40.9:443#%E6%9C%AA%E7%9F%A529
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#US2%201.9MB%2Fs
+trojan://Aimer@168.138.204.44:587?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A530
+trojan://Aimer@172.67.208.247:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A531
