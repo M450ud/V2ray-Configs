@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://be68b2c8-835a-423d-a070-c0831e741b36@109.61.42.127:5511?security=none&type=grpc#🔗 Vauth - 44
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.162:8880?security=none&sni=pqh34v8.bloger34art.shop&type=grpc&host=pqh34v8.bloger34art.shop#🔗 Vauth - 45
 vless://39502dba-b0dc-59bb-b332-f75194b1689c@45.136.117.14:8880/?type=grpc&encryption=none&serviceName=vless-grpc#🔗 Vauth - 46
 vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880/?type=grpc&encryption=none&serviceName=vless-grpc#🔗 Vauth - 47
@@ -603,3 +602,4 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@88.216.67.130:8880?security=none&ty
 vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&fp=chrome#🔗 Vauth - 641
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.24:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 642
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.50:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 643
+vless://78802591-aa5f-47ea-8184-9e30368d9b50@185.146.173.38:2052?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.onlinesrvpro.site.#🔗 Vauth - 644
