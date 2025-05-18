@@ -504,67 +504,6 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 vless://ws1-HqV2rayNG@151.101.64.155:80?path=Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNGTelegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-/Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNGTelegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-/Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNGTelegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG-Telegram-HqV2rayNG&security=&encryption=none&host=GGz.Mil.&type=ws#🇺🇸US_1337_@Surfboardv2ray
 
 {
-  "version": "4.1.10.0",
-  "configs": [
-    {
-      "server": "dongtaiwang4.com",
-      "server_port": 443,
-      "password": "dongtaiwang.com",
-      "method": "aes-256-gcm",
-      "plugin": "v2ray-plugin",
-      "plugin_opts": "tls;host=1.freeku5.xyz;path=/dongtaiwang;mux=8",
-      "plugin_args": "",
-      "remarks": "www.dongtaiwang.com 洛杉矶",
-      "timeout": 5
-    }
-  ],
-  "strategy": null,
-  "index": 0,
-  "global": false,
-  "enabled": false,
-  "shareOverLan": false,
-  "isDefault": false,
-  "isIPv6Enabled": false,
-  "localPort": 1080,
-  "portableMode": true,
-  "showPluginOutput": false,
-  "pacUrl": null,
-  "gfwListUrl": null,
-  "useOnlinePac": false,
-  "secureLocalPac": true,
-  "availabilityStatistics": false,
-  "autoCheckUpdate": false,
-  "checkPreRelease": false,
-  "isVerboseLogging": false,
-  "logViewer": {
-    "topMost": false,
-    "wrapText": false,
-    "toolbarShown": false,
-    "Font": "Consolas, 8pt",
-    "BackgroundColor": "Black",
-    "TextColor": "White"
-  },
-  "proxy": {
-    "useProxy": false,
-    "proxyType": 0,
-    "proxyServer": "",
-    "proxyPort": 0,
-    "proxyTimeout": 3,
-    "useAuth": false,
-    "authUser": "",
-    "authPwd": ""
-  },
-  "hotkey": {
-    "SwitchSystemProxy": "",
-    "SwitchSystemProxyMode": "",
-    "SwitchAllowLan": "",
-    "ShowLogs": "",
-    "ServerMoveUp": "",
-    "ServerMoveDown": "",
-    "RegHotkeysAtStartup": false
-  }
-}
-{
 	"configs" : [
 		{
 			"remarks" : "dongtaiwang.com",
@@ -603,3 +542,64 @@ vless://ws1-HqV2rayNG@151.101.64.155:80?path=Telegram-HqV2rayNG-Telegram-HqV2ray
 		{
 			"remarks" : "dongtaiwang.com",
 			"id" : "31EFBC1E9BBCF96715870EBC7C6EEDD8",
+			"server" : "nk7.boom.skin",
+			"server_port" : 17000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "001A9875F7EFDC23EC122E00A195E08B",
+			"server" : "nk7.boom.skin",
+			"server_port" : 17000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "DE9E32FF31B704BF98967202DE78D00D",
+			"server" : "nk6.boom.skin",
+			"server_port" : 16000,
+			"server_udp_port" : 0,
+			"password" : "Uk92CS",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_aes128_sha1",
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
