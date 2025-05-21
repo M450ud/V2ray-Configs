@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&sni=147135004002.sec20org.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2393
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.125:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔗 Vauth - 2394
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.9.49.83:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2395
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.253:80?type=ws&host=us.laoyoutiao.link&path=/Telegram#🔗 Vauth - 2396
 vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?security=tls&sni=fr.vless.comnpmjs.com&type=grpc&serviceName=vless-grpc#🔗 Vauth - 2397
@@ -601,5 +603,3 @@ vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@142.93.130.133:3993?security=tls&sn
 vless://d0ace289-e847-4445-aeba-e6437ae108a0@140.248.140.6:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=randomized&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2990
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.228:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔗 Vauth - 2991
 vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?security=tls&sni=vl31.rnd.biz.id&type=ws&host=vl31.rnd.biz.id#🔗 Vauth - 2992
-vless://44b68625-8022-452b-8c91-ee40abe7ff63@104.21.85.68:443?security=tls&sni=ppaL03.aLesSIA-beRNiER.wORkeRS.dEv&type=ws&host=ppaL03.alEssiA-bERNIer.wORKeRS.dEV&path=%2F7mIeBq1gL7p8gNfU%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2993
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@173.245.58.217:2053?security=tls&sni=gb-0.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔗 Vauth - 2994
