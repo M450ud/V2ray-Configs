@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://fc7abee3-37f4-4ee7-dc65-04af94596e17@103.116.7.10:2052?type=ws&host=jp.shangou.xyz&path=%2F#🔗 Vauth - 696
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.188.49:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔗 Vauth - 697
 vless://de67740f-b6fe-4844-adb0-55431f2e162c@91.107.191.193:1483?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔗 Vauth - 698
 vless://66623734-6266-4361-b037-613830383631@162.159.138.232:443?security=tls&sni=cf-fill-nearest-new.digikalacomaparatcom.shop&type=ws&host=cf-fill-nearest-new.digikalacomaparatcom.shop&path=%2Fl_warp%2Fw%2Fecd1st%3Fed%3D2048&allowInsecure=1#🔗 Vauth - 699
 vless://fcbdbaeb-5b6f-40ea-8979-214e79d41566@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https://t.me/new_proxy_channel-@new_proxy_channel&fp=chrome&alpn=http/1.1#🔗 Vauth - 700
@@ -603,3 +601,5 @@ vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.233:80?security=none&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.10.197:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔗 Vauth - 1293
 vless://9d4f6cfb-c921-4bde-ae0a-61781848d940@104.18.14.19:2086?security=none&type=ws&host=0225.axpsivp.workers.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 1294
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.204:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔗 Vauth - 1295
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@172.67.148.99:443?security=tls&sni=xw.r4d.workers.dev&type=ws&host=xw.r4d.workers.dev&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048#🔗 Vauth - 1296
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@8.20.125.1:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔗 Vauth - 1297
