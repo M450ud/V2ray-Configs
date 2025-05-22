@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://c3215f6b-bd47-4123-989d-ee59baf7c1f2@104.16.61.8:443?encryption=none&security=tls&sni=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&type=ws&host=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048#VL-0231-062
-vless://7f56467b-597a-4549-b3a7-2288c47a1d86@104.16.213.133:2083?encryption=none&security=tls&sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&path=%2F#VL-0231-063
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?encryption=none&security=tls&sni=ed19-dc7.pages.dev&type=ws&host=ed19-dc7.pages.dev&path=%2F#VL-0231-064
 vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@172.67.69.227:443?encryption=none&security=tls&sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&type=ws&host=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV&path=%2Fvk_l-izyy3q_-noq%3Fed%3D2048%40sinabigo#VL-0231-065
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.84.35:443?encryption=none&security=tls&sni=PPAL03.NaVIYi2139.WOrKErs.dEV&type=ws&host=pPaL03.nAvIYI2139.wOrkERS.dev&path=%2F0TkRO7B5OMyy4gZu%3Fed%3D2560#VL-0231-066
@@ -603,3 +601,5 @@ vless://bf5fc7a5-e7a5-40e3-8344-dd0b4c16b891@www.speedtest.net:80?flow=&host=shh
 
 #profile-title:@V2rayMiner-MTN🕊️
 #profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
