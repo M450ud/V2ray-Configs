@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://b045acd2-729d-4d96-8ecd-d5e0c57bab22@145.239.86.241:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=145.239.86.241&encryption=none#Rayan%20-%20GSS%20-%20WSDR-113%20-%20PL%20-%20I%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
+vless://fc361924-4934-4ad4-a680-e2bfb1eb6c41@91.192.81.178:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=91.192.81.178&encryption=none#Rayan%20-%20GSS%20-%20WSDR-114%20-%20SG%20-%20I%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
+vless://b3f3b3de-b4eb-469f-930b-9be28ea1e829@185.140.211.50:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.140.211.50&encryption=none#Rayan%20-%20GSS%20-%20WSDR-115%20-%20US%20-%20I%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
 vless://127e51cf-49b0-48b3-84c7-a7423b1b664a@uk-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=uk-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-110%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://35d08555-633c-4832-adcf-64cd39e22d30@uk-2-rvp.rayan-dns.dpdns.org:443?security=tls&sni=uk-2-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-111%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://b3c04723-145e-4eec-8811-f8c785bb0d6e@se-1-rvp.rayan-dns.dpdns.org:443?security=tls&sni=se-1-rvp.rayan-dns.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=se-1-rvp.rayan-dns.dpdns.org&encryption=none#Rayan%20-%20RVP%20-%20WSCT-112%20-%20SE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -600,6 +603,3 @@ vless://bea4ddd0-a014-434e-9eb4-f9c8822bf19e@5.161.147.171:443/?type=ws&encrypti
 vless://b95bbbd9-ed74-4118-ad96-fe7364752109@amazonegermanyfrankfurtbhjbhd22.wagnervpn.org:8880/?type=tcp&encryption=none#%40V2rayMiner
 vless://b95bbbd9-ed74-4118-ad96-fe7364752109@3.139.190.233:8880/?type=tcp&encryption=none#%40V2rayMiner
 vless://941bea09-5f14-44d8-ced9-31a6dcb25dd0@5.161.223.122:80/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://21d6c429-9a97-47f7-84bf-acf83e8a69f2@5.161.209.168:8080/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2F&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-vless://e3b2d928-1cff-401e-8324-825d378c20ab@us.950509.xyz:59886/?type=ws&encryption=none&host=vkvd127.mycdn.me&path=%2Ffree&ed=2048&eh=Sec-Websocket-Protocol#%40V2rayMiner
-hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner
