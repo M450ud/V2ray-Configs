@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.feadlenetwork19922d.net#@vpnclashfa - 52
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.drlimit.net#@vpnclashfa - 51
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net#@vpnclashfa - 50
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.drlimit.net#@vpnclashfa - 49
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net#@vpnclashfa - 48
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net#@vpnclashfa - 47
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net#@vpnclashfa - 46
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net#@vpnclashfa - 45
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net#@vpnclashfa - 44
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#@vpnclashfa - 43
+vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net#@vpnclashfa - 42
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net#@vpnclashfa - 41
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v24.feadlenetwork19922d.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 40
 vless://14c3063b-fa54-4404-bd26-678158abfd5f@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v23.feadlenetwork19922d.net&sni=hajlab.ucdavis.edu&fp=chrome#@vpnclashfa - 39
@@ -80,8 +91,8 @@ trojan://%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40Noforcedheaven%40
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMzczODM1MmYtYWEwOS00MWQ1LTg4MjgtMDgzNmYyNjJjZWVhIiwicGFnZV90aW1lIjoxNzQ4MDc4MzMxLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjE3Mi4xOTEuNTIuMTk1In0K";</script>
-<script src="/byeraWUVB.js"></script>
+<script>window.park = "eyJ1dWlkIjoiNWU4NjExNGMtOTJkMC00NjJiLWI3MDEtMDkyMDc0NThiNzZlIiwicGFnZV90aW1lIjoxNzQ4MDgxOTYyLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjEzLjgzLjQ2LjQ2In0K";</script>
+<script src="/bHfnErQFv.js"></script>
 </body>
 </html>
 
@@ -592,14 +603,3 @@ vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F&securit
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2FTELEGRAM-PROXY_MTM%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
-vless://telegram-id-ArV2ray@185.146.173.158:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=11.V2ray.ir.www.soft98.ir.ww.speedtest.net.%E5%8D%A111.%E5%BA%94%E8%AF%A5%E6%94%B9%E6%88%90lan%E7%BD%91%E5%8D%A1.Site.&type=ws#👉🆔 @v2ray_configs_pool
-vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiMzJhZWM3N2UtNTVkZS00YTU2LWE3YjQtYjA1MTk2NTgyNGI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?path=/server&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#👉🆔 @v2ray_configs_pool
-vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?path=/server&security=tls&encryption=none&alpn=h2,http/1.1&host=join-telegraam-channel-disvpn.pages.dev&fp=randomized&type=ws&sni=join-telegraam-channel-disvpn.pages.dev#👉🆔 @v2ray_configs_pool
-vless://e8ec9c2a-2fd6-4689-b922-c2a396f011e5@gama.ir:443?mode=gun&security=tls&encryption=none&authority=xn--mgbUg7c2Am63G.joBfiNex.ir.&type=grpc&serviceName=%2F%40custom_config%3Fed%3D2056&sni=xn--mgbUg7c2aM63g.jObfineX.ir.#👉🆔 @v2ray_configs_pool
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#👉🆔 @v2ray_configs_pool
-vless://telegram-id-ArV2ray@185.146.173.94:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2056&security=none&encryption=none&host=13.V2ray.wn.speedtest.net.parspack.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.Store.&type=ws#👉🆔 @v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprbWRmOTN6UGtCZVlmelFEcmRrQlhZ@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool
-vless://5461c9d2-ac6a-4ba8-bae1-ca3acb214dd3@LIGHTNING6-joinbede.filj.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%2F%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL%40LIGHTNING6-%40LiV2ray&sni=liV2raya.lightningv.ir#👉🆔 @v2ray_configs_pool
