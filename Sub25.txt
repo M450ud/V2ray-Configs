@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://d14e62e6-7ae5-4a13-a36a-852c5fd25a3a@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#🇸🇪SE_1025_@Surfboardv2ray
 vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_1026_@Surfboardv2ray
 vless://d30a5658-7ac0-478e-a2c7-092d2d1829a8@85.133.206.14:12700?path=telegram:@fastshadow_vpn&security=none&encryption=none&type=ws#🇮🇷IR_1027_@Surfboardv2ray
 vless://d3153cb1-c5e5-480e-9929-d5c608cf0535@www.parsvds.ir:8080?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#🇨🇦CA_1028_@Surfboardv2ray
@@ -603,3 +602,4 @@ vless://wgpazu9paq@94.131.12.63:443?security=tls&alpn=h2,http/1.1&encryption=non
 	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
