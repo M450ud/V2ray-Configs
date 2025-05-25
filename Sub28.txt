@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://Aimer@104.16.60.104:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
-ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ==@92.63.193.243:20#%E6%9C%AA%E7%9F%A598
-trojan://Aimer@65.75.192.14:58846?sni=epccc.ambercc.filegear-sg.me#US21
-trojan://Aimer@31.43.179.27:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A599
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT0VrTnc4STB6VVZ5ZFB1RXR1YjV5@5.8.35.216:60119#%E6%9C%AA%E7%9F%A5100
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.241:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5101
-ss://YWVzLTI1Ni1nY206YTg2OWJhN2UtZTQ2Yy00NmJmLTlkMGEtMmE0ZGRlY2MwNjI3@129.159.49.207:7705#%E6%9C%AA%E7%9F%A5102
-trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@172.67.220.32:443?security=tls&type=grpc&sni=m5tyui.999836.xyz#%E6%9C%AA%E7%9F%A5103
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&type=ws&sni=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci&host=app.soft10.ir#%E6%9C%AA%E7%9F%A5104
-trojan://Aimer@172.67.158.96:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5105
-trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&type=ws&sni=Xxs345rf.857856.xYZ&path=/71M8Ov1I5Gk9247fHC0XGZG6&host=xxs345rf.857856.xyz#%E6%9C%AA%E7%9F%A5106
-trojan://Aimer@104.18.67.120:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5107
-trojan://Aimer@108.165.152.202:2083?sni=epccj.ambercc.filegear-sg.me#US22
-trojan://Aimer@172.64.144.173:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5108
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.160.63:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&proxyIP=null&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A5109
 trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.48.1:8443?security=tls&type=ws&sni=mEHRneWs.Twn24.iR&path=/vNF7RJtVepEuGq7R6Cczl&host=mehrnews.twn24.ir#%E6%9C%AA%E7%9F%A5110
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.63.236:443?security=tls&type=ws&sni=BOSton01.890604.GGff.NeT&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw&host=boston01.890604.ggff.net#%E6%9C%AA%E7%9F%A5111
 trojan://Aimer@162.159.130.112:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5112
@@ -603,3 +588,18 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.153.7.133:443?security=tls&sni=p
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.32:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔗 Vauth - 524
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.171:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔗 Vauth - 525
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?security=none&type=ws&host=psycho.suex12.ir&path=%2F#🔗 Vauth - 526
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.41:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 527
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.114:80?security=none&sni=japan.freenods-8d6.workers.dev&type=ws&host=japan.freenods-8d6.workers.dev&path=Telegram%40WangCai2%2F%3Fed#🔗 Vauth - 528
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@162.159.138.178:2052?security=none&type=ws&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&path=%2F%3Fed%3D1080%3F@O-%7C-@mehrosaboran%2C@mehrosaboran%2C@mehrosaboran%2C@mehrosaboran%2C@mehrosaboran%2C@mehrosaboran%3Fed%3D2560#🔗 Vauth - 529
+vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@188.114.98.13:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 530
+vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.153.217:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔗 Vauth - 531
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@94.247.142.140:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔗 Vauth - 532
+vless://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.87.86:2053?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔗 Vauth - 533
+vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?security=tls&sni=5eR.WWW890604.dPDNS.OrG&type=ws&host=5er.www890604.dpdns.org&alpn=http/1.1#🔗 Vauth - 534
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.126:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔗 Vauth - 535
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@129.154.207.203:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔗 Vauth - 536
+vless://dc64c508-ee7e-4054-9765-7356e1c6f6c5@173.245.59.100:2095?security=none&type=ws&host=www.speedtest.net.isv.spEedtest5.sOckschanGert.ir.&path=%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048#🔗 Vauth - 537
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.190.37:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔗 Vauth - 538
+vless://a9718c02-7177-4100-a133-3c74ada7ce63@151.101.192.155:80?security=none&type=ws&host=website.amin-app.ir#🔗 Vauth - 539
+vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@104.18.26.50:8880?type=ws&host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560#🔗 Vauth - 540
+vless://c6919990-40ee-448c-a716-1cfbd4f0165e@104.18.12.212:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 541
