@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.23:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2082
 vless://8f320d6a-9953-4065-b61c-d62f89a6767f@104.26.12.23:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&path=/?ed%3D2048&fp=chrome#🔗 Vauth - 2083
 vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@188.114.98.107:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 2084
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.202:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#🔗 Vauth - 2085
@@ -603,3 +602,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.141:443?sni=lx.ylks0033
 vless://f93a6388-c998-4864-8eb7-c61de4754aca@95.38.38.226:23000?security=none&type=tcp&host=speedtest.net.fast.com&headerType=http#🔗 Vauth - 2679
 vless://ee74773d-d4bd-4d55-9984-8a51be0b66a8@104.16.199.75:2096?sni=abc.jaiven.dedyn.io&type=ws&host=abc.jaiven.dedyn.io&allowInsecure=0#🔗 Vauth - 2680
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.67:443?sni=nl.ylka.dpdns.org&type=ws&allowInsecure=1#🔗 Vauth - 2681
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.6.77:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2682
