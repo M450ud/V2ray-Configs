@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://a94e8f17-5d02-478a-8800-6c60aed19724@104.24.196.20:2086?path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=none&encryption=none=/@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray&host=www.speedtest.net.icEnIc.ir.&type=httpupgrade#🇨🇦CA_829_@Surfboardv2ray
-vless://a9718c02-7177-4100-a133-3c74ada7ce63@downloadha.com.iraniantim.ir:80?security=none&type=ws&headerType=&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&host=website.amin-app.ir#🇺🇸US_830_@Surfboardv2ray
-vless://a9718c02-7177-4100-a133-3c74ada7ce63@website.amin-app.ir:80?security=none&type=httpupgrade&headerType=&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🇨🇦CA_831_@Surfboardv2ray
-vless://a9718c02-7177-4100-a133-3c74ada7ce63@website.amin-app.ir:8880?security=none&type=ws&headerType=&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🇨🇦CA_832_@Surfboardv2ray
-vless://a9718c02-7177-4100-a133-3c74ada7ce63@www.speedtest.net:8880?security=none&type=ws&headerType=&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&host=vihypercloud.academigroup.ir.#🇨🇦CA_833_@Surfboardv2ray
-vless://a9de9b61-23e9-429c-b52e-56693b4fda93@188.245.144.74:443?security=reality&encryption=none=#🇩🇪DE_834_@Surfboardv2ray
 vless://a9de9b61-23e9-429c-b52e-56693b4fda93@188.245.144.74:443?security=reality&encryption=none=#🇩🇪DE_835_@Surfboardv2ray
 vless://aaabccb-abac-aabc-dabc-bacccbcababa@127.0.0.1:2080?security=tls&type=tcp#_836_@Surfboardv2ray
 vless://ab1ba65d-7af4-4ffb-bf26-44d79793af45@www.speedtest.net:8080?path=/&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#🇨🇦CA_837_@Surfboardv2ray
@@ -603,3 +597,9 @@ vless://wgpazu9paq@94.131.12.63:443?security=tls&alpn=h2,http/1.1&encryption=non
 			"obfsparam" : "download.windowsupdate.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "67BA7B3DBB1FAD86872826623DF37BBD",
