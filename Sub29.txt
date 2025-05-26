@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://3691f715-024c-411b-b269-d4a593f04ff2@194.127.173.200:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🔗 Vauth - 276
 vless://161b8c69-b432-4865-8c1f-8d4a3406866b@168.119.154.98:443?security=reality&sni=ftp.debian.org&type=grpc&fp=chrome&pbk=6FcfJl0x7JEzgqiUgSTZjOuqo90YOG0SOXTTt8hLOm4&sid=ce00a8c4#🔗 Vauth - 277
 vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&flow=xtls-rprx-vision&sni=github.io&type=tcp&fp=chrome&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&sid=b5b39d420f404069#🔗 Vauth - 278
 vless://18f06d6d-2e8d-4549-b3a4-cf1bc345348e@212.233.94.204:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#🔗 Vauth - 279
@@ -603,3 +602,4 @@ vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.164.17:8880?security=none&ty
 vless://a9718c02-7177-4100-a133-3c74ada7ce63@172.67.209.117:8880?security=none&type=ws&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#🔗 Vauth - 873
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.23:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔗 Vauth - 874
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.111:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔗 Vauth - 875
+vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@188.114.96.139:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 876
