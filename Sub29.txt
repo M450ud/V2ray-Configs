@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjAgMS4xTUIvcyIsImFkZCI6IjUuMTk2LjI5LjEyMyIsInBvcnQiOiIyMDgyIiwiaWQiOiIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjYwIn0=
+trojan://blue2024@172.67.160.28:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A561
 trojan://vip@104.21.90.78:443?security=tls&type=ws&sni=heihu880.pages.dev&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A562
 trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A563
 trojan://bpb-trojan@104.16.4.103:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&host=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A564
@@ -601,5 +603,3 @@ vless://02475224-e7cd-58a5-a6d7-81d7d025acac@86.38.214.22:2052?security=none&typ
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.182:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔗 Vauth - 470
 vless://083a70ea-07c5-4542-9f53-fbdc7f31cc52@49.13.126.159:443?security=tls&sni=phone-ship.phoneonline.com.tr&type=grpc&serviceName=xzy#🔗 Vauth - 471
 vless://6c5d8c35-ae8a-4d67-aa55-3eeebba06aa3@151.101.4.20:443?security=tls&sni=map.google.com&type=ws&host=aklisvpn.com&path=%2F%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn&fp=chrome#🔗 Vauth - 472
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.153.2:2087?security=tls&sni=Tp4245C64m.MoLaNaMaMaLi1.InFo&type=ws&host=Tp4245C64m.MoLaNaMaMaLi1.InFo&path=%2F&fp=chrome#🔗 Vauth - 473
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.91:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔗 Vauth - 474

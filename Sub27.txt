@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://bf6e28b5-b197-4e99-a047-d082606e13bb@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=irancell.net.&type=ws#🇺🇸US_935_@Surfboardv2ray
+vless://bf86e56d-869e-4967-f675-d832cf5ec63e@212.16.68.63:1003?type=tcp#🇮🇷IR_936_@Surfboardv2ray
 vless://bfe63cc5-412d-4aa7-b04e-75c9d52b5831@www.zula.ir:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#🇨🇦CA_937_@Surfboardv2ray
 vless://c05d6d23-b67b-4f00-ad57-a754a222ea83@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#🇩🇪DE_938_@Surfboardv2ray
 vless://c05d6d23-b67b-4f00-ad57-a754a222ea83@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#🇩🇪DE_939_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 	"index" : 0,
 	"random" : true,
 	"sysProxyMode" : 3,
-	"shareOverLan" : false,
-	"localPort" : 1080,
