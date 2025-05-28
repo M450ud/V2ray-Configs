@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://c2983ded-01b7-48ed-93df-827308a8a74f@www.parsvds.ir:8080?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#🇨🇦CA_922_@Surfboardv2ray
-vless://c2db147c-fc6a-4840-a9d6-c154048f0e1e@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_923_@Surfboardv2ray
-vless://c2db147c-fc6a-4840-a9d6-c154048f0e1e@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_924_@Surfboardv2ray
-vless://c3914ef7-1337-4d3e-a9ec-d8908314e724@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&host=test0216.dgclix.ir&type=xhttp#🇨🇦CA_925_@Surfboardv2ray
-vless://c43385ba-bce6-4fb6-a9b4-5411e031547e@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_926_@Surfboardv2ray
-vless://c44fa5d1-9074-46d9-c921-238467710e90@151.101.64.155:80?type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=Bpalanenok.ir&type=ws#🇺🇸US_927_@Surfboardv2ray
-vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_928_@Surfboardv2ray
-vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_929_@Surfboardv2ray
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🇨🇦CA_930_@Surfboardv2ray
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80?path=/Telegram@WangCai2/?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🇮🇷IR_931_@Surfboardv2ray
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.210:80?path=/Telegram@WangCai2/?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🇮🇷IR_932_@Surfboardv2ray
 vless://c54e6569-9329-4211-a7b6-c7159c645c95@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#🇨🇦CA_933_@Surfboardv2ray
@@ -603,3 +594,12 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 	"authUser" : "",
 	"authPass" : "",
 	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
