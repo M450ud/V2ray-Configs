@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
@@ -597,9 +603,3 @@ trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#US7%2021.3MB%2Fs
 trojan://Aimer@198.41.209.112:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A532
 trojan://Aimer@172.67.70.33:2096?security=tls&type=ws&sni=ngepo.ambercc.filegear-sg.me&path=/&host=ngepo.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A533
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@23.94.25.129:55511?security=tls&type=tcp&sni=t17.qifei.app#US8
-trojan://bpb-trojan@104.18.107.117:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A534
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.80.1:8443?security=tls&type=ws&sni=tABNaK.TwN24.ir&path=/vNF7RJtVepEuGq7R6Cczl&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A535
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.62:8080#US9
-ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw==@31.40.212.221:20006#%E6%9C%AA%E7%9F%A536
-trojan://juzi@104.20.29.149:2087?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A537
