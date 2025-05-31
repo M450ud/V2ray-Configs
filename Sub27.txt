@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://Aimer@104.18.40.180:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A563
-trojan://Aimer@216.198.53.212:8443?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US11
-trojan://vip@104.18.42.163:443?security=tls&type=ws&sni=heihu880.pages.dev&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A564
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.96.1:2096?security=tls&type=ws&sni=ExpREsSTv.Twn24.ir&path=/vNF7RJtVepEuGq7R6Cczl&host=expresstv.twn24.ir#%E6%9C%AA%E7%9F%A565
-trojan://GlxLO2T3Gz@104.21.48.1:2096?security=tls&type=ws&sni=tabnak.twn24.ir&path=/рЯЖФ@M3HDIO1&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A566
-trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.94.69:443?security=tls&type=grpc&sni=xXxcDdFR4ER.000890604.xyz#%E6%9C%AA%E7%9F%A567
-trojan://Aimer@188.164.159.49:2087?security=tls&type=ws&sni=epccw.ambercc.filegear-sg.me&host=epccw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A568
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.30.171:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A569
-trojan://Aimer@162.159.138.219:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A570
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.69:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A571
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#US12%201.9MB%2Fs
 trojan://Aimer@162.159.44.231:2053?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A572
 trojan://Aimer@154.197.64.228:2083?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A573
@@ -603,3 +593,13 @@ vless://6c5d8c35-ae8a-4d67-aa55-3eeebba06aa3@151.101.4.20:443?security=tls&sni=m
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.153.2:2087?security=tls&sni=Tp4245C64m.MoLaNaMaMaLi1.InFo&type=ws&host=Tp4245C64m.MoLaNaMaMaLi1.InFo&path=%2F&fp=chrome#🔗 Vauth - 473
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.91:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔗 Vauth - 474
 vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.21.18.37:2083?security=tls&sni=vl.bujidao.cc&type=ws&host=vl.bujidao.cc&path=%2F%3Fed%3D2048#🔗 Vauth - 475
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.69:80?type=ws&host=301.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔗 Vauth - 476
+vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2086?security=none&type=ws&host=0210.uous1wog.workers.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 477
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@109.120.189.30:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔗 Vauth - 478
+vless://db3a7ae3-17e4-4952-c3b9-138c9ecb787f@172.67.202.155:8080?security=none&type=ws&host=zoornazanfarsineveshtam.onetwothree123.ir&path=%2F%40MEHDIO1#🔗 Vauth - 479
+vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.99.72:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 480
+vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2087?security=tls&sni=exPrESSTV.farsonLine24.IR&type=ws&host=expresstv.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔗 Vauth - 481
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.146:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔗 Vauth - 482
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.32:8880?security=none&type=grpc#🔗 Vauth - 483
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.96.238:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 484
+vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@188.114.96.181:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 485
