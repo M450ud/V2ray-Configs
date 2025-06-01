@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
-	"dnsServer" : "",
-	"reconnectTimes" : 2,
-	"randomAlgorithm" : 2,
-	"randomInGroup" : false,
-	"TTL" : 0,
-	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
@@ -603,3 +596,10 @@ trojan://BTns3czXfT@104.21.15.33:2096?security=tls&type=ws&sni=support.sabaparda
 trojan://Aimer@104.17.173.53:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5113
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#US14%201.9MB%2Fs
 trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&path=/olem/ws?&host=foffmelo.com#US15
+trojan://Aimer@154.197.64.104:8443?sni=epcci.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5114
+trojan://xJ6KJem6QIwQ@104.21.71.8:8443?security=tls&type=httpupgrade&sni=shabestan.itn24.ir&path=/🆔@M3HDIO1&host=shabestan.itn24.ir#%E6%9C%AA%E7%9F%A5115
+trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:2096?security=tls&type=ws&sni=MehRnEWs.twn24.Ir&path=/vNF7RJtVepEuGq7R6Cczl&host=mehrnews.twn24.ir#%E6%9C%AA%E7%9F%A5116
+trojan://Aimer@162.159.152.11:443?sni=epmq.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://Aimer@104.16.192.116:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5117
+trojan://amclubs@154.83.2.125:2087?sni=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A5118
+trojan://blue2024@185.176.26.193:443?sni=b.promote.icu#%E6%9C%AA%E7%9F%A5119
