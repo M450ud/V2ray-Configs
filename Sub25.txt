@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://54cf82ae-7e94-4826-f713-459072381ff6@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_527_@Surfboardv2ray
-vless://54cf82ae-7e94-4826-f713-459072381ff6@zmaoz.faculty.ucdavis.edu:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#🇺🇸US_528_@Surfboardv2ray
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.213:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇧🇷BR_529_@Surfboardv2ray
-vless://55520747-311e-4015-83ce-be46e2060ce3@192.0.54.149:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇺🇸US_530_@Surfboardv2ray
 vless://55520747-311e-4015-83ce-be46e2060ce3@211.229.177.55:11007?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇰🇷KR_531_@Surfboardv2ray
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.136:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇦🇹AT_532_@Surfboardv2ray
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.193:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#🇦🇹AT_533_@Surfboardv2ray
@@ -603,3 +599,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_1124_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_1125_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷FR_1126_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880/?type=grpc&encryption=none#🇫🇷FR_1127_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇷FR_1128_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=/BIA_TELEGRAM@ShadowProxy66&type=grpc#🇫🇷FR_1129_@Surfboardv2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI_1130_@Surfboardv2ray
