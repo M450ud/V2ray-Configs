@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.245.53:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev#🔗 Vauth - 1513
 vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.64.84:80?security=none&type=xhttp&host=yyyy-dd-mm-de.global.ssl.fastly.net&path=%2F#🔗 Vauth - 1514
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@88.216.67.250:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔗 Vauth - 1515
 vless://1e4ccb23-7360-4842-b85c-5207e1add36d@104.21.23.63:2095?security=none&type=httpupgrade&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#🔗 Vauth - 1516
@@ -602,4 +603,3 @@ vless://7411ab59-5fac-41bf-947a-0163ea82d568@185.146.173.39:443?security=tls&sni
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.188.225:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔗 Vauth - 2110
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.98.16:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 2111
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?security=none&type=grpc#🔗 Vauth - 2112
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.12.208:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔗 Vauth - 2113
