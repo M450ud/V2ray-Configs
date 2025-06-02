@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001/?type=tcp&encryption=none&flow=&sni=fr.zran.top&fp=chrome&security=reality&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&sid=#🇫🇷FR_980_@Surfboardv2ray
-vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001?security=reality&encryption=none&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&headerType=none&fp=chrome&type=tcp&sni=fr.zran.top#🇫🇷FR_981_@Surfboardv2ray
 vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001?security=reality&encryption=none&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&headerType=none&fp=chrome&type=tcp&sni=fr.zran.top#🇫🇷FR_982_@Surfboardv2ray
 vless://bfe63cc5-412d-4aa7-b04e-75c9d52b5831@www.zula.ir:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#🇨🇦CA_983_@Surfboardv2ray
 vless://c05d6d23-b67b-4f00-ad57-a754a222ea83@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#🇩🇪DE_984_@Surfboardv2ray
@@ -603,3 +601,5 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 			"protocolparam" : "135238:ekBYebTKgsF",
 			"obfs" : "plain",
 			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",

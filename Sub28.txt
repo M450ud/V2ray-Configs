@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://ea17601d-8ebf-4431-b815-4d644821ca7e@kz.mjt000.com:443?sni=kz.mjt000.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ==@92.63.193.243:20#%E6%9C%AA%E7%9F%A555
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.249.79.143:2377#%E6%9C%AA%E7%9F%A556
 ss://YWVzLTI1Ni1nY206VFFRR1dHMDI0VzJCRjZSUA==@156.231.104.19:18009#%E6%9C%AA%E7%9F%A557
 trojan://Aimer@27.50.49.74:2087?security=tls&type=ws&sni=epccd.ambercc.filegear-sg.me&host=epccd.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A558
@@ -603,3 +601,5 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.164:80?security=none&ty
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?security=tls&sni=de02.abvpn.ru&type=ws&host=de02.abvpn.ru&path=%2Fwebsocket#🔗 Vauth - 461
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.25:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔗 Vauth - 462
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@94.140.0.38:443?security=tls&sni=Tp914Rk8Rp.NeWrEtR432aS.iNfO&type=grpc&fp=firefox#🔗 Vauth - 463
+vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&type=ws&host=lv01.abvpn.ru&path=%2Fwebsocket#🔗 Vauth - 464
+vless://77f2d54c-f1bd-46ff-af4c-cc44c72fd25e@104.21.90.78:8080?sni=feng2.vfl83lnn.workers.dev&type=ws&path=%2FProxyIP#🔗 Vauth - 465

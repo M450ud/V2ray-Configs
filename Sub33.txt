@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.148.106.56:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔗 Vauth - 2864
-vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#🔗 Vauth - 2865
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.182.29:443?security=tls&sni=147135011033.sec21org.com&type=raw#🔗 Vauth - 2866
 vless://68509c26-cfad-4dc8-9def-e8190a98d647@162.159.153.2:8880?security=none&type=ws&host=revolutiontime-dailyconfigs.vigilante.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔗 Vauth - 2867
 vless://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.16.163.16:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#🔗 Vauth - 2868
@@ -603,3 +601,5 @@ vless://716e8c06-40e6-41ae-82ca-db79b41112c2@172.66.194.180:443?security=tls&sni
 vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?type=ws&host=ov-canada1.09vpn.com&path=%2Fvless%2F#🔗 Vauth - 3461
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.24.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔗 Vauth - 3462
 vless://1ac72b71-2d33-4c34-cda0-3428474c4467@104.21.5.169:2083?security=tls&flow=xtls-rprx-vision&sni=mas4jd2.shang2025.ggff.net&type=ws&host=mas4jd2.shang2025.ggff.net&path=%2F#🔗 Vauth - 3463
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@162.120.94.51:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔗 Vauth - 3464
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.10.184:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔗 Vauth - 3465
