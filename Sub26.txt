@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://9c02f303-84ec-462b-af82-aeed303faea7@www.speedtest.net:80?mode=auto&path=/&security=none=#🇨🇦CA_770_@Surfboardv2ray
 vless://9cbf8251-71d2-4f48-915a-c3f4c8affe9e@162.55.165.114:2087?security=reality&encryption=none&pbk=j1N8CFNT1gjjlVqLOY3iyZ6GAe5lVpK27tT7sihjXQk&headerType=none&fp=chrome&type=tcp&sni=www.latimes.com#🇩🇪DE_771_@Surfboardv2ray
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.81.17:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🇦🇪AE_772_@Surfboardv2ray
 vless://9de9f5c7-3544-4e60-9781-a794103e2884@104.24.196.20:2086?path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=&encryption=none=#🇨🇦CA_773_@Surfboardv2ray
@@ -602,4 +603,3 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
     {
       "server": "dongtaiwang4.com",
       "server_port": 443,
-      "password": "dongtaiwang.com",
