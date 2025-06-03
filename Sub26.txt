@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?path=/?ed=2048&security=tls&encryption=none&host=vl31.rnd.biz.id&type=ws&sni=vl31.rnd.biz.id#🇨🇦CA_762_@Surfboardv2ray
+vless://9bd19bdd-d39b-4d70-a7ad-6e86ac9cd753@www.parsvds.com:2096?path=/2096/@V2RayyNGVpn&security=tls&alpn=h2,http/1.1&encryption=none&host=rEDzOnE.MirAcLehEaRTbIt.ICu&fp=chrome&type=ws&sni=rEDzOnE.MirAcLehEaRTbIt.ICu#🇨🇦CA_763_@Surfboardv2ray
 vless://9bf25e9e-9290-46a9-ffba-c86c0510d65b@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#🇨🇦CA_764_@Surfboardv2ray
 vless://9c02f303-84ec-462b-af82-aeed303faea7@104.17.148.22:80?mode=auto&path=/?Join_Bade_Channel@JOKERRVPN&security=none&encryption=none&host=mother528.dgclix.ir&type=xhttp#🇨🇦CA_765_@Surfboardv2ray
 vless://9c02f303-84ec-462b-af82-aeed303faea7@www.speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=mother528.dgclix.ir&type=xhttp#🇨🇦CA_766_@Surfboardv2ray
@@ -601,5 +603,3 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
   "global": false,
   "enabled": false,
   "shareOverLan": false,
-  "isDefault": false,
-  "isIPv6Enabled": false,
