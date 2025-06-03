@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://7e38fa80-6cf3-4013-b576-5b3be737fb43@38.180.61.83:25529?security=reality&sni=vultr.com&type=xhttp&path=%2F&fp=chrome&pbk=0grZUQjpy-Y2iQ_QaKJm2MTgJANaxew0iOSQMBffGiU&sid=c4bf2058763803b1#🔗 Vauth - 258
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221#🔗 Vauth - 259
 vless://571b311b-4a34-4792-93f9-a5c0cfa66f66@157.173.127.238:443?security=reality&sni=analytics.google.com&type=raw&fp=chrome&pbk=p2iqEmOs4u682Jz5S-E-s7k8AbsNZbc-mitgU89PRi4&sid=db06#🔗 Vauth - 260
 vless://d2a11ee4-7ede-4e7f-a001-a23e9bb44ff2@140.238.89.224:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=ZMtlGCYlW4xf2_g1ruTqLEw1H57ggWXrb6aAbh029lo&sid=9a89fdfc#🔗 Vauth - 261
@@ -603,3 +602,4 @@ vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?security=tls&sni
 vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.128.84:80?security=none&type=xhttp&host=yyyy-dd-mm-de.global.ssl.fastly.net&path=%2F#🔗 Vauth - 855
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.45.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔗 Vauth - 856
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.212:8880?security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔗 Vauth - 857
+vless://cc7862bc-6b26-4022-97d5-a825ab996442@47.76.218.163:443?sni=hkkkkkkkk.lzj520hxw.dpdns.org&type=ws&host=hkkkkkkkk.lzj520hxw.dpdns.org&allowInsecure=1#🔗 Vauth - 858
