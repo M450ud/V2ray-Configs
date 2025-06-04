@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d2a11ee4-7ede-4e7f-a001-a23e9bb44ff2@140.238.89.224:8443?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=ZMtlGCYlW4xf2_g1ruTqLEw1H57ggWXrb6aAbh029lo&sid=9a89fdfc#🔗 Vauth - 261
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.70:1001?security=reality&sni=pqh41v6.whatstrue.shop&type=tcp&allowInsecure=1#🔗 Vauth - 262
+vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@45.150.174.80:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#🔗 Vauth - 263
+vless://18f06d6d-2e8d-4549-b3a4-cf1bc345348e@213.219.215.89:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#🔗 Vauth - 264
+vless://18f06d6d-2e8d-4549-b3a4-cf1bc345348e@109.120.189.30:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#🔗 Vauth - 265
 vless://4989d49b-652a-4440-ab86-261308e1b40a@185.36.228.137:2087?security=reality&sni=ftp.debian.org&type=tcp&fp=firefox&pbk=H7t1p2QKkswvbFZzHVTRXDGBcvsSnT-r4ToCVUtVPxA&sid=3d59c03b#🔗 Vauth - 266
 vless://e2f5b3d6-de3d-4ff2-f944-5eb4c4c1c8e5@49.12.215.41:18500?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=Q5k60JzPzVODj6lJjQcL3tVsTEM6JkCx4xq9CViktR8&sid=121a22f8#🔗 Vauth - 267
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@5.34.210.175:443?security=reality&flow=xtls-rprx-vision&sni=video.intfreed.ru&type=tcp&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🔗 Vauth - 268
@@ -598,8 +603,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.212:8880?security=none&s
 vless://cc7862bc-6b26-4022-97d5-a825ab996442@47.76.218.163:443?sni=hkkkkkkkk.lzj520hxw.dpdns.org&type=ws&host=hkkkkkkkk.lzj520hxw.dpdns.org&allowInsecure=1#🔗 Vauth - 858
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?type=ws&host=ana-SErVICe.xAbjCDZ.wORkErs.deV&path=%2F1Y6MN5DFV8zB82Ai%3Fed#🔗 Vauth - 859
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.214:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔗 Vauth - 860
-vless://428287e2-0a51-42d5-89a5-d07f5f10a481@151.101.0.155:80?security=none&type=ws&host=taxi.ir#🔗 Vauth - 861
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.196:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 862
-vless://22f5e96c-ff6f-4562-a7d2-db725e4d331a@15.204.0.48:2087?security=tls&sni=best22.floorshoping22.com&type=grpc&fp=chrome&alpn=http%2F1.1&allowInsecure=1#🔗 Vauth - 863
-vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.34.159:443?security=tls&sni=1QQsSS.2031.PP.UA&type=ws&host=1qqsss.2031.pp.ua&alpn=http/1.1#🔗 Vauth - 864
-vless://597e868b-6e42-4120-bcd9-32e193b950f9@104.16.239.254:443?sni=fm3.pages.dev&type=ws&host=fm3.pages.dev&allowInsecure=0#🔗 Vauth - 865
