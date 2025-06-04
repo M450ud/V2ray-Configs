@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.157.40.120-8080+%7C+90.69ms
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#US%F0%9F%87%BA%F0%9F%87%B8+%7C+23.157.40.120-8091+%7C+85.53ms
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#US%F0%9F%87%BA%F0%9F%87%B8+%7C+216.39.248.133-7001+%7C+19.46ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig58.usecharge.ir:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+freakconfig58.usecharge.ir-443+%7C+90.66ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig59.usecharge.ir:443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+freakconfig59.usecharge.ir-443+%7C+196.96ms
@@ -601,5 +603,3 @@ vless://cb549aa7-7b19-42ad-9968-2cffd7ed8c89@hajlab.ucdavis.edu:443?security=tls
 vless://cb549aa7-7b19-42ad-9968-2cffd7ed8c89@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.13ms
 vless://cb549aa7-7b19-42ad-9968-2cffd7ed8c89@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net#US🇺🇸 | hajlab.ucdavis.edu-443 | 7.3ms
 vless://c8b413ab-62fd-4f36-8ed9-d962ac3e63c8@104.25.119.97:443?path=%2Fvless&security=tls&encryption=none&alpn=h2&host=fi1.vless.site&fp=firefox&type=ws&sni=fi1.vless.site#FI🇫🇮 | fi1.vless.site-443 | 139.31ms
-vless://c72d7a62-8123-45ec-973d-56df68777a33@188.164.158.246:2053?encryption=none&security=tls&sni=flnewconect3.fragmentscan.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#FI🇫🇮 | flnewconect3.fragmentscan.xyz-2053 | 165.72ms
-vless://c72d7a62-8123-45ec-973d-56df68777a33@185.148.106.192:2053?encryption=none&security=tls&sni=flnewconect3.fragmentscan.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#FI🇫🇮 | flnewconect3.fragmentscan.xyz-2053 | 137.65ms
