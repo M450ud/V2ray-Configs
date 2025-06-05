@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+{
+	"configs" : [
+		{
+			"remarks" : "www.dongtaiwang.com 洛杉矶",
+			"id" : "AE8FE350F24E3DDCB7CC7D5F1846D85A",
+			"server" : "liaoningddns.xyz",
+			"server_port" : 11421,
 			"server_udp_port" : 0,
 			"password" : "Fhbe0z",
 			"method" : "chacha20-ietf",
@@ -596,10 +603,3 @@ trojan://Aimer@104.19.50.228:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9
 trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A588
 trojan://Aimer@162.159.135.47:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A589
 trojan://Aimer@104.19.53.204:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A590
-trojan://Aimer@188.166.162.201:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A591
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxNiIsImFkZCI6IjE5OC4yNTEuODMuMjA4IiwicG9ydCI6IjQ1Mjk0IiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTYifQ==
-trojan://4b132e2b-24b1-418b-90e9-a11b619a799b@172.67.150.169:443?security=tls&type=ws&sni=m1assddr.777259.xyz&path=/Hnko4qt8WwmcpejJLlDlbpi&host=m1assddr.777259.xyz#%E6%9C%AA%E7%9F%A592
-trojan://Aimer@206.238.236.8:2096?security=tls&type=ws&sni=agept.ambercc.filegear-sg.me&host=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A593
-trojan://Aimer@27.50.49.166:8443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A594
-trojan://fnufMt%3AsQ%26rC0HUu@172.66.44.172:2083?security=tls&type=ws&sni=joinmAHDIsERVER-6vv.PaGeS.dEv&host=joinmahdiserver-6vv.pages.dev#%E6%9C%AA%E7%9F%A595
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.45:2377#TW2
