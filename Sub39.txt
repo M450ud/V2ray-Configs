@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.4.8:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔗 Vauth - 5799
 vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.22.133:443?security=tls&sni=1SsdDdfFffHhHJjJJ.20220420.PP.ua&type=ws&host=1ssdddffffhhhjjjj.20220420.pp.ua&alpn=http/1.1#🔗 Vauth - 5800
 vless://401374e6-df77-41fb-f638-dad8184f175b@86.38.214.158:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔗 Vauth - 5801
 vless://09486821-5166-4b4c-806b-80c1c8fb101a@104.16.69.223:2053?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu#🔗 Vauth - 5802
@@ -602,4 +603,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.216.13:443?security=tls&sni
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@195.85.23.58:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔗 Vauth - 6396
 vless://5f5fe97a-73ee-4584-87cb-1e5cd510d572@104.21.39.204:443?security=tls&sni=nY.360832.xYz&type=ws&host=ny.360832.xyz&path=%2FmxgPEgOLj8iAp1tHdIGP3&fp=chrome&alpn=http%2F1.1#🔗 Vauth - 6397
 vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.67.134.218:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev&path=%2F%3Fed%3D2048#🔗 Vauth - 6398
-vless://5389571a-da53-47b1-9ea1-06eaab48f07f@140.248.149.43:80?type=ws&host=JoinBede--Eliv2-Ray.iR&path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY----Channel-ELiV2RAY%3Fed%3D2048#🔗 Vauth - 6399
