@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"udp_over_tcp" : false
-		}
-	],
-	"index" : 0,
-	"random" : true,
-	"sysProxyMode" : 3,
-	"shareOverLan" : false,
-	"localPort" : 1080,
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
-	"dnsServer" : "",
 	"reconnectTimes" : 2,
 	"randomAlgorithm" : 2,
 	"randomInGroup" : false,
@@ -603,3 +593,13 @@ trojan://Aimer@172.67.187.145:2083?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7
 trojan://Aimer@27.50.49.234:8443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A553
 trojan://Aimer@27.50.48.186:2083?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A554
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Zjc3YzQ3NS1iMTkyLTQ5ZWEtOWFiYi1iMDI5NTRhYzViNjQ=@freem.vidalith.com:31113#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.15.232:443?sni=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.96:2377#TW
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.134:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A555
+trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@172.67.73.163:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#%E6%9C%AA%E7%9F%A556
+trojan://blue2024@104.19.90.210:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A557
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A558
+trojan://Aimer@154.211.8.47:2096?sni=epms.ambercc.filegear-sg.me#US11
+trojan://Aimer@23.95.215.205:8443?sni=epme.ambercc.filegear-sg.me#US12
+ss://YWVzLTI1Ni1nY206ODY1YTIzZjMtNDQ4MS00NTRhLTkxNWMtN2Q1Mjc5ZmE3YzA3@183.60.254.175:30009#%E6%9C%AA%E7%9F%A559
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRzhzaldzU1d3djl1bDZYMGJPMHJD@91.236.230.200:24542#US13

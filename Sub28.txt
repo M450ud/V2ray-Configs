@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_1015_@Surfboardv2ray
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_1016_@Surfboardv2ray
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_1017_@Surfboardv2ray
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=/?ed=2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🇨🇦CA_1018_@Surfboardv2ray
-vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.147.22:80?mode=auto&path=/?Join_Bade_Channel@JOKERRVPN&security=none&encryption=none&host=mother521.dgclix.ir&type=xhttp#🇨🇦CA_1019_@Surfboardv2ray
-vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.148.22:80?mode=auto&path=/?Join_Bade_Channel@JOKERRVPN&security=none&encryption=none&host=mother521.dgclix.ir&type=xhttp#🇨🇦CA_1020_@Surfboardv2ray
-vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@www.speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=mother521.dgclix.ir&type=xhttp#🇨🇦CA_1021_@Surfboardv2ray
-vless://baaaccb-acba-cbaa-abcd-bacaabcccabb@127.0.0.1:2080?security=tls&type=tcp#_1022_@Surfboardv2ray
-vless://baadf496-921b-41b1-a7ae-fde0ddc6793d@140.82.54.120:443/?type=tcp&security=reality&pbk=0O2wxSFr76Y9Sp2y5Bc1shI5yA1rkp1zKHZbkKsOE3E&fp=chrome&sni=*.zarairan.top&sid=28e21203&spx=/&flow=xtls-rprx-vision#🇫🇷FR_1023_@Surfboardv2ray
-vless://baf307cd-8a04-4189-9878-3a750ab8195b@84.201.20.248:45868?security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=Xf_flAxrxjR_kM0e6StsmGy3h5a-PDoYvYJrfP4KUTQ&fp=chrome&spx=/&type=grpc&serviceName=@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod-@FergalVpnMod&sni=google.com&sid=7f#🇩🇪DE_1024_@Surfboardv2ray
 vless://bb03cf22-5e68-4e21-cb14-deaac7143593@fl.blueberrynetwork.website:777?encryption=none&security=none&type=ws#🇫🇮FI_1025_@Surfboardv2ray
 vless://bb03cf22-5e68-4e21-cb14-deaac7143593@fl.blueberrynetwork.website:777?encryption=none&security=none&type=ws#🇫🇮FI_1026_@Surfboardv2ray
 vless://bb03cf22-5e68-4e21-cb14-deaac7143593@us.blueberrynetwork.website:777?encryption=none&security=none&type=ws#🇺🇸US_1027_@Surfboardv2ray
@@ -603,3 +593,13 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
 			"group" : "",
 			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
