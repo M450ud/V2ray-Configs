@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.138.187:443/?type=ws&encryption=none&flow=&host=18o0.7282728.xyz&path=/6r23FpdcA4KNAXX&security=tls&sni=18o0.7282728.xyZ&alpn=http/1.1#🇨🇦CA_1072_@Surfboardv2ray
+vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?security=none&encryption=none&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&type=ws&sni=patient-sunset-f000-ppal03.cijej53213.workers.dev#🇨🇦CA_1073_@Surfboardv2ray
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&security=reality&encryption=none&pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&fp=chrome&spx=/DRAGON&type=grpc&sni=www.target.com&sid=2b2e#🇩🇪DE_1074_@Surfboardv2ray
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&encryption=none&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&fp=chrome&type=grpc&sni=www.target.com&sid=bc6f0833#🇫🇮FI_1075_@Surfboardv2ray
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#🇫🇮FI_1076_@Surfboardv2ray
+vless://cbfd8fd5-2ac2-4269-e41f-d909bc01707a@104.24.196.20:2086?type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=wwW.speedtesT.net.eLectrolUxxv.ir.&type=httpupgrade#🇨🇦CA_1077_@Surfboardv2ray
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@162.159.0.33:443?path=/Telegram@v2rayngzendegimamad@v2rayngzendegimamad&security=tls&encryption=none&host=d4.medicaldream.ir&fp=chrome&type=ws&sni=d4.medicaldream.ir#🇨🇦CA_1078_@Surfboardv2ray
+vless://cd24511a-c6d9-4147-8ae4-9b355e0729a8@www.zula.ir:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#🇨🇦CA_1079_@Surfboardv2ray
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.125.217.104:8443?path=/TG@ShadowProxy66?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=jj.wxgqlfx.cn&fp=chrome&type=ws&sni=jj.wxgqlfx.cn#🇷🇺RU_1080_@Surfboardv2ray
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.244.49.103:443?path=/TG@ShadowProxy66?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=jj.wxgqlfx.cn&fp=chrome&type=ws&sni=jj.wxgqlfx.cn#🇳🇱NL_1081_@Surfboardv2ray
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.87.48.78:8443?path=/TG@ShadowProxy66?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=jj.wxgqlfx.cn&fp=chrome&type=ws&sni=jj.wxgqlfx.cn#🇷🇺RU_1082_@Surfboardv2ray
@@ -595,11 +603,3 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 			"obfsparam" : "f4b6417431.microsoft.com",
 			"remarks_base64" : "d3d3LmRvbmd0YWl3YW5nLmNvbSDmtJvmnYnnn7Y",
 			"group" : "",
-			"enable" : true,
-			"udp_over_tcp" : false
-		}
-	],
-	"index" : 0,
-	"random" : true,
-	"sysProxyMode" : 3,
-	"shareOverLan" : false,
