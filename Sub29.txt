@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"protocolparam" : "571195:iiOdtO",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
 			"udp_over_tcp" : false
 		},
 		{
@@ -597,9 +603,3 @@ trojan://Aimer@5.182.84.66:2083?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F
 trojan://juzi@198.244.246.67:8443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A522
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjMiLCJhZGQiOiI1LjE4Mi4zNy4yMzEiLCJwb3J0IjoiNDk2NjQiLCJpZCI6IjkzOTU0NzRjLWUyYTEtNDU2NS1iYTU2LWMxNmU3MzczYzRjNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjMifQ==
 trojan://Aimer@27.50.49.47:2083?sni=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A524
-trojan://trojan@104.26.13.31:8443?security=tls&type=ws&sni=qianlang.pages.dev&host=qianlang.pages.dev#%E6%9C%AA%E7%9F%A525
-trojan://Aimer@162.159.44.127:443?sni=epma.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A526
-trojan://Aimer@104.16.197.190:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A527
-trojan://auto@104.25.254.4:2087?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev&host=trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A528
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#%E6%9C%AA%E7%9F%A529
-trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.138.187:443?sni=CdVftY.7282728.xYz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
