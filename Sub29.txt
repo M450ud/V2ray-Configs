@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
 			"obfs" : "plain",
 			"obfsparam" : "dad31135238.wns.windows.com",
 			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
@@ -599,7 +603,3 @@ trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.232:443?security=tls&t
 trojan://Aimer@104.17.149.205:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A528
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@104.21.23.115:443?sni=1cc.852224.ggff.net#%E6%9C%AA%E7%9F%A529
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.21:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#US9
-trojan://Aimer@172.67.157.174:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A530
-trojan://5dc6fa05-a601-aba6-7761-ecde22d2b0fc@99dfcb82-sxhts0-t5qufl-8n27.cu.plebai.net:15229?sni=99dfcb82-sxhts0-t5qufl-8n27.cu.plebai.net#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2376#US10%2059.6KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTNlNTUyYy02ZDY2LTQ4MTgtYmE1ZC04ZmJlOTUwNTQ2ZmM=@freem.vidalith.com:31213#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
