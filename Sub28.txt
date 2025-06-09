@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://c2db147c-fc6a-4840-a9d6-c154048f0e1e@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#🇩🇪DE_1047_@Surfboardv2ray
-vless://c2dd36a3-bf3b-4fcc-a7e1-cb08eeb0b22c@146.75.122.133:80?mode=auto&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&encryption=none&host=jointo_unlimiteddev.ir&type=xhttp#🇩🇪DE_1048_@Surfboardv2ray
-vless://c2dd36a3-bf3b-4fcc-a7e1-cb08eeb0b22c@151.101.38.133:80?mode=auto&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=&encryption=none=#🇳🇱NL_1049_@Surfboardv2ray
-vless://c3914ef7-1337-4d3e-a9ec-d8908314e724@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&host=test0216.dgclix.ir&type=xhttp#🇨🇦CA_1050_@Surfboardv2ray
-vless://c43385ba-bce6-4fb6-a9b4-5411e031547e@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#🇮🇷IR_1051_@Surfboardv2ray
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1052_@Surfboardv2ray
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1053_@Surfboardv2ray
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135010072.sec21org.com#🇺🇸US_1054_@Surfboardv2ray
@@ -603,3 +598,8 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 	"isHideTips" : true,
 	"nodeFeedAutoUpdate" : true,
 	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
