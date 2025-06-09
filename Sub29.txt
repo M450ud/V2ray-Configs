@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-			"udp_over_tcp" : false
-		}
-	],
-	"index" : 0,
-	"random" : true,
-	"sysProxyMode" : 3,
-	"shareOverLan" : false,
-	"localPort" : 1080,
-	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
-	"dnsServer" : "",
-	"reconnectTimes" : 2,
-	"randomAlgorithm" : 2,
-	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
 	"proxyRuleMode" : 2,
@@ -603,3 +590,16 @@ trojan://Aimer@172.67.148.225:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%
 trojan://GlxLO2T3Gz@104.21.48.1:2096?security=tls&type=ws&sni=tabnak.twn24.ir&path=/рЯЖФ@M3HDIO1&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A548
 trojan://Aimer@104.16.12.162:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A549
 trojan://Aimer@104.18.7.58:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A550
+trojan://Aimer@172.66.41.253:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A551
+trojan://Aimer@154.197.64.206:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A552
+trojan://Aimer@27.50.48.61:2083?sni=epmq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A553
+trojan://Aimer@156.225.72.199:2096?sni=epme.ambercc.filegear-sg.me#US13
+trojan://U%26YcI8%3E7ep%7D%3CeT8%5D@104.17.148.22:8443?security=tls&type=ws&sni=jOInMaHdisErVeR-Ys7.pagEs.DEV&host=joinmahdiserver-ys7.pages.dev#%E6%9C%AA%E7%9F%A554
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US14
+trojan://Aimer@104.26.6.228:443?sni=epms.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A555
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#US15%202.0MB%2Fs
+trojan://Aimer@104.16.61.236:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A556
+trojan://Aimer@172.67.155.203:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A557
+trojan://juzi@104.25.252.185:8443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A558
+trojan://Aimer@104.18.123.117:2053?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A559
+trojan://Aimer@162.159.141.233:443?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A560
