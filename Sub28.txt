@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vless://VPNCUSTOMIZE@5.75.211.107:443?mode=gun&security=reality&encryption=none&pbk=SR1l2DnRYsaHjArnoxRapnZ8CIzxDF8dYRyzGIRz1DQ&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=www.speedtest.net&sid=74110c08#🇩🇪DE_909_@Surfboardv2ray
+vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ&fp=chrome&spx=/&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#🇬🇧GB_910_@Surfboardv2ray
+vless://VPNCUSTOMiZE@188.114.98.224:2095?path=/V2rayCUSTOMIZE?ed=1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#🇨🇦CA_911_@Surfboardv2ray
+vless://a039eb43-0019-4753-aeed-bfc9b895ddab@join.FilTerK0sH.fastly80-3.hosting-ip.com:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&path=/telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE?ed=2048&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#🇺🇸US_912_@Surfboardv2ray
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇺🇸US_913_@Surfboardv2ray
 vless://a1b165e7-2910-4193-b07b-05c93d6f050c@151.101.130.133:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Lightning.ir&type=ws#🇺🇸US_914_@Surfboardv2ray
 vless://a1eba7cc-e61e-44cf-e7e7-811090cab9ac@104.24.196.20:2086?type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&type=grpc&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&host=wwW.speedtesT.net.eLectrolUxxv.ir.&type=httpupgrade#🇨🇦CA_915_@Surfboardv2ray
 vless://a350d476-474d-4d67-c50a-7f06936cd484@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#🇨🇦CA_916_@Surfboardv2ray
@@ -598,8 +603,3 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 			"password" : "Uk92CS",
 			"method" : "aes-256-cfb",
 			"protocol" : "auth_aes128_sha1",
-			"protocolparam" : "571195:iiOdtO",
-			"obfs" : "http_simple",
-			"obfsparam" : "download.windowsupdate.com",
-			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
-			"group" : "",
