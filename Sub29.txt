@@ -14,6 +14,23 @@
 			"group" : "",
 			"enable" : true,
 			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "dongtaiwang.com",
+			"id" : "E5904C6BDD4AA395CF56ED1A1E504C00",
+			"server" : "aiavnd1.vip.conectinnode.info",
+			"server_port" : 1611,
+			"server_udp_port" : 0,
+			"password" : "mtbv8n",
+			"method" : "chacha20-ietf",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "135238:ekBYebTKgsF",
+			"obfs" : "plain",
+			"obfsparam" : "dad31135238.wns.windows.com",
+			"remarks_base64" : "ZG9uZ3RhaXdhbmcuY29t",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
 		}
 	],
 	"index" : 0,
@@ -586,20 +603,3 @@ trojan://Pooria@104.17.148.22:443?security=tls&type=ws&sni=301.pOORiAm.ir&path=/
 trojan://juzi@104.248.241.182:443?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A530
 trojan://4eab66c3-c95f-42af-b3f7-bf7f2d5b06d6@157.254.20.4:443?security=tls&type=tcp&sni=new.download.the-best-airport.com#HK2
 trojan://Aimer@172.82.16.99:443?sni=epmd.ambercc.filegear-sg.me#US5
-trojan://Aimer@162.159.135.75:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A531
-trojan://Aimer@46.254.93.175:2083?security=tls&type=ws&sni=ageph.ambercc.filegear-sg.me&path=/&host=ageph.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A532
-trojan://vip@104.18.11.143:443?security=tls&type=ws&sni=heihu880.pages.dev&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A533
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A534
-trojan://Aimer@104.19.62.94:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A535
-trojan://123456@104.25.165.81:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#%E6%9C%AA%E7%9F%A536
-trojan://amclubs2024@198.62.62.156:443?security=tls&type=ws&sni=tr.amclub.us.kg&host=tr.amclub.us.kg#US6
-trojan://Aimer@154.211.8.152:2053?sni=epmw.ambercc.filegear-sg.me#US7
-ss://YWVzLTI1Ni1nY206RFcxQjQ2UFRXUzNYU1BZVQ==@156.245.190.12:15003#HK3
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&type=ws&sni=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq&host=series-v1.samanehha.co#%E6%9C%AA%E7%9F%A537
-trojan://NISHIKUITAN111@141.101.122.171:443?#%E6%9C%AA%E7%9F%A538
-trojan://Aimer@104.16.159.28:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A539
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.96:7002#US8%20348.5KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVM5IiwiYWRkIjoiMTk4LjI1MS44My4yMDgiLCJwb3J0IjoiNDUyNzMiLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVM5In0=
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&type=tcp&sni=bangladeshipatri.com#%E6%9C%AA%E7%9F%A540
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443?sni=icecream.955850.xyz#US10
-trojan://bpb-trojan@154.211.8.72:443?type=ws&sni=skwygx.top&path=/tr&host=skwygx.top#US11
