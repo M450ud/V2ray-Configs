@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiRGUyLnZtZXNzLnNpdGUuIiwiaWQiOiIxZTk5ODkzZC04MDQ2LTQ4MjUtOWQyOC1mNmRlOTExNDczMzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJAdnBuY2xhc2hmYSAtIDQ3XG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ1cy0yMS5oaWh1Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibXRuLnptIiwiaWQiOiI4MTg3N2M4MC1iOTdkLTExZWYtYjIzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYW1pNWU5amwiLCJwb3J0IjoiODAiLCJwcyI6IkB2cG5jbGFzaGZhIC0gNDZcbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzOC4zMy4yMy45OCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy4zODc0MDA2Ny54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4MTIzNjc3ODgiLCJwb3J0IjoiMzAwMDMiLCJwcyI6IkB2cG5jbGFzaGZhIC0gNDVcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzOC4zMy41Ni4xNiIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy41Njk5NDE4Ny54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4OTg1MjE5ODYiLCJwb3J0IjoiMzgwMDIiLCJwcyI6IkB2cG5jbGFzaGZhIC0gNDRcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzOC4zMy41Ni41NSIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy4yNDAwNjg1Ny54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MzU4OTg5MzYxNzMiLCJwb3J0IjoiMzcwMDEiLCJwcyI6IkB2cG5jbGFzaGZhIC0gNDNcbiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -601,5 +603,3 @@ trojan://telegram-id-privatevpns@13.50.254.223:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.50.254.223:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@vpnclashfa - 46
 trojan://telegram-id-privatevpns@13.50.143.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 45
 trojan://telegram-id-privatevpns@13.49.169.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 44
-trojan://telegram-id-privatevpns@13.48.80.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 43
-trojan://telegram-id-privatevpns@13.48.143.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 42
