@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://c31c19aa-0e16-4422-9ed2-536c9f0de4b3@151.101.128.155:80?security=none&type=ws&host=namehmain.com&path=/TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray?ed=2048#🇺🇸US_1013_@Surfboardv2ray
-vless://c31c19aa-0e16-4422-9ed2-536c9f0de4b3@151.101.194.133:80?security=none&type=ws&host=namehmain.com&path=/TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray?ed=2048#🇺🇸US_1014_@Surfboardv2ray
-vless://c39d56fe-8c97-4aa1-a2f8-c0e40ef40219@151.101.64.155:80?mode=auto&path=/@vistav2ray?ed=2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#🇺🇸US_1015_@Surfboardv2ray
-vless://c39d56fe-8c97-4aa1-a2f8-c0e40ef40219@huffingtonpost.es:80?mode=auto&path=/@vistav2ray?ed=2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#🇺🇸US_1016_@Surfboardv2ray
-vless://c39d56fe-8c97-4aa1-a2f8-c0e40ef40219@speedtest.net:80?mode=auto&path=/@vistav2ray?ed=2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#🇺🇸US_1017_@Surfboardv2ray
-vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1018_@Surfboardv2ray
-vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Poshtiban.ehsa0535.top#🇨🇦CA_1019_@Surfboardv2ray
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#🇺🇸US_1020_@Surfboardv2ray
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#🇺🇸US_1021_@Surfboardv2ray
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#🇺🇸US_1022_@Surfboardv2ray
@@ -603,3 +596,10 @@ vless://vpnowl@owl.applegrafix.com:443?mode=gun&serviceName=@V2rayNGcloud-@V2ray
 	"proxyType" : 0,
 	"proxyHost" : "",
 	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
