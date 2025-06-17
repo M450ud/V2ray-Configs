@@ -3,9 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online#%20%7C%209.83Mb
-trojan://OAj6Zba9QLK9HxrV@us1.petal.news:31443#Relay_%20%7C%202.30Mb
-trojan://ypDt8RkT7J@89.187.181.172:43118#Pool_%20%7C36.57Mb
+vmess://eyJhZGQiOiJjZi5mb3ZpLnRrIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4e68J+HuFVTXzc1IHwxOS42NE1iIiwicG9ydCI6NDQzLCJpZCI6ImJmNjc0MzdlLTZjOTAtNDVjYS1hYmMyLWM3MjQwYTVjZTJhYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZm94cG9sLmZvdmkudGsiLCJwYXRoIjoiL2Vpc2FzcWEiLCJ0bHMiOiJ0bHMifQ==
+vmess://eyJhZGQiOiJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4ep8J+HqkRFXzc2IHwzMC41OE1iIiwicG9ydCI6MjA5NiwiaWQiOiJkYzEyN2M1ZS1jNmY0LTQ2NjUtYTRiOS00ZGRlZjlhNTQwM2QiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImRlMDEuc2gtY2xvdWRmbGFyZS5zYnMiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+vmess://eyJhZGQiOiIxMDQuMjEuMTEyLjEiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+PgVpaLfCfh6nwn4eqREVfNzcgfDM3LjMzTWIiLCJwb3J0IjoyMDk2LCJpZCI6ImIzOTI4ZjhkLWVhODEtNGQ3NS1iY2VjLTQwMTZhMDcyYWRmZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0=
+
+trojan://172b2279-f7f5-4542-ab6c-9e96ad7dd5be@ni.mjt000.com:443?sni=ni.mjt000.com#Relay_%F0%9F%87%A6%F0%9F%87%BAAU-%F0%9F%87%AE%F0%9F%87%B3IN_04%20%7C%200.86Mb
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online#%F0%9F%87%A9%F0%9F%87%AADE_11%20%7C%209.83Mb
+trojan://OAj6Zba9QLK9HxrV@us1.petal.news:31443#Relay_%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%87%BA%F0%9F%87%B8US_55%20%7C%202.30Mb
+trojan://ypDt8RkT7J@89.187.181.172:43118#Pool_%F0%9F%87%BA%F0%9F%87%B8US_56%20%7C36.57Mb
 
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-15-DEY-1403 🕑 06:27
@@ -598,8 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@ak1686.www.outline.network
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.43.216:110#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
 vmess://eyJhZGQiOiIxMDQuMjYuMTQuODUiLCJhaWQiOiIwIiwiaG9zdCI6InZhcmRhMi5tYW53ZS5pciIsImlkIjoiYTNjYjgwMDgtMDJmMy00MmJlLTgyMWItM2FmNTViYjc0YWRjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiLwn5K7IENoYW5uZWwg8J+GlCA6IEBBbGllblZQTjQwMiDwn5G9Iiwic2N5IjoiYXV0byIsInNuaSI6InZhcmRhMi5tYW53ZS5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.110.240:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vmess://eyJhZGQiOiIxMDcuMTg2LjIwMC4xMjciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMmRhMmZiOWMtZDkwMy00NTUwLWJmNzUtOTk5MmNjMjgyYmQxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0MzIxMyIsInBzIjoi8J+SuyBDaGFubmVsIPCfhpQgOiBAQWxpZW5WUE40MDIg8J+RvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
-trojan://00ad4330-8d40-11ee-8d1a-1239d0255272@172.67.204.84:443?security=tls&sni=us1.test3.net&type=ws&path=/howdy&host=us1.test3.net#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
