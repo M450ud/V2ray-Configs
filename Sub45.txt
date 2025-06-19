@@ -3,9 +3,73 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
+  
+    Browser
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Chicago</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+  </a>
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">paste.gg</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Host
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+  
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>The web server reported a bad gateway error.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    <p class="mb-6">Please try again in a few minutes.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">952403345bb23ef3</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">52.254.4.86</span>
+        <span class="hidden" id="cf-footer-ip">23.96.238.10</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -539,67 +603,3 @@ vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=t
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-2-2.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G2 - 443
 
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-3.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G3 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-4-4.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G4 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-5-5.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G5 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-6-6.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G6 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-7-2.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G7 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-8-8.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G8 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-9-9.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G9 - 443
-
-vless://f2004126-5865-4980-b6dd-2211dbaadf10@rayan-gc.negar.us.kg:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=m-10.mitra.msnegar.eu.org&encryption=none#Rayan - GC - G10 - 443
-
-hy2://37c9e3af-3128-45ca-a658-b4e3c20e7fa2@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://37c9e3af-3128-45ca-a658-b4e3c20e7fa2@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-hy2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-hy2://09f8d33b-62ae-4cb4-89eb-00e9570f30a6@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://7a875369-b582-425a-9f97-db3a432b444c@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://7a875369-b582-425a-9f97-db3a432b444c@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-hy2://7808b21b-b9b4-49f9-b0a8-8f507be11629@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://7808b21b-b9b4-49f9-b0a8-8f507be11629@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-hy2://f901861b-6491-450c-b500-606b2e921625@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-hy2://f901861b-6491-450c-b500-606b2e921625@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://5eaa121d-4362-444d-8219-29b02c35303a@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://5eaa121d-4362-444d-8219-29b02c35303a@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-hy2://729922eb-2020-40a1-89f9-6eb97abcaa02@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-hy2://729922eb-2020-40a1-89f9-6eb97abcaa02@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://0495fe07-c7fe-4af6-9827-069b32457110@151.249.104.35:34623?insecure=1&sni=dxobg4azmk.gafnode.sbs#Prague-GetAFreeNode
-hy2://0495fe07-c7fe-4af6-9827-069b32457110@107.172.235.75:47443?insecure=1&sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
-
-
-
-vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6Ijc4MDhiMjFiLWI5YjQtNDlmOS1iMGE4LThmNTA3YmUxMTYyOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFAxIiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6Ijc4MDhiMjFiLWI5YjQtNDlmOS1iMGE4LThmNTA3YmUxMTYyOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6ImY5MDE4NjFiLTY0OTEtNDUwYy1iNTAwLTYwNmIyZTkyMTYyNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFAyIiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6ImY5MDE4NjFiLTY0OTEtNDUwYy1iNTAwLTYwNmIyZTkyMTYyNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjA5ZjhkMzNiLTYyYWUtNGNiNC04OWViLTAwZTk1NzBmMzBhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFAzIiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjA5ZjhkMzNiLTYyYWUtNGNiNC04OWViLTAwZTk1NzBmMzBhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjVlYWExMjFkLTQzNjItNDQ0ZC04MjE5LTI5YjAyYzM1MzAzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFA0Iiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjVlYWExMjFkLTQzNjItNDQ0ZC04MjE5LTI5YjAyYzM1MzAzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBNCIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjcyOTkyMmViLTIwMjAtNDBhMS04OWY5LTZlYjk3YWJjYWEwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFA1Iiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjcyOTkyMmViLTIwMjAtNDBhMS04OWY5LTZlYjk3YWJjYWEwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjA0OTVmZTA3LWM3ZmUtNGFmNi05ODI3LTA2OWIzMjQ1NzExMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFA2Iiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjA0OTVmZTA3LWM3ZmUtNGFmNi05ODI3LTA2OWIzMjQ1NzExMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTEuMjQ5LjEwNC4zNSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjdhODc1MzY5LWI1ODItNDI1YS05Zjk3LWRiM2E0MzJiNDQ0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzQ2NzEiLCJwcyI6IlJheWFuIC0gR0FGTiAtIFA3Iiwic2N5IjoiYXV0byIsInNuaSI6ImdhZm4uc2FoZWwudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDcuMTcyLjIzNS43NSIsImFpZCI6IjAiLCJob3N0IjoiZ2Fmbm9kZS5zYnMiLCJpZCI6IjdhODc1MzY5LWI1ODItNDI1YS05Zjk3LWRiM2E0MzJiNDQ0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNDc0MDQiLCJwcyI6IlJheWFuIC0gR0FGTiAtIExBNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnYWZuLnNhaGVsLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-
-
-
-Warp Wireguard :
-
-
-wireguard://mFBdA7VyNMOBsWdqpG4i%2BNNCvjfW6aEtkpyYwFxcplA%3D@162.159.192.0:3854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=158%2C89%2C240&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W1
-
-wireguard://mFBdA7VyNMOBsWdqpG4i%2BNNCvjfW6aEtkpyYwFxcplA%3D@162.159.192.0:934?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=158%2C89%2C240&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W2
-
-wireguard://mFBdA7VyNMOBsWdqpG4i%2BNNCvjfW6aEtkpyYwFxcplA%3D@162.159.192.106:934?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=158%2C89%2C240&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W3
-
-wireguard://mFBdA7VyNMOBsWdqpG4i%2BNNCvjfW6aEtkpyYwFxcplA%3D@162.159.192.129:3854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=158%2C89%2C240&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W4
-
-wireguard://kHfZPDVOpqUPMcKN9ocd3Z%2B%2FFFfCBNhQRdDRvBSaCl0%3D@162.159.195.244:7152?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=92%2C17%2C133&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W5
