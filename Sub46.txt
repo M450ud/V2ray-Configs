@@ -3,16 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-                <span class="inline-block">Bad gateway</span>
-                <span class="code-label">Error code 502</span>
-            </h1>
             <div>
                 Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-06-20 19:16:10 UTC</div>
+            <div class="mt-3">2025-06-20 20:22:06 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -41,7 +35,7 @@
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Ashburn</span>
+  <span class="md:block w-full truncate">San Jose</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
   <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -87,12 +81,12 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">952d99593e5805bc</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">952df9ef5eb4eb21</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.200.8.20</span>
+        <span class="hidden" id="cf-footer-ip">104.42.29.153</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -131,7 +125,7 @@
             <div>
                 Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
             </div>
-            <div class="mt-3">2025-06-20 19:16:10 UTC</div>
+            <div class="mt-3">2025-06-20 20:22:06 UTC</div>
         </header>
         <div class="my-8 bg-gradient-gray">
             <div class="w-240 lg:w-full mx-auto">
@@ -160,7 +154,7 @@
     <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
     </a>
   </div>
-  <span class="md:block w-full truncate">Ashburn</span>
+  <span class="md:block w-full truncate">San Jose</span>
   <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
   <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=paste.gg" target="_blank" rel="noopener noreferrer">
     Cloudflare
@@ -206,12 +200,12 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">952d995b7c71c950</strong></span>
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">952df9f26f16cfe5</strong></span>
       <span class="cf-footer-separator sm:hidden">&bull;</span>
       <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
         Your IP:
         <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">172.200.8.20</span>
+        <span class="hidden" id="cf-footer-ip">104.42.29.153</span>
         <span class="cf-footer-separator sm:hidden">&bull;</span>
       </span>
       <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=paste.gg" id="brand_link" target="_blank">Cloudflare</a></span>
@@ -603,3 +597,9 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.66.213:8880?encryption=none&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@27.50.48.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#VL-0327-053
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?encryption=none&security=none&sni=coco.mahmoodchitooz.dpdns.org&type=ws&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#VL-0327-054
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#VL-0327-055
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.44.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#VL-0327-056
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.105.163.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#VL-0327-057
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@170.114.46.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#VL-0327-058
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@80.93.202.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#VL-0327-059
+vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?encryption=none&security=none&sni=lot.sosant.dpdns.org&type=ws&host=lot.sosant.dpdns.org&path=%2F%3Fed%3D2560#VL-0327-060
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#VL-0327-061
