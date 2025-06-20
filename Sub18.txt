@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://e7e245ab-bc9c-4f3f-a8aa-d366efd55d9c@172.66.47.61:2053?security=tls&sni=maHdiSERVEr-KSN.PAGeS.DEv&type=ws&host=mahdiserver-ksn.pages.dev&path=%2Fhphcen6K44Q23UZp%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.61:2053
 vless://0d7bff32-241b-4f97-af9a-f8e7c7fe8ce3@104.21.7.193:8880?type=ws&host=0602.eshroy192.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.7.193:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.205:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.205:8880
 vless://da8e396e-5430-4214-b221-8f6836db5507@162.159.152.4:443?security=tls&sni=disvpn-channel.us.kg&type=ws&host=disvpn-channel.us.kg&path=%2F---------DisVpn---------DisVpn---------DisVpn&fp=randomized&alpn=null#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.4:443
@@ -603,3 +602,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.29:8880?type=ws&host=hk
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.231.62:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.231.62:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.92.9.136:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-154.92.9.136:8880
 vless://56497add-68ca-4500-b8e2-9f7003382bbe@[2606:4700:20::681a:6d6]:443?security=tls&sni=rayan-fg-3.medicalhistory.filegear-sg.me&type=ws&host=rayan-fg-3.medicalhistory.filegear-sg.me&path=/?ed%3D2560&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:20::681a:6d6]:443
+vless://3232953e-5959-495c-b969-d6d86a635089@188.114.99.144:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.144:443

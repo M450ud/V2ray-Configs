@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.126:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.126:8880
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?security=tls&sni=d5.medicaltreatment.ir&type=ws&host=d5.medicaltreatment.ir&path=Telegram%40WedBaZ%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.185:443
 vless://44ec20e3-1c65-42d0-acb9-46d53f195e8a@188.121.117.20:2398?security=none&type=tcp&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.121.117.20:2398
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.81.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.251.81.63:8880
@@ -603,3 +602,4 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.47.107:443?sni=xv6.jpmj.dpdn
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.158.83:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.158.83:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-108.165.216.20:8880
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.32.1:8880?security=none&type=ws&host=digitalscientificresearchgroup.ir&path=%2FTM-%40AZARBAYJAB1%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.1:8880
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@205.233.181.199:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2FoiBBYyE4WkprI2wD%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.199:443
