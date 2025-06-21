@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
-	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
-	"proxyEnable" : false,
-	"pacDirectGoProxy" : false,
-	"proxyType" : 0,
-	"proxyHost" : "",
-	"proxyPort" : 0,
 	"proxyAuthUser" : "",
 	"proxyAuthPass" : "",
 	"proxyUserAgent" : "",
@@ -603,3 +596,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156
 trojan://Aimer@104.16.158.152:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A560
 trojan://Aimer@104.26.15.110:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A561
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:1490#%E6%9C%AA%E7%9F%A562%203.3MB%2Fs
+trojan://Aimer@104.21.236.132:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A563
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%E6%9C%AA%E7%9F%A564%203.5MB%2Fs
+trojan://Aimer@162.159.129.240:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A565
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.143:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A566
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.214:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A567
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc=@144.126.146.38:30789#US16%205.6MB%2Fs
+ss://YWVzLTI1Ni1nY206TzU1STVTMzAzNk1JVUo4RQ==@185.192.124.41:20013#%E6%9C%AA%E7%9F%A568
